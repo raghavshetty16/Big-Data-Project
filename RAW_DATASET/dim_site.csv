@@ -1,0 +1,301 @@
+site_id,site_name,state,region,wind_zone_class
+1,WindSite_0001,Odisha,East,Medium
+2,WindSite_0002,Gujarat,West,Medium
+3,WindSite_0003,Andhra Pradesh,South,Medium
+4,WindSite_0004,Maharashtra,West,Medium
+5,WindSite_0005,Gujarat,West,Medium
+6,WindSite_0006,Telangana,South,Low
+7,WindSite_0007,Andhra Pradesh,South,Medium
+8,WindSite_0008,Kerala,South,High
+9,WindSite_0009,Maharashtra,West,High
+10,WindSite_0010,Andhra Pradesh,South,Medium
+11,WindSite_0011,Maharashtra,West,High
+12,WindSite_0012,Rajasthan,North,High
+13,WindSite_0013,Tamil Nadu,South,Medium
+14,WindSite_0014,Madhya Pradesh,Central,Medium
+15,WindSite_0015,Telangana,South,High
+16,WindSite_0016,Madhya Pradesh,Central,High
+17,WindSite_0017,Tamil Nadu,South,Medium
+18,WindSite_0018,Madhya Pradesh,Central,High
+19,WindSite_0019,Gujarat,West,Low
+20,WindSite_0020,Madhya Pradesh,Central,Low
+21,WindSite_0021,Andhra Pradesh,South,High
+22,WindSite_0022,Rajasthan,North,Low
+23,WindSite_0023,Rajasthan,North,Medium
+24,WindSite_0024,Rajasthan,North,Low
+25,WindSite_0025,Madhya Pradesh,Central,Medium
+26,WindSite_0026,Kerala,South,Medium
+27,WindSite_0027,Maharashtra,West,High
+28,WindSite_0028,Rajasthan,North,High
+29,WindSite_0029,Tamil Nadu,South,Low
+30,WindSite_0030,Andhra Pradesh,South,High
+31,WindSite_0031,Madhya Pradesh,Central,High
+32,WindSite_0032,Madhya Pradesh,Central,Low
+33,WindSite_0033,Madhya Pradesh,Central,High
+34,WindSite_0034,Andhra Pradesh,South,Low
+35,WindSite_0035,Maharashtra,West,Low
+36,WindSite_0036,Odisha,East,High
+37,WindSite_0037,Kerala,South,High
+38,WindSite_0038,Gujarat,West,High
+39,WindSite_0039,Karnataka,South,Low
+40,WindSite_0040,Kerala,South,Medium
+41,WindSite_0041,Gujarat,West,Low
+42,WindSite_0042,Karnataka,South,Medium
+43,WindSite_0043,Kerala,South,Low
+44,WindSite_0044,Madhya Pradesh,Central,Medium
+45,WindSite_0045,Gujarat,West,High
+46,WindSite_0046,Kerala,South,Low
+47,WindSite_0047,Kerala,South,High
+48,WindSite_0048,Telangana,South,Medium
+49,WindSite_0049,Gujarat,West,High
+50,WindSite_0050,Madhya Pradesh,Central,High
+51,WindSite_0051,Odisha,East,Medium
+52,WindSite_0052,Karnataka,South,Medium
+53,WindSite_0053,Andhra Pradesh,South,High
+54,WindSite_0054,Madhya Pradesh,Central,Medium
+55,WindSite_0055,Kerala,South,Medium
+56,WindSite_0056,Gujarat,West,Low
+57,WindSite_0057,Maharashtra,West,Low
+58,WindSite_0058,Gujarat,West,Medium
+59,WindSite_0059,Odisha,East,Low
+60,WindSite_0060,Madhya Pradesh,Central,Medium
+61,WindSite_0061,Rajasthan,North,Medium
+62,WindSite_0062,Karnataka,South,Low
+63,WindSite_0063,Andhra Pradesh,South,Low
+64,WindSite_0064,Gujarat,West,Medium
+65,WindSite_0065,Andhra Pradesh,South,Low
+66,WindSite_0066,Gujarat,West,Medium
+67,WindSite_0067,Kerala,South,High
+68,WindSite_0068,Maharashtra,West,Low
+69,WindSite_0069,Maharashtra,West,Medium
+70,WindSite_0070,Gujarat,West,Medium
+71,WindSite_0071,Telangana,South,Medium
+72,WindSite_0072,Rajasthan,North,Low
+73,WindSite_0073,Karnataka,South,High
+74,WindSite_0074,Andhra Pradesh,South,Medium
+75,WindSite_0075,Madhya Pradesh,Central,Low
+76,WindSite_0076,Andhra Pradesh,South,Medium
+77,WindSite_0077,Maharashtra,West,High
+78,WindSite_0078,Madhya Pradesh,Central,Medium
+79,WindSite_0079,Tamil Nadu,South,High
+80,WindSite_0080,Tamil Nadu,South,Low
+81,WindSite_0081,Kerala,South,High
+82,WindSite_0082,Maharashtra,West,Medium
+83,WindSite_0083,Odisha,East,Medium
+84,WindSite_0084,Kerala,South,Medium
+85,WindSite_0085,Odisha,East,High
+86,WindSite_0086,Telangana,South,Medium
+87,WindSite_0087,Gujarat,West,Low
+88,WindSite_0088,Andhra Pradesh,South,Medium
+89,WindSite_0089,Andhra Pradesh,South,High
+90,WindSite_0090,Telangana,South,High
+91,WindSite_0091,Kerala,South,Medium
+92,WindSite_0092,Telangana,South,High
+93,WindSite_0093,Madhya Pradesh,Central,High
+94,WindSite_0094,Maharashtra,West,High
+95,WindSite_0095,Maharashtra,West,Medium
+96,WindSite_0096,Madhya Pradesh,Central,High
+97,WindSite_0097,Odisha,East,Medium
+98,WindSite_0098,Kerala,South,High
+99,WindSite_0099,Gujarat,West,Medium
+100,WindSite_0100,Rajasthan,North,Medium
+101,WindSite_0101,Telangana,South,High
+102,WindSite_0102,Karnataka,South,Medium
+103,WindSite_0103,Andhra Pradesh,South,Low
+104,WindSite_0104,Kerala,South,Low
+105,WindSite_0105,Madhya Pradesh,Central,High
+106,WindSite_0106,Madhya Pradesh,Central,Medium
+107,WindSite_0107,Karnataka,South,Medium
+108,WindSite_0108,Karnataka,South,Medium
+109,WindSite_0109,Madhya Pradesh,Central,Low
+110,WindSite_0110,Rajasthan,North,Low
+111,WindSite_0111,Tamil Nadu,South,Medium
+112,WindSite_0112,Maharashtra,West,Medium
+113,WindSite_0113,Karnataka,South,High
+114,WindSite_0114,Andhra Pradesh,South,Low
+115,WindSite_0115,Kerala,South,Low
+116,WindSite_0116,Maharashtra,West,Medium
+117,WindSite_0117,Kerala,South,Medium
+118,WindSite_0118,Andhra Pradesh,South,High
+119,WindSite_0119,Odisha,East,Low
+120,WindSite_0120,Telangana,South,Medium
+121,WindSite_0121,Karnataka,South,Medium
+122,WindSite_0122,Karnataka,South,High
+123,WindSite_0123,Maharashtra,West,Medium
+124,WindSite_0124,Andhra Pradesh,South,High
+125,WindSite_0125,Karnataka,South,High
+126,WindSite_0126,Rajasthan,North,High
+127,WindSite_0127,Andhra Pradesh,South,Low
+128,WindSite_0128,Rajasthan,North,Medium
+129,WindSite_0129,Tamil Nadu,South,High
+130,WindSite_0130,Gujarat,West,Medium
+131,WindSite_0131,Andhra Pradesh,South,Medium
+132,WindSite_0132,Gujarat,West,Medium
+133,WindSite_0133,Karnataka,South,High
+134,WindSite_0134,Madhya Pradesh,Central,Medium
+135,WindSite_0135,Karnataka,South,Medium
+136,WindSite_0136,Gujarat,West,Medium
+137,WindSite_0137,Karnataka,South,Medium
+138,WindSite_0138,Rajasthan,North,High
+139,WindSite_0139,Rajasthan,North,High
+140,WindSite_0140,Gujarat,West,Low
+141,WindSite_0141,Andhra Pradesh,South,Medium
+142,WindSite_0142,Karnataka,South,High
+143,WindSite_0143,Karnataka,South,Low
+144,WindSite_0144,Rajasthan,North,Medium
+145,WindSite_0145,Gujarat,West,Low
+146,WindSite_0146,Kerala,South,High
+147,WindSite_0147,Maharashtra,West,High
+148,WindSite_0148,Kerala,South,High
+149,WindSite_0149,Madhya Pradesh,Central,Medium
+150,WindSite_0150,Odisha,East,High
+151,WindSite_0151,Karnataka,South,High
+152,WindSite_0152,Gujarat,West,Medium
+153,WindSite_0153,Odisha,East,Medium
+154,WindSite_0154,Gujarat,West,High
+155,WindSite_0155,Karnataka,South,Medium
+156,WindSite_0156,Andhra Pradesh,South,Medium
+157,WindSite_0157,Andhra Pradesh,South,Low
+158,WindSite_0158,Madhya Pradesh,Central,Medium
+159,WindSite_0159,Kerala,South,Medium
+160,WindSite_0160,Gujarat,West,Medium
+161,WindSite_0161,Andhra Pradesh,South,High
+162,WindSite_0162,Andhra Pradesh,South,Low
+163,WindSite_0163,Odisha,East,High
+164,WindSite_0164,Tamil Nadu,South,Low
+165,WindSite_0165,Kerala,South,Medium
+166,WindSite_0166,Gujarat,West,High
+167,WindSite_0167,Kerala,South,High
+168,WindSite_0168,Rajasthan,North,Medium
+169,WindSite_0169,Maharashtra,West,Medium
+170,WindSite_0170,Telangana,South,High
+171,WindSite_0171,Kerala,South,High
+172,WindSite_0172,Karnataka,South,High
+173,WindSite_0173,Madhya Pradesh,Central,Medium
+174,WindSite_0174,Tamil Nadu,South,Low
+175,WindSite_0175,Maharashtra,West,Medium
+176,WindSite_0176,Karnataka,South,High
+177,WindSite_0177,Gujarat,West,High
+178,WindSite_0178,Madhya Pradesh,Central,Medium
+179,WindSite_0179,Kerala,South,Medium
+180,WindSite_0180,Karnataka,South,Low
+181,WindSite_0181,Rajasthan,North,High
+182,WindSite_0182,Andhra Pradesh,South,Medium
+183,WindSite_0183,Telangana,South,High
+184,WindSite_0184,Karnataka,South,High
+185,WindSite_0185,Andhra Pradesh,South,Medium
+186,WindSite_0186,Odisha,East,Medium
+187,WindSite_0187,Kerala,South,Low
+188,WindSite_0188,Madhya Pradesh,Central,High
+189,WindSite_0189,Andhra Pradesh,South,Medium
+190,WindSite_0190,Gujarat,West,High
+191,WindSite_0191,Andhra Pradesh,South,Medium
+192,WindSite_0192,Odisha,East,Medium
+193,WindSite_0193,Madhya Pradesh,Central,High
+194,WindSite_0194,Odisha,East,Medium
+195,WindSite_0195,Odisha,East,High
+196,WindSite_0196,Kerala,South,Low
+197,WindSite_0197,Tamil Nadu,South,Medium
+198,WindSite_0198,Madhya Pradesh,Central,High
+199,WindSite_0199,Karnataka,South,Medium
+200,WindSite_0200,Andhra Pradesh,South,High
+201,WindSite_0201,Telangana,South,Low
+202,WindSite_0202,Kerala,South,High
+203,WindSite_0203,Gujarat,West,Medium
+204,WindSite_0204,Madhya Pradesh,Central,High
+205,WindSite_0205,Telangana,South,Medium
+206,WindSite_0206,Andhra Pradesh,South,Medium
+207,WindSite_0207,Maharashtra,West,Medium
+208,WindSite_0208,Maharashtra,West,Medium
+209,WindSite_0209,Kerala,South,Medium
+210,WindSite_0210,Madhya Pradesh,Central,High
+211,WindSite_0211,Andhra Pradesh,South,High
+212,WindSite_0212,Andhra Pradesh,South,High
+213,WindSite_0213,Kerala,South,Medium
+214,WindSite_0214,Karnataka,South,Low
+215,WindSite_0215,Tamil Nadu,South,High
+216,WindSite_0216,Tamil Nadu,South,Medium
+217,WindSite_0217,Kerala,South,High
+218,WindSite_0218,Karnataka,South,Medium
+219,WindSite_0219,Madhya Pradesh,Central,High
+220,WindSite_0220,Rajasthan,North,Medium
+221,WindSite_0221,Rajasthan,North,Medium
+222,WindSite_0222,Maharashtra,West,Low
+223,WindSite_0223,Maharashtra,West,High
+224,WindSite_0224,Telangana,South,Medium
+225,WindSite_0225,Gujarat,West,High
+226,WindSite_0226,Gujarat,West,Medium
+227,WindSite_0227,Rajasthan,North,High
+228,WindSite_0228,Karnataka,South,Medium
+229,WindSite_0229,Rajasthan,North,Medium
+230,WindSite_0230,Madhya Pradesh,Central,Medium
+231,WindSite_0231,Odisha,East,Medium
+232,WindSite_0232,Gujarat,West,Medium
+233,WindSite_0233,Rajasthan,North,High
+234,WindSite_0234,Rajasthan,North,Low
+235,WindSite_0235,Rajasthan,North,Medium
+236,WindSite_0236,Telangana,South,High
+237,WindSite_0237,Madhya Pradesh,Central,High
+238,WindSite_0238,Odisha,East,Medium
+239,WindSite_0239,Karnataka,South,Medium
+240,WindSite_0240,Maharashtra,West,High
+241,WindSite_0241,Gujarat,West,Medium
+242,WindSite_0242,Madhya Pradesh,Central,High
+243,WindSite_0243,Madhya Pradesh,Central,High
+244,WindSite_0244,Kerala,South,High
+245,WindSite_0245,Rajasthan,North,Medium
+246,WindSite_0246,Kerala,South,Medium
+247,WindSite_0247,Tamil Nadu,South,Medium
+248,WindSite_0248,Gujarat,West,Low
+249,WindSite_0249,Kerala,South,High
+250,WindSite_0250,Karnataka,South,High
+251,WindSite_0251,Gujarat,West,Medium
+252,WindSite_0252,Gujarat,West,Medium
+253,WindSite_0253,Gujarat,West,High
+254,WindSite_0254,Maharashtra,West,Medium
+255,WindSite_0255,Rajasthan,North,Medium
+256,WindSite_0256,Gujarat,West,Low
+257,WindSite_0257,Andhra Pradesh,South,High
+258,WindSite_0258,Madhya Pradesh,Central,Medium
+259,WindSite_0259,Tamil Nadu,South,Medium
+260,WindSite_0260,Karnataka,South,High
+261,WindSite_0261,Andhra Pradesh,South,Low
+262,WindSite_0262,Odisha,East,Medium
+263,WindSite_0263,Maharashtra,West,Medium
+264,WindSite_0264,Telangana,South,Medium
+265,WindSite_0265,Kerala,South,Low
+266,WindSite_0266,Maharashtra,West,Medium
+267,WindSite_0267,Tamil Nadu,South,Low
+268,WindSite_0268,Gujarat,West,Medium
+269,WindSite_0269,Andhra Pradesh,South,Low
+270,WindSite_0270,Tamil Nadu,South,Medium
+271,WindSite_0271,Tamil Nadu,South,Low
+272,WindSite_0272,Kerala,South,Low
+273,WindSite_0273,Kerala,South,Low
+274,WindSite_0274,Andhra Pradesh,South,Low
+275,WindSite_0275,Gujarat,West,Medium
+276,WindSite_0276,Andhra Pradesh,South,Medium
+277,WindSite_0277,Madhya Pradesh,Central,Low
+278,WindSite_0278,Kerala,South,Low
+279,WindSite_0279,Andhra Pradesh,South,High
+280,WindSite_0280,Rajasthan,North,Medium
+281,WindSite_0281,Tamil Nadu,South,High
+282,WindSite_0282,Rajasthan,North,High
+283,WindSite_0283,Madhya Pradesh,Central,Medium
+284,WindSite_0284,Telangana,South,High
+285,WindSite_0285,Gujarat,West,Medium
+286,WindSite_0286,Gujarat,West,High
+287,WindSite_0287,Maharashtra,West,High
+288,WindSite_0288,Gujarat,West,Medium
+289,WindSite_0289,Rajasthan,North,High
+290,WindSite_0290,Telangana,South,Medium
+291,WindSite_0291,Maharashtra,West,Medium
+292,WindSite_0292,Andhra Pradesh,South,High
+293,WindSite_0293,Andhra Pradesh,South,Low
+294,WindSite_0294,Gujarat,West,High
+295,WindSite_0295,Karnataka,South,Low
+296,WindSite_0296,Kerala,South,Medium
+297,WindSite_0297,Madhya Pradesh,Central,Low
+298,WindSite_0298,Gujarat,West,Low
+299,WindSite_0299,Gujarat,West,Medium
+300,WindSite_0300,Maharashtra,West,High

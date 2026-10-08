@@ -1,0 +1,5001 @@
+customer_id,customer_name,segment,state
+1,Customer_00001,C&I,Telangana
+2,Customer_00002,IPP,Andhra Pradesh
+3,Customer_00003,Retail,Maharashtra
+4,Customer_00004,IPP,Karnataka
+5,Customer_00005,IPP,Odisha
+6,Customer_00006,C&I,Gujarat
+7,Customer_00007,C&I,Andhra Pradesh
+8,Customer_00008,PSU,Rajasthan
+9,Customer_00009,PSU,Madhya Pradesh
+10,Customer_00010,C&I,Gujarat
+11,Customer_00011,PSU,Kerala
+12,Customer_00012,PSU,Telangana
+13,Customer_00013,IPP,Tamil Nadu
+14,Customer_00014,C&I,Andhra Pradesh
+15,Customer_00015,IPP,Tamil Nadu
+16,Customer_00016,PSU,Maharashtra
+17,Customer_00017,C&I,Kerala
+18,Customer_00018,C&I,Gujarat
+19,Customer_00019,C&I,Karnataka
+20,Customer_00020,C&I,Madhya Pradesh
+21,Customer_00021,C&I,Karnataka
+22,Customer_00022,IPP,Kerala
+23,Customer_00023,PSU,Karnataka
+24,Customer_00024,PSU,Gujarat
+25,Customer_00025,PSU,Maharashtra
+26,Customer_00026,PSU,Odisha
+27,Customer_00027,C&I,Maharashtra
+28,Customer_00028,IPP,Madhya Pradesh
+29,Customer_00029,C&I,Tamil Nadu
+30,Customer_00030,C&I,Telangana
+31,Customer_00031,IPP,Telangana
+32,Customer_00032,PSU,Rajasthan
+33,Customer_00033,IPP,Telangana
+34,Customer_00034,IPP,Gujarat
+35,Customer_00035,C&I,Tamil Nadu
+36,Customer_00036,IPP,Madhya Pradesh
+37,Customer_00037,IPP,Karnataka
+38,Customer_00038,PSU,Andhra Pradesh
+39,Customer_00039,IPP,Madhya Pradesh
+40,Customer_00040,IPP,Telangana
+41,Customer_00041,C&I,Maharashtra
+42,Customer_00042,IPP,Kerala
+43,Customer_00043,IPP,Rajasthan
+44,Customer_00044,PSU,Gujarat
+45,Customer_00045,C&I,Rajasthan
+46,Customer_00046,C&I,Kerala
+47,Customer_00047,IPP,Rajasthan
+48,Customer_00048,IPP,Andhra Pradesh
+49,Customer_00049,IPP,Telangana
+50,Customer_00050,IPP,Karnataka
+51,Customer_00051,C&I,Odisha
+52,Customer_00052,C&I,Tamil Nadu
+53,Customer_00053,PSU,Gujarat
+54,Customer_00054,IPP,Telangana
+55,Customer_00055,IPP,Tamil Nadu
+56,Customer_00056,C&I,Karnataka
+57,Customer_00057,IPP,Madhya Pradesh
+58,Customer_00058,C&I,Rajasthan
+59,Customer_00059,IPP,Maharashtra
+60,Customer_00060,C&I,Kerala
+61,Customer_00061,C&I,Gujarat
+62,Customer_00062,Retail,Maharashtra
+63,Customer_00063,IPP,Kerala
+64,Customer_00064,C&I,Telangana
+65,Customer_00065,PSU,Kerala
+66,Customer_00066,PSU,Telangana
+67,Customer_00067,C&I,Karnataka
+68,Customer_00068,C&I,Karnataka
+69,Customer_00069,IPP,Kerala
+70,Customer_00070,C&I,Telangana
+71,Customer_00071,IPP,Maharashtra
+72,Customer_00072,C&I,Karnataka
+73,Customer_00073,PSU,Odisha
+74,Customer_00074,PSU,Madhya Pradesh
+75,Customer_00075,IPP,Karnataka
+76,Customer_00076,IPP,Gujarat
+77,Customer_00077,C&I,Madhya Pradesh
+78,Customer_00078,IPP,Telangana
+79,Customer_00079,IPP,Gujarat
+80,Customer_00080,C&I,Madhya Pradesh
+81,Customer_00081,C&I,Tamil Nadu
+82,Customer_00082,IPP,Telangana
+83,Customer_00083,Retail,Tamil Nadu
+84,Customer_00084,IPP,Karnataka
+85,Customer_00085,IPP,Maharashtra
+86,Customer_00086,C&I,Tamil Nadu
+87,Customer_00087,IPP,Kerala
+88,Customer_00088,PSU,Gujarat
+89,Customer_00089,IPP,Gujarat
+90,Customer_00090,IPP,Karnataka
+91,Customer_00091,IPP,Kerala
+92,Customer_00092,IPP,Odisha
+93,Customer_00093,C&I,Rajasthan
+94,Customer_00094,IPP,Odisha
+95,Customer_00095,C&I,Karnataka
+96,Customer_00096,PSU,Gujarat
+97,Customer_00097,C&I,Odisha
+98,Customer_00098,IPP,Maharashtra
+99,Customer_00099,IPP,Tamil Nadu
+100,Customer_00100,C&I,Rajasthan
+101,Customer_00101,PSU,Madhya Pradesh
+102,Customer_00102,PSU,Maharashtra
+103,Customer_00103,Retail,Tamil Nadu
+104,Customer_00104,C&I,Rajasthan
+105,Customer_00105,IPP,Gujarat
+106,Customer_00106,C&I,Maharashtra
+107,Customer_00107,PSU,Odisha
+108,Customer_00108,C&I,Rajasthan
+109,Customer_00109,C&I,Kerala
+110,Customer_00110,IPP,Kerala
+111,Customer_00111,Retail,Rajasthan
+112,Customer_00112,C&I,Andhra Pradesh
+113,Customer_00113,IPP,Gujarat
+114,Customer_00114,Retail,Tamil Nadu
+115,Customer_00115,PSU,Odisha
+116,Customer_00116,PSU,Rajasthan
+117,Customer_00117,IPP,Odisha
+118,Customer_00118,C&I,Gujarat
+119,Customer_00119,IPP,Telangana
+120,Customer_00120,C&I,Odisha
+121,Customer_00121,PSU,Gujarat
+122,Customer_00122,C&I,Gujarat
+123,Customer_00123,C&I,Kerala
+124,Customer_00124,C&I,Gujarat
+125,Customer_00125,C&I,Odisha
+126,Customer_00126,C&I,Maharashtra
+127,Customer_00127,PSU,Andhra Pradesh
+128,Customer_00128,C&I,Rajasthan
+129,Customer_00129,PSU,Maharashtra
+130,Customer_00130,Retail,Karnataka
+131,Customer_00131,C&I,Andhra Pradesh
+132,Customer_00132,C&I,Tamil Nadu
+133,Customer_00133,C&I,Rajasthan
+134,Customer_00134,IPP,Kerala
+135,Customer_00135,IPP,Tamil Nadu
+136,Customer_00136,IPP,Telangana
+137,Customer_00137,C&I,Andhra Pradesh
+138,Customer_00138,PSU,Gujarat
+139,Customer_00139,PSU,Telangana
+140,Customer_00140,C&I,Karnataka
+141,Customer_00141,Retail,Tamil Nadu
+142,Customer_00142,C&I,Kerala
+143,Customer_00143,IPP,Maharashtra
+144,Customer_00144,IPP,Maharashtra
+145,Customer_00145,C&I,Kerala
+146,Customer_00146,Retail,Karnataka
+147,Customer_00147,IPP,Gujarat
+148,Customer_00148,IPP,Odisha
+149,Customer_00149,C&I,Tamil Nadu
+150,Customer_00150,IPP,Gujarat
+151,Customer_00151,IPP,Kerala
+152,Customer_00152,Retail,Telangana
+153,Customer_00153,IPP,Odisha
+154,Customer_00154,PSU,Odisha
+155,Customer_00155,C&I,Gujarat
+156,Customer_00156,PSU,Rajasthan
+157,Customer_00157,C&I,Telangana
+158,Customer_00158,IPP,Telangana
+159,Customer_00159,PSU,Madhya Pradesh
+160,Customer_00160,IPP,Rajasthan
+161,Customer_00161,C&I,Karnataka
+162,Customer_00162,IPP,Tamil Nadu
+163,Customer_00163,PSU,Madhya Pradesh
+164,Customer_00164,IPP,Andhra Pradesh
+165,Customer_00165,C&I,Rajasthan
+166,Customer_00166,PSU,Odisha
+167,Customer_00167,C&I,Odisha
+168,Customer_00168,C&I,Karnataka
+169,Customer_00169,C&I,Andhra Pradesh
+170,Customer_00170,PSU,Maharashtra
+171,Customer_00171,C&I,Maharashtra
+172,Customer_00172,Retail,Andhra Pradesh
+173,Customer_00173,C&I,Tamil Nadu
+174,Customer_00174,C&I,Karnataka
+175,Customer_00175,C&I,Tamil Nadu
+176,Customer_00176,C&I,Tamil Nadu
+177,Customer_00177,C&I,Tamil Nadu
+178,Customer_00178,IPP,Andhra Pradesh
+179,Customer_00179,C&I,Madhya Pradesh
+180,Customer_00180,C&I,Kerala
+181,Customer_00181,PSU,Andhra Pradesh
+182,Customer_00182,PSU,Andhra Pradesh
+183,Customer_00183,C&I,Gujarat
+184,Customer_00184,C&I,Rajasthan
+185,Customer_00185,IPP,Rajasthan
+186,Customer_00186,IPP,Rajasthan
+187,Customer_00187,C&I,Gujarat
+188,Customer_00188,IPP,Odisha
+189,Customer_00189,PSU,Tamil Nadu
+190,Customer_00190,C&I,Karnataka
+191,Customer_00191,C&I,Kerala
+192,Customer_00192,PSU,Odisha
+193,Customer_00193,Retail,Kerala
+194,Customer_00194,PSU,Andhra Pradesh
+195,Customer_00195,IPP,Telangana
+196,Customer_00196,PSU,Telangana
+197,Customer_00197,IPP,Tamil Nadu
+198,Customer_00198,IPP,Kerala
+199,Customer_00199,IPP,Odisha
+200,Customer_00200,C&I,Madhya Pradesh
+201,Customer_00201,C&I,Madhya Pradesh
+202,Customer_00202,C&I,Karnataka
+203,Customer_00203,IPP,Karnataka
+204,Customer_00204,C&I,Maharashtra
+205,Customer_00205,C&I,Maharashtra
+206,Customer_00206,C&I,Karnataka
+207,Customer_00207,IPP,Maharashtra
+208,Customer_00208,C&I,Telangana
+209,Customer_00209,Retail,Kerala
+210,Customer_00210,IPP,Telangana
+211,Customer_00211,IPP,Maharashtra
+212,Customer_00212,PSU,Karnataka
+213,Customer_00213,PSU,Madhya Pradesh
+214,Customer_00214,IPP,Telangana
+215,Customer_00215,C&I,Madhya Pradesh
+216,Customer_00216,PSU,Gujarat
+217,Customer_00217,IPP,Rajasthan
+218,Customer_00218,PSU,Kerala
+219,Customer_00219,IPP,Tamil Nadu
+220,Customer_00220,C&I,Madhya Pradesh
+221,Customer_00221,C&I,Telangana
+222,Customer_00222,Retail,Telangana
+223,Customer_00223,Retail,Tamil Nadu
+224,Customer_00224,PSU,Karnataka
+225,Customer_00225,PSU,Andhra Pradesh
+226,Customer_00226,PSU,Kerala
+227,Customer_00227,C&I,Kerala
+228,Customer_00228,IPP,Gujarat
+229,Customer_00229,IPP,Gujarat
+230,Customer_00230,C&I,Tamil Nadu
+231,Customer_00231,IPP,Andhra Pradesh
+232,Customer_00232,IPP,Madhya Pradesh
+233,Customer_00233,PSU,Andhra Pradesh
+234,Customer_00234,PSU,Andhra Pradesh
+235,Customer_00235,IPP,Karnataka
+236,Customer_00236,Retail,Odisha
+237,Customer_00237,C&I,Tamil Nadu
+238,Customer_00238,C&I,Karnataka
+239,Customer_00239,IPP,Madhya Pradesh
+240,Customer_00240,PSU,Rajasthan
+241,Customer_00241,C&I,Madhya Pradesh
+242,Customer_00242,PSU,Odisha
+243,Customer_00243,C&I,Telangana
+244,Customer_00244,C&I,Andhra Pradesh
+245,Customer_00245,C&I,Maharashtra
+246,Customer_00246,C&I,Gujarat
+247,Customer_00247,IPP,Kerala
+248,Customer_00248,C&I,Tamil Nadu
+249,Customer_00249,IPP,Telangana
+250,Customer_00250,Retail,Maharashtra
+251,Customer_00251,IPP,Telangana
+252,Customer_00252,C&I,Madhya Pradesh
+253,Customer_00253,PSU,Kerala
+254,Customer_00254,Retail,Karnataka
+255,Customer_00255,PSU,Tamil Nadu
+256,Customer_00256,IPP,Tamil Nadu
+257,Customer_00257,IPP,Tamil Nadu
+258,Customer_00258,IPP,Andhra Pradesh
+259,Customer_00259,IPP,Gujarat
+260,Customer_00260,PSU,Karnataka
+261,Customer_00261,IPP,Rajasthan
+262,Customer_00262,IPP,Gujarat
+263,Customer_00263,Retail,Maharashtra
+264,Customer_00264,PSU,Andhra Pradesh
+265,Customer_00265,Retail,Tamil Nadu
+266,Customer_00266,PSU,Madhya Pradesh
+267,Customer_00267,PSU,Rajasthan
+268,Customer_00268,C&I,Madhya Pradesh
+269,Customer_00269,IPP,Kerala
+270,Customer_00270,IPP,Madhya Pradesh
+271,Customer_00271,PSU,Gujarat
+272,Customer_00272,C&I,Rajasthan
+273,Customer_00273,C&I,Rajasthan
+274,Customer_00274,PSU,Odisha
+275,Customer_00275,Retail,Tamil Nadu
+276,Customer_00276,IPP,Kerala
+277,Customer_00277,C&I,Gujarat
+278,Customer_00278,C&I,Odisha
+279,Customer_00279,PSU,Madhya Pradesh
+280,Customer_00280,C&I,Rajasthan
+281,Customer_00281,C&I,Odisha
+282,Customer_00282,PSU,Kerala
+283,Customer_00283,PSU,Kerala
+284,Customer_00284,IPP,Odisha
+285,Customer_00285,C&I,Odisha
+286,Customer_00286,C&I,Tamil Nadu
+287,Customer_00287,IPP,Tamil Nadu
+288,Customer_00288,PSU,Andhra Pradesh
+289,Customer_00289,PSU,Madhya Pradesh
+290,Customer_00290,C&I,Odisha
+291,Customer_00291,C&I,Telangana
+292,Customer_00292,C&I,Gujarat
+293,Customer_00293,Retail,Telangana
+294,Customer_00294,IPP,Andhra Pradesh
+295,Customer_00295,IPP,Gujarat
+296,Customer_00296,C&I,Rajasthan
+297,Customer_00297,PSU,Odisha
+298,Customer_00298,C&I,Maharashtra
+299,Customer_00299,C&I,Gujarat
+300,Customer_00300,Retail,Andhra Pradesh
+301,Customer_00301,PSU,Karnataka
+302,Customer_00302,IPP,Odisha
+303,Customer_00303,C&I,Andhra Pradesh
+304,Customer_00304,Retail,Andhra Pradesh
+305,Customer_00305,IPP,Maharashtra
+306,Customer_00306,IPP,Rajasthan
+307,Customer_00307,Retail,Madhya Pradesh
+308,Customer_00308,C&I,Karnataka
+309,Customer_00309,IPP,Andhra Pradesh
+310,Customer_00310,IPP,Tamil Nadu
+311,Customer_00311,C&I,Tamil Nadu
+312,Customer_00312,C&I,Gujarat
+313,Customer_00313,IPP,Maharashtra
+314,Customer_00314,IPP,Karnataka
+315,Customer_00315,IPP,Madhya Pradesh
+316,Customer_00316,IPP,Odisha
+317,Customer_00317,IPP,Rajasthan
+318,Customer_00318,C&I,Kerala
+319,Customer_00319,IPP,Gujarat
+320,Customer_00320,IPP,Tamil Nadu
+321,Customer_00321,IPP,Rajasthan
+322,Customer_00322,IPP,Andhra Pradesh
+323,Customer_00323,IPP,Telangana
+324,Customer_00324,IPP,Madhya Pradesh
+325,Customer_00325,PSU,Maharashtra
+326,Customer_00326,IPP,Tamil Nadu
+327,Customer_00327,IPP,Karnataka
+328,Customer_00328,C&I,Kerala
+329,Customer_00329,PSU,Andhra Pradesh
+330,Customer_00330,PSU,Tamil Nadu
+331,Customer_00331,IPP,Kerala
+332,Customer_00332,IPP,Rajasthan
+333,Customer_00333,C&I,Telangana
+334,Customer_00334,PSU,Maharashtra
+335,Customer_00335,C&I,Karnataka
+336,Customer_00336,C&I,Odisha
+337,Customer_00337,C&I,Odisha
+338,Customer_00338,C&I,Andhra Pradesh
+339,Customer_00339,C&I,Maharashtra
+340,Customer_00340,C&I,Gujarat
+341,Customer_00341,C&I,Telangana
+342,Customer_00342,PSU,Telangana
+343,Customer_00343,C&I,Odisha
+344,Customer_00344,C&I,Rajasthan
+345,Customer_00345,C&I,Madhya Pradesh
+346,Customer_00346,C&I,Andhra Pradesh
+347,Customer_00347,Retail,Kerala
+348,Customer_00348,PSU,Karnataka
+349,Customer_00349,IPP,Maharashtra
+350,Customer_00350,PSU,Telangana
+351,Customer_00351,IPP,Maharashtra
+352,Customer_00352,C&I,Madhya Pradesh
+353,Customer_00353,IPP,Rajasthan
+354,Customer_00354,C&I,Telangana
+355,Customer_00355,PSU,Tamil Nadu
+356,Customer_00356,Retail,Kerala
+357,Customer_00357,PSU,Andhra Pradesh
+358,Customer_00358,Retail,Madhya Pradesh
+359,Customer_00359,IPP,Tamil Nadu
+360,Customer_00360,C&I,Maharashtra
+361,Customer_00361,PSU,Gujarat
+362,Customer_00362,IPP,Karnataka
+363,Customer_00363,C&I,Karnataka
+364,Customer_00364,C&I,Rajasthan
+365,Customer_00365,C&I,Kerala
+366,Customer_00366,C&I,Tamil Nadu
+367,Customer_00367,IPP,Rajasthan
+368,Customer_00368,IPP,Telangana
+369,Customer_00369,C&I,Karnataka
+370,Customer_00370,C&I,Odisha
+371,Customer_00371,IPP,Odisha
+372,Customer_00372,IPP,Karnataka
+373,Customer_00373,PSU,Madhya Pradesh
+374,Customer_00374,C&I,Telangana
+375,Customer_00375,IPP,Maharashtra
+376,Customer_00376,C&I,Kerala
+377,Customer_00377,IPP,Odisha
+378,Customer_00378,PSU,Madhya Pradesh
+379,Customer_00379,IPP,Odisha
+380,Customer_00380,Retail,Maharashtra
+381,Customer_00381,PSU,Andhra Pradesh
+382,Customer_00382,C&I,Andhra Pradesh
+383,Customer_00383,IPP,Karnataka
+384,Customer_00384,C&I,Gujarat
+385,Customer_00385,Retail,Maharashtra
+386,Customer_00386,IPP,Maharashtra
+387,Customer_00387,C&I,Tamil Nadu
+388,Customer_00388,C&I,Rajasthan
+389,Customer_00389,Retail,Gujarat
+390,Customer_00390,IPP,Karnataka
+391,Customer_00391,IPP,Maharashtra
+392,Customer_00392,C&I,Karnataka
+393,Customer_00393,PSU,Rajasthan
+394,Customer_00394,IPP,Telangana
+395,Customer_00395,IPP,Kerala
+396,Customer_00396,IPP,Kerala
+397,Customer_00397,Retail,Telangana
+398,Customer_00398,PSU,Rajasthan
+399,Customer_00399,PSU,Kerala
+400,Customer_00400,PSU,Gujarat
+401,Customer_00401,PSU,Tamil Nadu
+402,Customer_00402,IPP,Madhya Pradesh
+403,Customer_00403,IPP,Andhra Pradesh
+404,Customer_00404,Retail,Tamil Nadu
+405,Customer_00405,C&I,Kerala
+406,Customer_00406,PSU,Kerala
+407,Customer_00407,C&I,Telangana
+408,Customer_00408,C&I,Rajasthan
+409,Customer_00409,PSU,Gujarat
+410,Customer_00410,IPP,Odisha
+411,Customer_00411,IPP,Kerala
+412,Customer_00412,Retail,Rajasthan
+413,Customer_00413,PSU,Karnataka
+414,Customer_00414,C&I,Rajasthan
+415,Customer_00415,PSU,Andhra Pradesh
+416,Customer_00416,Retail,Karnataka
+417,Customer_00417,C&I,Odisha
+418,Customer_00418,C&I,Kerala
+419,Customer_00419,C&I,Gujarat
+420,Customer_00420,IPP,Telangana
+421,Customer_00421,PSU,Telangana
+422,Customer_00422,PSU,Telangana
+423,Customer_00423,PSU,Telangana
+424,Customer_00424,C&I,Kerala
+425,Customer_00425,IPP,Rajasthan
+426,Customer_00426,PSU,Karnataka
+427,Customer_00427,IPP,Gujarat
+428,Customer_00428,IPP,Andhra Pradesh
+429,Customer_00429,IPP,Gujarat
+430,Customer_00430,PSU,Madhya Pradesh
+431,Customer_00431,C&I,Madhya Pradesh
+432,Customer_00432,PSU,Andhra Pradesh
+433,Customer_00433,PSU,Maharashtra
+434,Customer_00434,C&I,Telangana
+435,Customer_00435,C&I,Andhra Pradesh
+436,Customer_00436,C&I,Andhra Pradesh
+437,Customer_00437,C&I,Odisha
+438,Customer_00438,C&I,Madhya Pradesh
+439,Customer_00439,PSU,Maharashtra
+440,Customer_00440,PSU,Andhra Pradesh
+441,Customer_00441,C&I,Kerala
+442,Customer_00442,IPP,Andhra Pradesh
+443,Customer_00443,IPP,Tamil Nadu
+444,Customer_00444,Retail,Odisha
+445,Customer_00445,IPP,Telangana
+446,Customer_00446,C&I,Karnataka
+447,Customer_00447,IPP,Kerala
+448,Customer_00448,C&I,Tamil Nadu
+449,Customer_00449,C&I,Maharashtra
+450,Customer_00450,C&I,Andhra Pradesh
+451,Customer_00451,IPP,Gujarat
+452,Customer_00452,IPP,Odisha
+453,Customer_00453,IPP,Maharashtra
+454,Customer_00454,Retail,Kerala
+455,Customer_00455,IPP,Telangana
+456,Customer_00456,C&I,Maharashtra
+457,Customer_00457,C&I,Odisha
+458,Customer_00458,C&I,Odisha
+459,Customer_00459,IPP,Kerala
+460,Customer_00460,PSU,Rajasthan
+461,Customer_00461,IPP,Andhra Pradesh
+462,Customer_00462,C&I,Odisha
+463,Customer_00463,C&I,Rajasthan
+464,Customer_00464,C&I,Maharashtra
+465,Customer_00465,C&I,Odisha
+466,Customer_00466,IPP,Rajasthan
+467,Customer_00467,PSU,Telangana
+468,Customer_00468,IPP,Odisha
+469,Customer_00469,Retail,Karnataka
+470,Customer_00470,IPP,Rajasthan
+471,Customer_00471,Retail,Odisha
+472,Customer_00472,PSU,Karnataka
+473,Customer_00473,IPP,Tamil Nadu
+474,Customer_00474,C&I,Karnataka
+475,Customer_00475,Retail,Madhya Pradesh
+476,Customer_00476,IPP,Kerala
+477,Customer_00477,C&I,Karnataka
+478,Customer_00478,Retail,Telangana
+479,Customer_00479,C&I,Tamil Nadu
+480,Customer_00480,C&I,Andhra Pradesh
+481,Customer_00481,IPP,Gujarat
+482,Customer_00482,IPP,Telangana
+483,Customer_00483,C&I,Maharashtra
+484,Customer_00484,C&I,Madhya Pradesh
+485,Customer_00485,C&I,Maharashtra
+486,Customer_00486,IPP,Karnataka
+487,Customer_00487,C&I,Rajasthan
+488,Customer_00488,C&I,Rajasthan
+489,Customer_00489,C&I,Karnataka
+490,Customer_00490,C&I,Karnataka
+491,Customer_00491,C&I,Odisha
+492,Customer_00492,IPP,Rajasthan
+493,Customer_00493,C&I,Karnataka
+494,Customer_00494,IPP,Andhra Pradesh
+495,Customer_00495,PSU,Telangana
+496,Customer_00496,C&I,Rajasthan
+497,Customer_00497,C&I,Maharashtra
+498,Customer_00498,IPP,Odisha
+499,Customer_00499,C&I,Madhya Pradesh
+500,Customer_00500,C&I,Rajasthan
+501,Customer_00501,C&I,Kerala
+502,Customer_00502,IPP,Odisha
+503,Customer_00503,C&I,Telangana
+504,Customer_00504,C&I,Maharashtra
+505,Customer_00505,Retail,Tamil Nadu
+506,Customer_00506,C&I,Kerala
+507,Customer_00507,C&I,Tamil Nadu
+508,Customer_00508,C&I,Telangana
+509,Customer_00509,C&I,Madhya Pradesh
+510,Customer_00510,IPP,Rajasthan
+511,Customer_00511,PSU,Andhra Pradesh
+512,Customer_00512,C&I,Rajasthan
+513,Customer_00513,IPP,Odisha
+514,Customer_00514,C&I,Odisha
+515,Customer_00515,PSU,Telangana
+516,Customer_00516,C&I,Rajasthan
+517,Customer_00517,IPP,Kerala
+518,Customer_00518,IPP,Kerala
+519,Customer_00519,C&I,Kerala
+520,Customer_00520,PSU,Tamil Nadu
+521,Customer_00521,PSU,Maharashtra
+522,Customer_00522,IPP,Rajasthan
+523,Customer_00523,IPP,Rajasthan
+524,Customer_00524,C&I,Odisha
+525,Customer_00525,C&I,Gujarat
+526,Customer_00526,C&I,Maharashtra
+527,Customer_00527,C&I,Gujarat
+528,Customer_00528,PSU,Odisha
+529,Customer_00529,PSU,Telangana
+530,Customer_00530,C&I,Tamil Nadu
+531,Customer_00531,IPP,Odisha
+532,Customer_00532,C&I,Telangana
+533,Customer_00533,IPP,Tamil Nadu
+534,Customer_00534,C&I,Telangana
+535,Customer_00535,Retail,Andhra Pradesh
+536,Customer_00536,C&I,Kerala
+537,Customer_00537,Retail,Gujarat
+538,Customer_00538,IPP,Maharashtra
+539,Customer_00539,PSU,Tamil Nadu
+540,Customer_00540,PSU,Karnataka
+541,Customer_00541,IPP,Andhra Pradesh
+542,Customer_00542,C&I,Telangana
+543,Customer_00543,IPP,Gujarat
+544,Customer_00544,C&I,Maharashtra
+545,Customer_00545,PSU,Madhya Pradesh
+546,Customer_00546,C&I,Gujarat
+547,Customer_00547,C&I,Andhra Pradesh
+548,Customer_00548,PSU,Odisha
+549,Customer_00549,IPP,Rajasthan
+550,Customer_00550,IPP,Andhra Pradesh
+551,Customer_00551,IPP,Maharashtra
+552,Customer_00552,PSU,Telangana
+553,Customer_00553,PSU,Andhra Pradesh
+554,Customer_00554,Retail,Tamil Nadu
+555,Customer_00555,IPP,Karnataka
+556,Customer_00556,C&I,Gujarat
+557,Customer_00557,IPP,Telangana
+558,Customer_00558,IPP,Kerala
+559,Customer_00559,PSU,Gujarat
+560,Customer_00560,C&I,Tamil Nadu
+561,Customer_00561,C&I,Madhya Pradesh
+562,Customer_00562,Retail,Rajasthan
+563,Customer_00563,C&I,Tamil Nadu
+564,Customer_00564,PSU,Kerala
+565,Customer_00565,C&I,Kerala
+566,Customer_00566,IPP,Odisha
+567,Customer_00567,PSU,Telangana
+568,Customer_00568,C&I,Karnataka
+569,Customer_00569,PSU,Andhra Pradesh
+570,Customer_00570,PSU,Andhra Pradesh
+571,Customer_00571,IPP,Telangana
+572,Customer_00572,C&I,Telangana
+573,Customer_00573,PSU,Kerala
+574,Customer_00574,PSU,Andhra Pradesh
+575,Customer_00575,C&I,Gujarat
+576,Customer_00576,PSU,Karnataka
+577,Customer_00577,Retail,Gujarat
+578,Customer_00578,C&I,Odisha
+579,Customer_00579,PSU,Telangana
+580,Customer_00580,C&I,Madhya Pradesh
+581,Customer_00581,IPP,Maharashtra
+582,Customer_00582,IPP,Maharashtra
+583,Customer_00583,IPP,Karnataka
+584,Customer_00584,Retail,Andhra Pradesh
+585,Customer_00585,C&I,Karnataka
+586,Customer_00586,C&I,Maharashtra
+587,Customer_00587,C&I,Maharashtra
+588,Customer_00588,C&I,Maharashtra
+589,Customer_00589,C&I,Madhya Pradesh
+590,Customer_00590,Retail,Telangana
+591,Customer_00591,C&I,Rajasthan
+592,Customer_00592,PSU,Andhra Pradesh
+593,Customer_00593,C&I,Odisha
+594,Customer_00594,C&I,Kerala
+595,Customer_00595,IPP,Tamil Nadu
+596,Customer_00596,IPP,Karnataka
+597,Customer_00597,C&I,Rajasthan
+598,Customer_00598,IPP,Gujarat
+599,Customer_00599,IPP,Kerala
+600,Customer_00600,IPP,Odisha
+601,Customer_00601,C&I,Tamil Nadu
+602,Customer_00602,C&I,Maharashtra
+603,Customer_00603,PSU,Telangana
+604,Customer_00604,Retail,Tamil Nadu
+605,Customer_00605,Retail,Kerala
+606,Customer_00606,Retail,Andhra Pradesh
+607,Customer_00607,C&I,Gujarat
+608,Customer_00608,C&I,Rajasthan
+609,Customer_00609,C&I,Andhra Pradesh
+610,Customer_00610,PSU,Telangana
+611,Customer_00611,IPP,Madhya Pradesh
+612,Customer_00612,C&I,Gujarat
+613,Customer_00613,C&I,Rajasthan
+614,Customer_00614,PSU,Maharashtra
+615,Customer_00615,PSU,Andhra Pradesh
+616,Customer_00616,C&I,Odisha
+617,Customer_00617,IPP,Maharashtra
+618,Customer_00618,PSU,Gujarat
+619,Customer_00619,C&I,Telangana
+620,Customer_00620,Retail,Karnataka
+621,Customer_00621,PSU,Tamil Nadu
+622,Customer_00622,C&I,Maharashtra
+623,Customer_00623,PSU,Rajasthan
+624,Customer_00624,C&I,Madhya Pradesh
+625,Customer_00625,IPP,Karnataka
+626,Customer_00626,C&I,Odisha
+627,Customer_00627,PSU,Telangana
+628,Customer_00628,PSU,Telangana
+629,Customer_00629,IPP,Maharashtra
+630,Customer_00630,C&I,Maharashtra
+631,Customer_00631,C&I,Rajasthan
+632,Customer_00632,Retail,Gujarat
+633,Customer_00633,PSU,Odisha
+634,Customer_00634,IPP,Rajasthan
+635,Customer_00635,IPP,Karnataka
+636,Customer_00636,IPP,Odisha
+637,Customer_00637,C&I,Karnataka
+638,Customer_00638,C&I,Tamil Nadu
+639,Customer_00639,IPP,Kerala
+640,Customer_00640,Retail,Tamil Nadu
+641,Customer_00641,IPP,Tamil Nadu
+642,Customer_00642,C&I,Tamil Nadu
+643,Customer_00643,C&I,Rajasthan
+644,Customer_00644,C&I,Tamil Nadu
+645,Customer_00645,C&I,Kerala
+646,Customer_00646,IPP,Gujarat
+647,Customer_00647,IPP,Karnataka
+648,Customer_00648,IPP,Madhya Pradesh
+649,Customer_00649,Retail,Tamil Nadu
+650,Customer_00650,PSU,Odisha
+651,Customer_00651,IPP,Telangana
+652,Customer_00652,C&I,Odisha
+653,Customer_00653,C&I,Kerala
+654,Customer_00654,C&I,Kerala
+655,Customer_00655,PSU,Maharashtra
+656,Customer_00656,IPP,Gujarat
+657,Customer_00657,PSU,Telangana
+658,Customer_00658,C&I,Rajasthan
+659,Customer_00659,IPP,Kerala
+660,Customer_00660,IPP,Telangana
+661,Customer_00661,Retail,Gujarat
+662,Customer_00662,C&I,Odisha
+663,Customer_00663,IPP,Gujarat
+664,Customer_00664,C&I,Karnataka
+665,Customer_00665,IPP,Tamil Nadu
+666,Customer_00666,C&I,Tamil Nadu
+667,Customer_00667,C&I,Kerala
+668,Customer_00668,PSU,Telangana
+669,Customer_00669,IPP,Karnataka
+670,Customer_00670,IPP,Gujarat
+671,Customer_00671,Retail,Karnataka
+672,Customer_00672,C&I,Andhra Pradesh
+673,Customer_00673,IPP,Tamil Nadu
+674,Customer_00674,PSU,Andhra Pradesh
+675,Customer_00675,IPP,Gujarat
+676,Customer_00676,PSU,Telangana
+677,Customer_00677,Retail,Telangana
+678,Customer_00678,IPP,Telangana
+679,Customer_00679,C&I,Madhya Pradesh
+680,Customer_00680,Retail,Telangana
+681,Customer_00681,PSU,Maharashtra
+682,Customer_00682,IPP,Odisha
+683,Customer_00683,PSU,Andhra Pradesh
+684,Customer_00684,IPP,Telangana
+685,Customer_00685,IPP,Kerala
+686,Customer_00686,IPP,Karnataka
+687,Customer_00687,IPP,Maharashtra
+688,Customer_00688,IPP,Rajasthan
+689,Customer_00689,C&I,Tamil Nadu
+690,Customer_00690,IPP,Tamil Nadu
+691,Customer_00691,IPP,Madhya Pradesh
+692,Customer_00692,C&I,Odisha
+693,Customer_00693,C&I,Maharashtra
+694,Customer_00694,PSU,Kerala
+695,Customer_00695,C&I,Odisha
+696,Customer_00696,IPP,Tamil Nadu
+697,Customer_00697,C&I,Tamil Nadu
+698,Customer_00698,C&I,Rajasthan
+699,Customer_00699,IPP,Rajasthan
+700,Customer_00700,Retail,Telangana
+701,Customer_00701,IPP,Rajasthan
+702,Customer_00702,PSU,Telangana
+703,Customer_00703,IPP,Kerala
+704,Customer_00704,C&I,Maharashtra
+705,Customer_00705,C&I,Madhya Pradesh
+706,Customer_00706,Retail,Andhra Pradesh
+707,Customer_00707,IPP,Maharashtra
+708,Customer_00708,C&I,Andhra Pradesh
+709,Customer_00709,PSU,Karnataka
+710,Customer_00710,IPP,Maharashtra
+711,Customer_00711,Retail,Karnataka
+712,Customer_00712,PSU,Maharashtra
+713,Customer_00713,IPP,Maharashtra
+714,Customer_00714,IPP,Karnataka
+715,Customer_00715,C&I,Madhya Pradesh
+716,Customer_00716,C&I,Karnataka
+717,Customer_00717,Retail,Kerala
+718,Customer_00718,PSU,Kerala
+719,Customer_00719,PSU,Kerala
+720,Customer_00720,PSU,Rajasthan
+721,Customer_00721,IPP,Telangana
+722,Customer_00722,IPP,Madhya Pradesh
+723,Customer_00723,IPP,Rajasthan
+724,Customer_00724,C&I,Maharashtra
+725,Customer_00725,IPP,Rajasthan
+726,Customer_00726,IPP,Rajasthan
+727,Customer_00727,PSU,Rajasthan
+728,Customer_00728,PSU,Andhra Pradesh
+729,Customer_00729,C&I,Tamil Nadu
+730,Customer_00730,C&I,Karnataka
+731,Customer_00731,PSU,Telangana
+732,Customer_00732,C&I,Madhya Pradesh
+733,Customer_00733,C&I,Telangana
+734,Customer_00734,C&I,Karnataka
+735,Customer_00735,C&I,Kerala
+736,Customer_00736,C&I,Gujarat
+737,Customer_00737,IPP,Karnataka
+738,Customer_00738,Retail,Rajasthan
+739,Customer_00739,C&I,Kerala
+740,Customer_00740,C&I,Andhra Pradesh
+741,Customer_00741,C&I,Telangana
+742,Customer_00742,PSU,Rajasthan
+743,Customer_00743,C&I,Madhya Pradesh
+744,Customer_00744,PSU,Andhra Pradesh
+745,Customer_00745,IPP,Tamil Nadu
+746,Customer_00746,IPP,Rajasthan
+747,Customer_00747,IPP,Andhra Pradesh
+748,Customer_00748,IPP,Gujarat
+749,Customer_00749,Retail,Kerala
+750,Customer_00750,IPP,Tamil Nadu
+751,Customer_00751,PSU,Gujarat
+752,Customer_00752,Retail,Maharashtra
+753,Customer_00753,IPP,Maharashtra
+754,Customer_00754,IPP,Rajasthan
+755,Customer_00755,IPP,Gujarat
+756,Customer_00756,C&I,Maharashtra
+757,Customer_00757,PSU,Telangana
+758,Customer_00758,PSU,Kerala
+759,Customer_00759,C&I,Karnataka
+760,Customer_00760,PSU,Telangana
+761,Customer_00761,IPP,Odisha
+762,Customer_00762,PSU,Rajasthan
+763,Customer_00763,PSU,Tamil Nadu
+764,Customer_00764,C&I,Maharashtra
+765,Customer_00765,IPP,Tamil Nadu
+766,Customer_00766,C&I,Andhra Pradesh
+767,Customer_00767,C&I,Gujarat
+768,Customer_00768,IPP,Odisha
+769,Customer_00769,C&I,Telangana
+770,Customer_00770,IPP,Telangana
+771,Customer_00771,C&I,Odisha
+772,Customer_00772,C&I,Gujarat
+773,Customer_00773,PSU,Odisha
+774,Customer_00774,IPP,Karnataka
+775,Customer_00775,C&I,Odisha
+776,Customer_00776,C&I,Andhra Pradesh
+777,Customer_00777,C&I,Telangana
+778,Customer_00778,PSU,Rajasthan
+779,Customer_00779,PSU,Andhra Pradesh
+780,Customer_00780,IPP,Maharashtra
+781,Customer_00781,C&I,Maharashtra
+782,Customer_00782,C&I,Madhya Pradesh
+783,Customer_00783,C&I,Telangana
+784,Customer_00784,C&I,Maharashtra
+785,Customer_00785,C&I,Tamil Nadu
+786,Customer_00786,PSU,Gujarat
+787,Customer_00787,Retail,Maharashtra
+788,Customer_00788,C&I,Kerala
+789,Customer_00789,IPP,Madhya Pradesh
+790,Customer_00790,C&I,Tamil Nadu
+791,Customer_00791,Retail,Odisha
+792,Customer_00792,PSU,Karnataka
+793,Customer_00793,C&I,Tamil Nadu
+794,Customer_00794,IPP,Kerala
+795,Customer_00795,PSU,Rajasthan
+796,Customer_00796,IPP,Telangana
+797,Customer_00797,PSU,Andhra Pradesh
+798,Customer_00798,PSU,Karnataka
+799,Customer_00799,C&I,Gujarat
+800,Customer_00800,IPP,Maharashtra
+801,Customer_00801,C&I,Karnataka
+802,Customer_00802,IPP,Rajasthan
+803,Customer_00803,PSU,Telangana
+804,Customer_00804,IPP,Tamil Nadu
+805,Customer_00805,C&I,Maharashtra
+806,Customer_00806,IPP,Tamil Nadu
+807,Customer_00807,IPP,Maharashtra
+808,Customer_00808,IPP,Odisha
+809,Customer_00809,C&I,Gujarat
+810,Customer_00810,C&I,Andhra Pradesh
+811,Customer_00811,IPP,Odisha
+812,Customer_00812,C&I,Odisha
+813,Customer_00813,IPP,Odisha
+814,Customer_00814,IPP,Odisha
+815,Customer_00815,C&I,Kerala
+816,Customer_00816,C&I,Karnataka
+817,Customer_00817,C&I,Andhra Pradesh
+818,Customer_00818,IPP,Gujarat
+819,Customer_00819,C&I,Rajasthan
+820,Customer_00820,C&I,Tamil Nadu
+821,Customer_00821,C&I,Karnataka
+822,Customer_00822,C&I,Madhya Pradesh
+823,Customer_00823,C&I,Odisha
+824,Customer_00824,C&I,Rajasthan
+825,Customer_00825,C&I,Gujarat
+826,Customer_00826,C&I,Kerala
+827,Customer_00827,C&I,Madhya Pradesh
+828,Customer_00828,PSU,Gujarat
+829,Customer_00829,C&I,Kerala
+830,Customer_00830,C&I,Gujarat
+831,Customer_00831,IPP,Tamil Nadu
+832,Customer_00832,C&I,Tamil Nadu
+833,Customer_00833,PSU,Odisha
+834,Customer_00834,PSU,Madhya Pradesh
+835,Customer_00835,Retail,Andhra Pradesh
+836,Customer_00836,C&I,Rajasthan
+837,Customer_00837,C&I,Karnataka
+838,Customer_00838,Retail,Gujarat
+839,Customer_00839,PSU,Andhra Pradesh
+840,Customer_00840,C&I,Odisha
+841,Customer_00841,IPP,Kerala
+842,Customer_00842,IPP,Rajasthan
+843,Customer_00843,C&I,Kerala
+844,Customer_00844,C&I,Telangana
+845,Customer_00845,C&I,Andhra Pradesh
+846,Customer_00846,C&I,Rajasthan
+847,Customer_00847,C&I,Tamil Nadu
+848,Customer_00848,PSU,Gujarat
+849,Customer_00849,C&I,Andhra Pradesh
+850,Customer_00850,IPP,Karnataka
+851,Customer_00851,IPP,Karnataka
+852,Customer_00852,Retail,Odisha
+853,Customer_00853,C&I,Kerala
+854,Customer_00854,C&I,Rajasthan
+855,Customer_00855,IPP,Karnataka
+856,Customer_00856,IPP,Rajasthan
+857,Customer_00857,IPP,Madhya Pradesh
+858,Customer_00858,C&I,Kerala
+859,Customer_00859,C&I,Maharashtra
+860,Customer_00860,C&I,Maharashtra
+861,Customer_00861,PSU,Tamil Nadu
+862,Customer_00862,C&I,Odisha
+863,Customer_00863,IPP,Rajasthan
+864,Customer_00864,PSU,Andhra Pradesh
+865,Customer_00865,PSU,Rajasthan
+866,Customer_00866,Retail,Tamil Nadu
+867,Customer_00867,IPP,Andhra Pradesh
+868,Customer_00868,C&I,Madhya Pradesh
+869,Customer_00869,C&I,Kerala
+870,Customer_00870,Retail,Kerala
+871,Customer_00871,C&I,Andhra Pradesh
+872,Customer_00872,C&I,Kerala
+873,Customer_00873,IPP,Madhya Pradesh
+874,Customer_00874,C&I,Maharashtra
+875,Customer_00875,PSU,Telangana
+876,Customer_00876,IPP,Rajasthan
+877,Customer_00877,C&I,Karnataka
+878,Customer_00878,PSU,Kerala
+879,Customer_00879,PSU,Maharashtra
+880,Customer_00880,C&I,Odisha
+881,Customer_00881,C&I,Andhra Pradesh
+882,Customer_00882,C&I,Karnataka
+883,Customer_00883,IPP,Telangana
+884,Customer_00884,IPP,Rajasthan
+885,Customer_00885,Retail,Kerala
+886,Customer_00886,PSU,Odisha
+887,Customer_00887,IPP,Tamil Nadu
+888,Customer_00888,PSU,Andhra Pradesh
+889,Customer_00889,C&I,Maharashtra
+890,Customer_00890,PSU,Andhra Pradesh
+891,Customer_00891,IPP,Karnataka
+892,Customer_00892,Retail,Telangana
+893,Customer_00893,IPP,Madhya Pradesh
+894,Customer_00894,C&I,Tamil Nadu
+895,Customer_00895,C&I,Karnataka
+896,Customer_00896,PSU,Rajasthan
+897,Customer_00897,C&I,Odisha
+898,Customer_00898,C&I,Telangana
+899,Customer_00899,C&I,Odisha
+900,Customer_00900,IPP,Andhra Pradesh
+901,Customer_00901,IPP,Karnataka
+902,Customer_00902,C&I,Madhya Pradesh
+903,Customer_00903,C&I,Madhya Pradesh
+904,Customer_00904,IPP,Tamil Nadu
+905,Customer_00905,IPP,Gujarat
+906,Customer_00906,IPP,Kerala
+907,Customer_00907,C&I,Rajasthan
+908,Customer_00908,C&I,Karnataka
+909,Customer_00909,C&I,Maharashtra
+910,Customer_00910,Retail,Tamil Nadu
+911,Customer_00911,PSU,Karnataka
+912,Customer_00912,Retail,Rajasthan
+913,Customer_00913,IPP,Gujarat
+914,Customer_00914,PSU,Odisha
+915,Customer_00915,IPP,Madhya Pradesh
+916,Customer_00916,IPP,Maharashtra
+917,Customer_00917,IPP,Gujarat
+918,Customer_00918,Retail,Karnataka
+919,Customer_00919,C&I,Kerala
+920,Customer_00920,PSU,Andhra Pradesh
+921,Customer_00921,Retail,Maharashtra
+922,Customer_00922,C&I,Maharashtra
+923,Customer_00923,PSU,Kerala
+924,Customer_00924,C&I,Rajasthan
+925,Customer_00925,PSU,Gujarat
+926,Customer_00926,C&I,Telangana
+927,Customer_00927,Retail,Andhra Pradesh
+928,Customer_00928,IPP,Telangana
+929,Customer_00929,IPP,Maharashtra
+930,Customer_00930,C&I,Tamil Nadu
+931,Customer_00931,C&I,Kerala
+932,Customer_00932,C&I,Andhra Pradesh
+933,Customer_00933,Retail,Rajasthan
+934,Customer_00934,C&I,Madhya Pradesh
+935,Customer_00935,PSU,Odisha
+936,Customer_00936,PSU,Tamil Nadu
+937,Customer_00937,PSU,Kerala
+938,Customer_00938,Retail,Madhya Pradesh
+939,Customer_00939,PSU,Tamil Nadu
+940,Customer_00940,IPP,Maharashtra
+941,Customer_00941,PSU,Andhra Pradesh
+942,Customer_00942,Retail,Karnataka
+943,Customer_00943,IPP,Telangana
+944,Customer_00944,IPP,Odisha
+945,Customer_00945,C&I,Maharashtra
+946,Customer_00946,C&I,Tamil Nadu
+947,Customer_00947,C&I,Gujarat
+948,Customer_00948,PSU,Telangana
+949,Customer_00949,Retail,Karnataka
+950,Customer_00950,IPP,Gujarat
+951,Customer_00951,C&I,Gujarat
+952,Customer_00952,C&I,Rajasthan
+953,Customer_00953,C&I,Kerala
+954,Customer_00954,IPP,Madhya Pradesh
+955,Customer_00955,Retail,Kerala
+956,Customer_00956,C&I,Andhra Pradesh
+957,Customer_00957,C&I,Gujarat
+958,Customer_00958,C&I,Tamil Nadu
+959,Customer_00959,IPP,Tamil Nadu
+960,Customer_00960,Retail,Rajasthan
+961,Customer_00961,IPP,Andhra Pradesh
+962,Customer_00962,C&I,Andhra Pradesh
+963,Customer_00963,IPP,Odisha
+964,Customer_00964,PSU,Madhya Pradesh
+965,Customer_00965,C&I,Kerala
+966,Customer_00966,C&I,Karnataka
+967,Customer_00967,IPP,Rajasthan
+968,Customer_00968,Retail,Odisha
+969,Customer_00969,PSU,Maharashtra
+970,Customer_00970,IPP,Karnataka
+971,Customer_00971,C&I,Tamil Nadu
+972,Customer_00972,IPP,Tamil Nadu
+973,Customer_00973,IPP,Madhya Pradesh
+974,Customer_00974,C&I,Telangana
+975,Customer_00975,C&I,Telangana
+976,Customer_00976,Retail,Telangana
+977,Customer_00977,C&I,Tamil Nadu
+978,Customer_00978,IPP,Andhra Pradesh
+979,Customer_00979,IPP,Andhra Pradesh
+980,Customer_00980,IPP,Rajasthan
+981,Customer_00981,IPP,Kerala
+982,Customer_00982,IPP,Kerala
+983,Customer_00983,C&I,Karnataka
+984,Customer_00984,IPP,Rajasthan
+985,Customer_00985,IPP,Rajasthan
+986,Customer_00986,C&I,Andhra Pradesh
+987,Customer_00987,IPP,Kerala
+988,Customer_00988,PSU,Rajasthan
+989,Customer_00989,C&I,Karnataka
+990,Customer_00990,PSU,Telangana
+991,Customer_00991,PSU,Madhya Pradesh
+992,Customer_00992,IPP,Karnataka
+993,Customer_00993,PSU,Madhya Pradesh
+994,Customer_00994,IPP,Maharashtra
+995,Customer_00995,IPP,Maharashtra
+996,Customer_00996,IPP,Kerala
+997,Customer_00997,C&I,Kerala
+998,Customer_00998,IPP,Madhya Pradesh
+999,Customer_00999,IPP,Odisha
+1000,Customer_01000,PSU,Karnataka
+1001,Customer_01001,C&I,Karnataka
+1002,Customer_01002,PSU,Maharashtra
+1003,Customer_01003,C&I,Tamil Nadu
+1004,Customer_01004,IPP,Tamil Nadu
+1005,Customer_01005,PSU,Telangana
+1006,Customer_01006,C&I,Andhra Pradesh
+1007,Customer_01007,Retail,Tamil Nadu
+1008,Customer_01008,C&I,Rajasthan
+1009,Customer_01009,C&I,Tamil Nadu
+1010,Customer_01010,IPP,Tamil Nadu
+1011,Customer_01011,PSU,Odisha
+1012,Customer_01012,PSU,Odisha
+1013,Customer_01013,C&I,Tamil Nadu
+1014,Customer_01014,IPP,Odisha
+1015,Customer_01015,C&I,Tamil Nadu
+1016,Customer_01016,C&I,Maharashtra
+1017,Customer_01017,IPP,Tamil Nadu
+1018,Customer_01018,PSU,Tamil Nadu
+1019,Customer_01019,IPP,Gujarat
+1020,Customer_01020,PSU,Andhra Pradesh
+1021,Customer_01021,PSU,Telangana
+1022,Customer_01022,IPP,Karnataka
+1023,Customer_01023,C&I,Odisha
+1024,Customer_01024,C&I,Tamil Nadu
+1025,Customer_01025,IPP,Tamil Nadu
+1026,Customer_01026,C&I,Telangana
+1027,Customer_01027,PSU,Rajasthan
+1028,Customer_01028,C&I,Tamil Nadu
+1029,Customer_01029,C&I,Rajasthan
+1030,Customer_01030,IPP,Telangana
+1031,Customer_01031,C&I,Maharashtra
+1032,Customer_01032,C&I,Andhra Pradesh
+1033,Customer_01033,Retail,Telangana
+1034,Customer_01034,IPP,Madhya Pradesh
+1035,Customer_01035,PSU,Madhya Pradesh
+1036,Customer_01036,Retail,Karnataka
+1037,Customer_01037,PSU,Madhya Pradesh
+1038,Customer_01038,Retail,Andhra Pradesh
+1039,Customer_01039,IPP,Telangana
+1040,Customer_01040,C&I,Telangana
+1041,Customer_01041,IPP,Gujarat
+1042,Customer_01042,IPP,Karnataka
+1043,Customer_01043,IPP,Karnataka
+1044,Customer_01044,IPP,Madhya Pradesh
+1045,Customer_01045,C&I,Odisha
+1046,Customer_01046,C&I,Tamil Nadu
+1047,Customer_01047,PSU,Telangana
+1048,Customer_01048,Retail,Madhya Pradesh
+1049,Customer_01049,PSU,Odisha
+1050,Customer_01050,C&I,Tamil Nadu
+1051,Customer_01051,C&I,Karnataka
+1052,Customer_01052,IPP,Madhya Pradesh
+1053,Customer_01053,C&I,Kerala
+1054,Customer_01054,IPP,Madhya Pradesh
+1055,Customer_01055,C&I,Rajasthan
+1056,Customer_01056,C&I,Telangana
+1057,Customer_01057,Retail,Gujarat
+1058,Customer_01058,IPP,Gujarat
+1059,Customer_01059,IPP,Odisha
+1060,Customer_01060,C&I,Telangana
+1061,Customer_01061,PSU,Tamil Nadu
+1062,Customer_01062,C&I,Kerala
+1063,Customer_01063,C&I,Kerala
+1064,Customer_01064,IPP,Kerala
+1065,Customer_01065,C&I,Odisha
+1066,Customer_01066,C&I,Maharashtra
+1067,Customer_01067,C&I,Kerala
+1068,Customer_01068,IPP,Kerala
+1069,Customer_01069,C&I,Karnataka
+1070,Customer_01070,PSU,Madhya Pradesh
+1071,Customer_01071,C&I,Telangana
+1072,Customer_01072,PSU,Odisha
+1073,Customer_01073,C&I,Rajasthan
+1074,Customer_01074,IPP,Maharashtra
+1075,Customer_01075,C&I,Kerala
+1076,Customer_01076,C&I,Odisha
+1077,Customer_01077,PSU,Andhra Pradesh
+1078,Customer_01078,C&I,Tamil Nadu
+1079,Customer_01079,PSU,Maharashtra
+1080,Customer_01080,C&I,Rajasthan
+1081,Customer_01081,C&I,Tamil Nadu
+1082,Customer_01082,IPP,Karnataka
+1083,Customer_01083,PSU,Karnataka
+1084,Customer_01084,IPP,Telangana
+1085,Customer_01085,Retail,Madhya Pradesh
+1086,Customer_01086,IPP,Madhya Pradesh
+1087,Customer_01087,Retail,Karnataka
+1088,Customer_01088,C&I,Kerala
+1089,Customer_01089,PSU,Telangana
+1090,Customer_01090,C&I,Karnataka
+1091,Customer_01091,C&I,Karnataka
+1092,Customer_01092,C&I,Karnataka
+1093,Customer_01093,C&I,Karnataka
+1094,Customer_01094,PSU,Rajasthan
+1095,Customer_01095,PSU,Kerala
+1096,Customer_01096,C&I,Madhya Pradesh
+1097,Customer_01097,C&I,Rajasthan
+1098,Customer_01098,C&I,Gujarat
+1099,Customer_01099,IPP,Kerala
+1100,Customer_01100,C&I,Karnataka
+1101,Customer_01101,C&I,Odisha
+1102,Customer_01102,C&I,Gujarat
+1103,Customer_01103,IPP,Tamil Nadu
+1104,Customer_01104,PSU,Tamil Nadu
+1105,Customer_01105,Retail,Rajasthan
+1106,Customer_01106,PSU,Rajasthan
+1107,Customer_01107,C&I,Odisha
+1108,Customer_01108,C&I,Odisha
+1109,Customer_01109,C&I,Odisha
+1110,Customer_01110,IPP,Andhra Pradesh
+1111,Customer_01111,C&I,Telangana
+1112,Customer_01112,PSU,Tamil Nadu
+1113,Customer_01113,PSU,Kerala
+1114,Customer_01114,IPP,Gujarat
+1115,Customer_01115,IPP,Odisha
+1116,Customer_01116,PSU,Gujarat
+1117,Customer_01117,PSU,Odisha
+1118,Customer_01118,C&I,Karnataka
+1119,Customer_01119,C&I,Tamil Nadu
+1120,Customer_01120,IPP,Madhya Pradesh
+1121,Customer_01121,IPP,Andhra Pradesh
+1122,Customer_01122,C&I,Odisha
+1123,Customer_01123,Retail,Telangana
+1124,Customer_01124,C&I,Telangana
+1125,Customer_01125,IPP,Telangana
+1126,Customer_01126,IPP,Telangana
+1127,Customer_01127,PSU,Tamil Nadu
+1128,Customer_01128,Retail,Gujarat
+1129,Customer_01129,Retail,Telangana
+1130,Customer_01130,Retail,Maharashtra
+1131,Customer_01131,IPP,Maharashtra
+1132,Customer_01132,IPP,Gujarat
+1133,Customer_01133,C&I,Kerala
+1134,Customer_01134,IPP,Madhya Pradesh
+1135,Customer_01135,C&I,Odisha
+1136,Customer_01136,PSU,Madhya Pradesh
+1137,Customer_01137,Retail,Maharashtra
+1138,Customer_01138,PSU,Telangana
+1139,Customer_01139,PSU,Maharashtra
+1140,Customer_01140,C&I,Rajasthan
+1141,Customer_01141,IPP,Madhya Pradesh
+1142,Customer_01142,PSU,Kerala
+1143,Customer_01143,C&I,Gujarat
+1144,Customer_01144,PSU,Maharashtra
+1145,Customer_01145,IPP,Andhra Pradesh
+1146,Customer_01146,C&I,Karnataka
+1147,Customer_01147,PSU,Maharashtra
+1148,Customer_01148,C&I,Odisha
+1149,Customer_01149,Retail,Maharashtra
+1150,Customer_01150,C&I,Maharashtra
+1151,Customer_01151,C&I,Telangana
+1152,Customer_01152,PSU,Rajasthan
+1153,Customer_01153,PSU,Telangana
+1154,Customer_01154,C&I,Andhra Pradesh
+1155,Customer_01155,PSU,Andhra Pradesh
+1156,Customer_01156,C&I,Telangana
+1157,Customer_01157,C&I,Rajasthan
+1158,Customer_01158,Retail,Karnataka
+1159,Customer_01159,IPP,Telangana
+1160,Customer_01160,PSU,Kerala
+1161,Customer_01161,IPP,Andhra Pradesh
+1162,Customer_01162,IPP,Gujarat
+1163,Customer_01163,C&I,Madhya Pradesh
+1164,Customer_01164,PSU,Odisha
+1165,Customer_01165,C&I,Odisha
+1166,Customer_01166,IPP,Tamil Nadu
+1167,Customer_01167,Retail,Tamil Nadu
+1168,Customer_01168,Retail,Madhya Pradesh
+1169,Customer_01169,C&I,Kerala
+1170,Customer_01170,C&I,Rajasthan
+1171,Customer_01171,C&I,Rajasthan
+1172,Customer_01172,C&I,Maharashtra
+1173,Customer_01173,Retail,Gujarat
+1174,Customer_01174,C&I,Gujarat
+1175,Customer_01175,PSU,Tamil Nadu
+1176,Customer_01176,IPP,Gujarat
+1177,Customer_01177,IPP,Telangana
+1178,Customer_01178,PSU,Maharashtra
+1179,Customer_01179,IPP,Madhya Pradesh
+1180,Customer_01180,PSU,Karnataka
+1181,Customer_01181,C&I,Karnataka
+1182,Customer_01182,IPP,Gujarat
+1183,Customer_01183,PSU,Tamil Nadu
+1184,Customer_01184,C&I,Karnataka
+1185,Customer_01185,C&I,Tamil Nadu
+1186,Customer_01186,PSU,Madhya Pradesh
+1187,Customer_01187,IPP,Maharashtra
+1188,Customer_01188,PSU,Odisha
+1189,Customer_01189,PSU,Gujarat
+1190,Customer_01190,C&I,Telangana
+1191,Customer_01191,IPP,Rajasthan
+1192,Customer_01192,Retail,Tamil Nadu
+1193,Customer_01193,IPP,Rajasthan
+1194,Customer_01194,C&I,Maharashtra
+1195,Customer_01195,IPP,Andhra Pradesh
+1196,Customer_01196,IPP,Tamil Nadu
+1197,Customer_01197,C&I,Madhya Pradesh
+1198,Customer_01198,IPP,Madhya Pradesh
+1199,Customer_01199,IPP,Madhya Pradesh
+1200,Customer_01200,C&I,Telangana
+1201,Customer_01201,IPP,Karnataka
+1202,Customer_01202,C&I,Kerala
+1203,Customer_01203,IPP,Rajasthan
+1204,Customer_01204,PSU,Telangana
+1205,Customer_01205,PSU,Rajasthan
+1206,Customer_01206,IPP,Gujarat
+1207,Customer_01207,IPP,Telangana
+1208,Customer_01208,IPP,Gujarat
+1209,Customer_01209,Retail,Madhya Pradesh
+1210,Customer_01210,IPP,Kerala
+1211,Customer_01211,IPP,Andhra Pradesh
+1212,Customer_01212,PSU,Tamil Nadu
+1213,Customer_01213,IPP,Gujarat
+1214,Customer_01214,IPP,Andhra Pradesh
+1215,Customer_01215,IPP,Kerala
+1216,Customer_01216,IPP,Kerala
+1217,Customer_01217,IPP,Kerala
+1218,Customer_01218,C&I,Karnataka
+1219,Customer_01219,C&I,Rajasthan
+1220,Customer_01220,C&I,Madhya Pradesh
+1221,Customer_01221,PSU,Karnataka
+1222,Customer_01222,PSU,Telangana
+1223,Customer_01223,IPP,Gujarat
+1224,Customer_01224,C&I,Tamil Nadu
+1225,Customer_01225,C&I,Kerala
+1226,Customer_01226,IPP,Tamil Nadu
+1227,Customer_01227,IPP,Maharashtra
+1228,Customer_01228,IPP,Rajasthan
+1229,Customer_01229,C&I,Telangana
+1230,Customer_01230,Retail,Kerala
+1231,Customer_01231,PSU,Andhra Pradesh
+1232,Customer_01232,PSU,Maharashtra
+1233,Customer_01233,C&I,Kerala
+1234,Customer_01234,C&I,Maharashtra
+1235,Customer_01235,C&I,Rajasthan
+1236,Customer_01236,IPP,Telangana
+1237,Customer_01237,Retail,Kerala
+1238,Customer_01238,IPP,Maharashtra
+1239,Customer_01239,PSU,Madhya Pradesh
+1240,Customer_01240,Retail,Maharashtra
+1241,Customer_01241,IPP,Rajasthan
+1242,Customer_01242,PSU,Rajasthan
+1243,Customer_01243,IPP,Maharashtra
+1244,Customer_01244,Retail,Karnataka
+1245,Customer_01245,Retail,Kerala
+1246,Customer_01246,PSU,Kerala
+1247,Customer_01247,C&I,Rajasthan
+1248,Customer_01248,IPP,Gujarat
+1249,Customer_01249,IPP,Andhra Pradesh
+1250,Customer_01250,IPP,Karnataka
+1251,Customer_01251,PSU,Karnataka
+1252,Customer_01252,C&I,Karnataka
+1253,Customer_01253,C&I,Maharashtra
+1254,Customer_01254,C&I,Andhra Pradesh
+1255,Customer_01255,IPP,Odisha
+1256,Customer_01256,C&I,Tamil Nadu
+1257,Customer_01257,IPP,Telangana
+1258,Customer_01258,C&I,Kerala
+1259,Customer_01259,C&I,Maharashtra
+1260,Customer_01260,IPP,Odisha
+1261,Customer_01261,C&I,Rajasthan
+1262,Customer_01262,C&I,Kerala
+1263,Customer_01263,C&I,Andhra Pradesh
+1264,Customer_01264,PSU,Tamil Nadu
+1265,Customer_01265,IPP,Tamil Nadu
+1266,Customer_01266,IPP,Madhya Pradesh
+1267,Customer_01267,C&I,Karnataka
+1268,Customer_01268,PSU,Madhya Pradesh
+1269,Customer_01269,C&I,Odisha
+1270,Customer_01270,C&I,Andhra Pradesh
+1271,Customer_01271,IPP,Kerala
+1272,Customer_01272,C&I,Odisha
+1273,Customer_01273,IPP,Rajasthan
+1274,Customer_01274,PSU,Tamil Nadu
+1275,Customer_01275,Retail,Andhra Pradesh
+1276,Customer_01276,IPP,Andhra Pradesh
+1277,Customer_01277,IPP,Maharashtra
+1278,Customer_01278,C&I,Telangana
+1279,Customer_01279,C&I,Rajasthan
+1280,Customer_01280,C&I,Karnataka
+1281,Customer_01281,C&I,Telangana
+1282,Customer_01282,IPP,Andhra Pradesh
+1283,Customer_01283,IPP,Madhya Pradesh
+1284,Customer_01284,PSU,Andhra Pradesh
+1285,Customer_01285,PSU,Odisha
+1286,Customer_01286,C&I,Odisha
+1287,Customer_01287,IPP,Karnataka
+1288,Customer_01288,C&I,Tamil Nadu
+1289,Customer_01289,C&I,Gujarat
+1290,Customer_01290,IPP,Tamil Nadu
+1291,Customer_01291,C&I,Karnataka
+1292,Customer_01292,PSU,Andhra Pradesh
+1293,Customer_01293,C&I,Kerala
+1294,Customer_01294,Retail,Andhra Pradesh
+1295,Customer_01295,Retail,Gujarat
+1296,Customer_01296,Retail,Andhra Pradesh
+1297,Customer_01297,PSU,Gujarat
+1298,Customer_01298,Retail,Tamil Nadu
+1299,Customer_01299,Retail,Kerala
+1300,Customer_01300,IPP,Telangana
+1301,Customer_01301,PSU,Gujarat
+1302,Customer_01302,IPP,Kerala
+1303,Customer_01303,IPP,Madhya Pradesh
+1304,Customer_01304,IPP,Andhra Pradesh
+1305,Customer_01305,PSU,Tamil Nadu
+1306,Customer_01306,C&I,Telangana
+1307,Customer_01307,PSU,Telangana
+1308,Customer_01308,IPP,Telangana
+1309,Customer_01309,C&I,Andhra Pradesh
+1310,Customer_01310,Retail,Tamil Nadu
+1311,Customer_01311,C&I,Telangana
+1312,Customer_01312,C&I,Maharashtra
+1313,Customer_01313,IPP,Rajasthan
+1314,Customer_01314,Retail,Andhra Pradesh
+1315,Customer_01315,C&I,Telangana
+1316,Customer_01316,PSU,Madhya Pradesh
+1317,Customer_01317,PSU,Maharashtra
+1318,Customer_01318,C&I,Andhra Pradesh
+1319,Customer_01319,Retail,Madhya Pradesh
+1320,Customer_01320,C&I,Gujarat
+1321,Customer_01321,Retail,Madhya Pradesh
+1322,Customer_01322,C&I,Karnataka
+1323,Customer_01323,IPP,Gujarat
+1324,Customer_01324,C&I,Maharashtra
+1325,Customer_01325,IPP,Gujarat
+1326,Customer_01326,PSU,Tamil Nadu
+1327,Customer_01327,C&I,Rajasthan
+1328,Customer_01328,PSU,Telangana
+1329,Customer_01329,PSU,Andhra Pradesh
+1330,Customer_01330,IPP,Odisha
+1331,Customer_01331,IPP,Kerala
+1332,Customer_01332,C&I,Maharashtra
+1333,Customer_01333,IPP,Odisha
+1334,Customer_01334,C&I,Rajasthan
+1335,Customer_01335,IPP,Tamil Nadu
+1336,Customer_01336,C&I,Andhra Pradesh
+1337,Customer_01337,C&I,Rajasthan
+1338,Customer_01338,IPP,Madhya Pradesh
+1339,Customer_01339,IPP,Karnataka
+1340,Customer_01340,C&I,Karnataka
+1341,Customer_01341,IPP,Gujarat
+1342,Customer_01342,C&I,Maharashtra
+1343,Customer_01343,C&I,Madhya Pradesh
+1344,Customer_01344,C&I,Karnataka
+1345,Customer_01345,IPP,Rajasthan
+1346,Customer_01346,C&I,Telangana
+1347,Customer_01347,C&I,Odisha
+1348,Customer_01348,IPP,Rajasthan
+1349,Customer_01349,C&I,Andhra Pradesh
+1350,Customer_01350,IPP,Telangana
+1351,Customer_01351,IPP,Maharashtra
+1352,Customer_01352,C&I,Gujarat
+1353,Customer_01353,Retail,Telangana
+1354,Customer_01354,C&I,Kerala
+1355,Customer_01355,PSU,Madhya Pradesh
+1356,Customer_01356,C&I,Telangana
+1357,Customer_01357,IPP,Telangana
+1358,Customer_01358,Retail,Kerala
+1359,Customer_01359,C&I,Kerala
+1360,Customer_01360,IPP,Kerala
+1361,Customer_01361,C&I,Andhra Pradesh
+1362,Customer_01362,C&I,Gujarat
+1363,Customer_01363,C&I,Kerala
+1364,Customer_01364,IPP,Tamil Nadu
+1365,Customer_01365,C&I,Odisha
+1366,Customer_01366,IPP,Tamil Nadu
+1367,Customer_01367,IPP,Kerala
+1368,Customer_01368,C&I,Rajasthan
+1369,Customer_01369,Retail,Gujarat
+1370,Customer_01370,C&I,Telangana
+1371,Customer_01371,C&I,Andhra Pradesh
+1372,Customer_01372,IPP,Gujarat
+1373,Customer_01373,IPP,Kerala
+1374,Customer_01374,Retail,Kerala
+1375,Customer_01375,IPP,Rajasthan
+1376,Customer_01376,PSU,Tamil Nadu
+1377,Customer_01377,C&I,Karnataka
+1378,Customer_01378,PSU,Odisha
+1379,Customer_01379,IPP,Maharashtra
+1380,Customer_01380,Retail,Rajasthan
+1381,Customer_01381,C&I,Tamil Nadu
+1382,Customer_01382,C&I,Karnataka
+1383,Customer_01383,C&I,Maharashtra
+1384,Customer_01384,IPP,Karnataka
+1385,Customer_01385,IPP,Tamil Nadu
+1386,Customer_01386,C&I,Andhra Pradesh
+1387,Customer_01387,C&I,Maharashtra
+1388,Customer_01388,PSU,Karnataka
+1389,Customer_01389,C&I,Karnataka
+1390,Customer_01390,PSU,Gujarat
+1391,Customer_01391,C&I,Andhra Pradesh
+1392,Customer_01392,Retail,Karnataka
+1393,Customer_01393,C&I,Maharashtra
+1394,Customer_01394,IPP,Andhra Pradesh
+1395,Customer_01395,C&I,Tamil Nadu
+1396,Customer_01396,PSU,Maharashtra
+1397,Customer_01397,PSU,Tamil Nadu
+1398,Customer_01398,Retail,Rajasthan
+1399,Customer_01399,PSU,Madhya Pradesh
+1400,Customer_01400,PSU,Madhya Pradesh
+1401,Customer_01401,C&I,Kerala
+1402,Customer_01402,C&I,Tamil Nadu
+1403,Customer_01403,IPP,Andhra Pradesh
+1404,Customer_01404,C&I,Karnataka
+1405,Customer_01405,C&I,Madhya Pradesh
+1406,Customer_01406,Retail,Madhya Pradesh
+1407,Customer_01407,C&I,Rajasthan
+1408,Customer_01408,C&I,Telangana
+1409,Customer_01409,C&I,Rajasthan
+1410,Customer_01410,C&I,Maharashtra
+1411,Customer_01411,C&I,Rajasthan
+1412,Customer_01412,C&I,Karnataka
+1413,Customer_01413,C&I,Maharashtra
+1414,Customer_01414,C&I,Maharashtra
+1415,Customer_01415,C&I,Gujarat
+1416,Customer_01416,C&I,Rajasthan
+1417,Customer_01417,Retail,Telangana
+1418,Customer_01418,Retail,Gujarat
+1419,Customer_01419,IPP,Andhra Pradesh
+1420,Customer_01420,C&I,Gujarat
+1421,Customer_01421,PSU,Telangana
+1422,Customer_01422,PSU,Karnataka
+1423,Customer_01423,IPP,Odisha
+1424,Customer_01424,PSU,Telangana
+1425,Customer_01425,C&I,Odisha
+1426,Customer_01426,Retail,Karnataka
+1427,Customer_01427,Retail,Gujarat
+1428,Customer_01428,PSU,Gujarat
+1429,Customer_01429,IPP,Gujarat
+1430,Customer_01430,C&I,Madhya Pradesh
+1431,Customer_01431,PSU,Telangana
+1432,Customer_01432,IPP,Andhra Pradesh
+1433,Customer_01433,C&I,Odisha
+1434,Customer_01434,C&I,Kerala
+1435,Customer_01435,C&I,Karnataka
+1436,Customer_01436,IPP,Karnataka
+1437,Customer_01437,C&I,Rajasthan
+1438,Customer_01438,IPP,Gujarat
+1439,Customer_01439,C&I,Odisha
+1440,Customer_01440,PSU,Kerala
+1441,Customer_01441,C&I,Karnataka
+1442,Customer_01442,IPP,Gujarat
+1443,Customer_01443,C&I,Karnataka
+1444,Customer_01444,IPP,Gujarat
+1445,Customer_01445,C&I,Tamil Nadu
+1446,Customer_01446,IPP,Andhra Pradesh
+1447,Customer_01447,PSU,Karnataka
+1448,Customer_01448,C&I,Madhya Pradesh
+1449,Customer_01449,PSU,Kerala
+1450,Customer_01450,Retail,Andhra Pradesh
+1451,Customer_01451,C&I,Odisha
+1452,Customer_01452,IPP,Andhra Pradesh
+1453,Customer_01453,PSU,Tamil Nadu
+1454,Customer_01454,IPP,Maharashtra
+1455,Customer_01455,Retail,Rajasthan
+1456,Customer_01456,C&I,Maharashtra
+1457,Customer_01457,PSU,Andhra Pradesh
+1458,Customer_01458,C&I,Maharashtra
+1459,Customer_01459,PSU,Andhra Pradesh
+1460,Customer_01460,C&I,Andhra Pradesh
+1461,Customer_01461,C&I,Andhra Pradesh
+1462,Customer_01462,IPP,Maharashtra
+1463,Customer_01463,Retail,Tamil Nadu
+1464,Customer_01464,PSU,Rajasthan
+1465,Customer_01465,C&I,Tamil Nadu
+1466,Customer_01466,IPP,Maharashtra
+1467,Customer_01467,IPP,Telangana
+1468,Customer_01468,C&I,Telangana
+1469,Customer_01469,Retail,Tamil Nadu
+1470,Customer_01470,IPP,Maharashtra
+1471,Customer_01471,IPP,Odisha
+1472,Customer_01472,Retail,Kerala
+1473,Customer_01473,C&I,Gujarat
+1474,Customer_01474,Retail,Madhya Pradesh
+1475,Customer_01475,C&I,Kerala
+1476,Customer_01476,C&I,Madhya Pradesh
+1477,Customer_01477,IPP,Karnataka
+1478,Customer_01478,C&I,Andhra Pradesh
+1479,Customer_01479,C&I,Odisha
+1480,Customer_01480,PSU,Madhya Pradesh
+1481,Customer_01481,C&I,Gujarat
+1482,Customer_01482,IPP,Tamil Nadu
+1483,Customer_01483,IPP,Maharashtra
+1484,Customer_01484,C&I,Telangana
+1485,Customer_01485,PSU,Kerala
+1486,Customer_01486,PSU,Karnataka
+1487,Customer_01487,C&I,Tamil Nadu
+1488,Customer_01488,C&I,Odisha
+1489,Customer_01489,C&I,Andhra Pradesh
+1490,Customer_01490,C&I,Karnataka
+1491,Customer_01491,C&I,Maharashtra
+1492,Customer_01492,C&I,Tamil Nadu
+1493,Customer_01493,C&I,Tamil Nadu
+1494,Customer_01494,IPP,Maharashtra
+1495,Customer_01495,C&I,Maharashtra
+1496,Customer_01496,IPP,Kerala
+1497,Customer_01497,C&I,Telangana
+1498,Customer_01498,IPP,Rajasthan
+1499,Customer_01499,IPP,Kerala
+1500,Customer_01500,Retail,Kerala
+1501,Customer_01501,C&I,Telangana
+1502,Customer_01502,IPP,Kerala
+1503,Customer_01503,Retail,Madhya Pradesh
+1504,Customer_01504,IPP,Gujarat
+1505,Customer_01505,IPP,Gujarat
+1506,Customer_01506,C&I,Telangana
+1507,Customer_01507,IPP,Telangana
+1508,Customer_01508,PSU,Odisha
+1509,Customer_01509,IPP,Odisha
+1510,Customer_01510,IPP,Karnataka
+1511,Customer_01511,PSU,Telangana
+1512,Customer_01512,PSU,Gujarat
+1513,Customer_01513,IPP,Gujarat
+1514,Customer_01514,C&I,Tamil Nadu
+1515,Customer_01515,IPP,Odisha
+1516,Customer_01516,IPP,Gujarat
+1517,Customer_01517,C&I,Tamil Nadu
+1518,Customer_01518,PSU,Maharashtra
+1519,Customer_01519,C&I,Rajasthan
+1520,Customer_01520,PSU,Telangana
+1521,Customer_01521,C&I,Telangana
+1522,Customer_01522,C&I,Tamil Nadu
+1523,Customer_01523,PSU,Kerala
+1524,Customer_01524,IPP,Rajasthan
+1525,Customer_01525,C&I,Maharashtra
+1526,Customer_01526,C&I,Gujarat
+1527,Customer_01527,C&I,Telangana
+1528,Customer_01528,C&I,Kerala
+1529,Customer_01529,Retail,Telangana
+1530,Customer_01530,PSU,Rajasthan
+1531,Customer_01531,IPP,Karnataka
+1532,Customer_01532,IPP,Gujarat
+1533,Customer_01533,IPP,Maharashtra
+1534,Customer_01534,IPP,Rajasthan
+1535,Customer_01535,PSU,Andhra Pradesh
+1536,Customer_01536,Retail,Odisha
+1537,Customer_01537,C&I,Gujarat
+1538,Customer_01538,C&I,Telangana
+1539,Customer_01539,C&I,Maharashtra
+1540,Customer_01540,C&I,Tamil Nadu
+1541,Customer_01541,IPP,Telangana
+1542,Customer_01542,Retail,Odisha
+1543,Customer_01543,C&I,Gujarat
+1544,Customer_01544,IPP,Telangana
+1545,Customer_01545,C&I,Gujarat
+1546,Customer_01546,Retail,Maharashtra
+1547,Customer_01547,C&I,Rajasthan
+1548,Customer_01548,IPP,Karnataka
+1549,Customer_01549,IPP,Karnataka
+1550,Customer_01550,C&I,Maharashtra
+1551,Customer_01551,C&I,Odisha
+1552,Customer_01552,IPP,Gujarat
+1553,Customer_01553,PSU,Madhya Pradesh
+1554,Customer_01554,C&I,Andhra Pradesh
+1555,Customer_01555,C&I,Andhra Pradesh
+1556,Customer_01556,C&I,Madhya Pradesh
+1557,Customer_01557,PSU,Gujarat
+1558,Customer_01558,C&I,Gujarat
+1559,Customer_01559,C&I,Telangana
+1560,Customer_01560,PSU,Telangana
+1561,Customer_01561,C&I,Odisha
+1562,Customer_01562,C&I,Odisha
+1563,Customer_01563,PSU,Gujarat
+1564,Customer_01564,C&I,Karnataka
+1565,Customer_01565,IPP,Andhra Pradesh
+1566,Customer_01566,PSU,Odisha
+1567,Customer_01567,IPP,Karnataka
+1568,Customer_01568,Retail,Karnataka
+1569,Customer_01569,PSU,Tamil Nadu
+1570,Customer_01570,C&I,Rajasthan
+1571,Customer_01571,PSU,Karnataka
+1572,Customer_01572,IPP,Kerala
+1573,Customer_01573,C&I,Madhya Pradesh
+1574,Customer_01574,IPP,Gujarat
+1575,Customer_01575,IPP,Maharashtra
+1576,Customer_01576,IPP,Karnataka
+1577,Customer_01577,C&I,Maharashtra
+1578,Customer_01578,C&I,Odisha
+1579,Customer_01579,C&I,Maharashtra
+1580,Customer_01580,PSU,Rajasthan
+1581,Customer_01581,C&I,Madhya Pradesh
+1582,Customer_01582,IPP,Kerala
+1583,Customer_01583,C&I,Odisha
+1584,Customer_01584,C&I,Andhra Pradesh
+1585,Customer_01585,C&I,Gujarat
+1586,Customer_01586,PSU,Tamil Nadu
+1587,Customer_01587,C&I,Kerala
+1588,Customer_01588,PSU,Tamil Nadu
+1589,Customer_01589,IPP,Gujarat
+1590,Customer_01590,PSU,Odisha
+1591,Customer_01591,C&I,Maharashtra
+1592,Customer_01592,IPP,Tamil Nadu
+1593,Customer_01593,C&I,Kerala
+1594,Customer_01594,C&I,Andhra Pradesh
+1595,Customer_01595,IPP,Tamil Nadu
+1596,Customer_01596,IPP,Rajasthan
+1597,Customer_01597,PSU,Telangana
+1598,Customer_01598,PSU,Maharashtra
+1599,Customer_01599,C&I,Odisha
+1600,Customer_01600,IPP,Telangana
+1601,Customer_01601,C&I,Rajasthan
+1602,Customer_01602,Retail,Andhra Pradesh
+1603,Customer_01603,Retail,Madhya Pradesh
+1604,Customer_01604,IPP,Tamil Nadu
+1605,Customer_01605,IPP,Andhra Pradesh
+1606,Customer_01606,C&I,Maharashtra
+1607,Customer_01607,IPP,Rajasthan
+1608,Customer_01608,C&I,Odisha
+1609,Customer_01609,C&I,Kerala
+1610,Customer_01610,C&I,Telangana
+1611,Customer_01611,C&I,Telangana
+1612,Customer_01612,Retail,Kerala
+1613,Customer_01613,C&I,Telangana
+1614,Customer_01614,IPP,Odisha
+1615,Customer_01615,PSU,Madhya Pradesh
+1616,Customer_01616,PSU,Odisha
+1617,Customer_01617,IPP,Telangana
+1618,Customer_01618,C&I,Kerala
+1619,Customer_01619,Retail,Madhya Pradesh
+1620,Customer_01620,IPP,Tamil Nadu
+1621,Customer_01621,IPP,Madhya Pradesh
+1622,Customer_01622,PSU,Maharashtra
+1623,Customer_01623,C&I,Kerala
+1624,Customer_01624,C&I,Madhya Pradesh
+1625,Customer_01625,IPP,Andhra Pradesh
+1626,Customer_01626,IPP,Gujarat
+1627,Customer_01627,IPP,Gujarat
+1628,Customer_01628,IPP,Telangana
+1629,Customer_01629,IPP,Andhra Pradesh
+1630,Customer_01630,PSU,Tamil Nadu
+1631,Customer_01631,PSU,Madhya Pradesh
+1632,Customer_01632,IPP,Kerala
+1633,Customer_01633,IPP,Andhra Pradesh
+1634,Customer_01634,C&I,Tamil Nadu
+1635,Customer_01635,IPP,Rajasthan
+1636,Customer_01636,PSU,Andhra Pradesh
+1637,Customer_01637,C&I,Madhya Pradesh
+1638,Customer_01638,IPP,Tamil Nadu
+1639,Customer_01639,PSU,Rajasthan
+1640,Customer_01640,PSU,Maharashtra
+1641,Customer_01641,IPP,Andhra Pradesh
+1642,Customer_01642,C&I,Telangana
+1643,Customer_01643,PSU,Karnataka
+1644,Customer_01644,PSU,Maharashtra
+1645,Customer_01645,C&I,Andhra Pradesh
+1646,Customer_01646,C&I,Telangana
+1647,Customer_01647,C&I,Tamil Nadu
+1648,Customer_01648,C&I,Kerala
+1649,Customer_01649,IPP,Kerala
+1650,Customer_01650,C&I,Kerala
+1651,Customer_01651,C&I,Tamil Nadu
+1652,Customer_01652,PSU,Odisha
+1653,Customer_01653,PSU,Maharashtra
+1654,Customer_01654,PSU,Andhra Pradesh
+1655,Customer_01655,IPP,Tamil Nadu
+1656,Customer_01656,Retail,Tamil Nadu
+1657,Customer_01657,C&I,Karnataka
+1658,Customer_01658,Retail,Kerala
+1659,Customer_01659,IPP,Odisha
+1660,Customer_01660,IPP,Madhya Pradesh
+1661,Customer_01661,PSU,Rajasthan
+1662,Customer_01662,IPP,Tamil Nadu
+1663,Customer_01663,IPP,Gujarat
+1664,Customer_01664,Retail,Karnataka
+1665,Customer_01665,C&I,Odisha
+1666,Customer_01666,C&I,Andhra Pradesh
+1667,Customer_01667,Retail,Kerala
+1668,Customer_01668,IPP,Telangana
+1669,Customer_01669,IPP,Madhya Pradesh
+1670,Customer_01670,IPP,Odisha
+1671,Customer_01671,C&I,Tamil Nadu
+1672,Customer_01672,C&I,Maharashtra
+1673,Customer_01673,C&I,Odisha
+1674,Customer_01674,C&I,Kerala
+1675,Customer_01675,C&I,Andhra Pradesh
+1676,Customer_01676,C&I,Maharashtra
+1677,Customer_01677,C&I,Andhra Pradesh
+1678,Customer_01678,IPP,Rajasthan
+1679,Customer_01679,C&I,Kerala
+1680,Customer_01680,Retail,Gujarat
+1681,Customer_01681,PSU,Kerala
+1682,Customer_01682,IPP,Andhra Pradesh
+1683,Customer_01683,IPP,Madhya Pradesh
+1684,Customer_01684,IPP,Andhra Pradesh
+1685,Customer_01685,Retail,Gujarat
+1686,Customer_01686,IPP,Tamil Nadu
+1687,Customer_01687,C&I,Telangana
+1688,Customer_01688,C&I,Odisha
+1689,Customer_01689,IPP,Andhra Pradesh
+1690,Customer_01690,IPP,Andhra Pradesh
+1691,Customer_01691,C&I,Maharashtra
+1692,Customer_01692,IPP,Odisha
+1693,Customer_01693,Retail,Maharashtra
+1694,Customer_01694,C&I,Madhya Pradesh
+1695,Customer_01695,C&I,Maharashtra
+1696,Customer_01696,IPP,Rajasthan
+1697,Customer_01697,IPP,Karnataka
+1698,Customer_01698,Retail,Maharashtra
+1699,Customer_01699,IPP,Rajasthan
+1700,Customer_01700,C&I,Rajasthan
+1701,Customer_01701,IPP,Rajasthan
+1702,Customer_01702,C&I,Odisha
+1703,Customer_01703,IPP,Madhya Pradesh
+1704,Customer_01704,PSU,Rajasthan
+1705,Customer_01705,IPP,Andhra Pradesh
+1706,Customer_01706,C&I,Karnataka
+1707,Customer_01707,C&I,Gujarat
+1708,Customer_01708,IPP,Gujarat
+1709,Customer_01709,C&I,Kerala
+1710,Customer_01710,IPP,Madhya Pradesh
+1711,Customer_01711,PSU,Telangana
+1712,Customer_01712,IPP,Tamil Nadu
+1713,Customer_01713,IPP,Madhya Pradesh
+1714,Customer_01714,PSU,Kerala
+1715,Customer_01715,Retail,Tamil Nadu
+1716,Customer_01716,C&I,Rajasthan
+1717,Customer_01717,C&I,Odisha
+1718,Customer_01718,C&I,Maharashtra
+1719,Customer_01719,IPP,Gujarat
+1720,Customer_01720,C&I,Rajasthan
+1721,Customer_01721,IPP,Tamil Nadu
+1722,Customer_01722,IPP,Odisha
+1723,Customer_01723,PSU,Telangana
+1724,Customer_01724,IPP,Odisha
+1725,Customer_01725,C&I,Tamil Nadu
+1726,Customer_01726,Retail,Karnataka
+1727,Customer_01727,IPP,Gujarat
+1728,Customer_01728,Retail,Andhra Pradesh
+1729,Customer_01729,IPP,Kerala
+1730,Customer_01730,IPP,Andhra Pradesh
+1731,Customer_01731,PSU,Karnataka
+1732,Customer_01732,C&I,Tamil Nadu
+1733,Customer_01733,IPP,Tamil Nadu
+1734,Customer_01734,C&I,Telangana
+1735,Customer_01735,C&I,Madhya Pradesh
+1736,Customer_01736,PSU,Kerala
+1737,Customer_01737,IPP,Odisha
+1738,Customer_01738,PSU,Gujarat
+1739,Customer_01739,IPP,Rajasthan
+1740,Customer_01740,C&I,Maharashtra
+1741,Customer_01741,PSU,Odisha
+1742,Customer_01742,Retail,Maharashtra
+1743,Customer_01743,Retail,Odisha
+1744,Customer_01744,C&I,Andhra Pradesh
+1745,Customer_01745,IPP,Kerala
+1746,Customer_01746,IPP,Telangana
+1747,Customer_01747,C&I,Andhra Pradesh
+1748,Customer_01748,C&I,Madhya Pradesh
+1749,Customer_01749,C&I,Rajasthan
+1750,Customer_01750,IPP,Odisha
+1751,Customer_01751,IPP,Odisha
+1752,Customer_01752,IPP,Tamil Nadu
+1753,Customer_01753,IPP,Karnataka
+1754,Customer_01754,C&I,Rajasthan
+1755,Customer_01755,C&I,Odisha
+1756,Customer_01756,PSU,Odisha
+1757,Customer_01757,IPP,Telangana
+1758,Customer_01758,PSU,Rajasthan
+1759,Customer_01759,PSU,Rajasthan
+1760,Customer_01760,PSU,Kerala
+1761,Customer_01761,IPP,Telangana
+1762,Customer_01762,PSU,Gujarat
+1763,Customer_01763,IPP,Kerala
+1764,Customer_01764,PSU,Maharashtra
+1765,Customer_01765,IPP,Telangana
+1766,Customer_01766,Retail,Rajasthan
+1767,Customer_01767,IPP,Maharashtra
+1768,Customer_01768,C&I,Telangana
+1769,Customer_01769,PSU,Rajasthan
+1770,Customer_01770,C&I,Kerala
+1771,Customer_01771,C&I,Maharashtra
+1772,Customer_01772,IPP,Andhra Pradesh
+1773,Customer_01773,PSU,Odisha
+1774,Customer_01774,C&I,Telangana
+1775,Customer_01775,IPP,Andhra Pradesh
+1776,Customer_01776,IPP,Andhra Pradesh
+1777,Customer_01777,C&I,Karnataka
+1778,Customer_01778,IPP,Maharashtra
+1779,Customer_01779,IPP,Andhra Pradesh
+1780,Customer_01780,IPP,Telangana
+1781,Customer_01781,PSU,Odisha
+1782,Customer_01782,C&I,Madhya Pradesh
+1783,Customer_01783,PSU,Odisha
+1784,Customer_01784,C&I,Gujarat
+1785,Customer_01785,C&I,Andhra Pradesh
+1786,Customer_01786,PSU,Maharashtra
+1787,Customer_01787,IPP,Rajasthan
+1788,Customer_01788,C&I,Karnataka
+1789,Customer_01789,Retail,Andhra Pradesh
+1790,Customer_01790,C&I,Gujarat
+1791,Customer_01791,Retail,Odisha
+1792,Customer_01792,PSU,Tamil Nadu
+1793,Customer_01793,PSU,Tamil Nadu
+1794,Customer_01794,C&I,Kerala
+1795,Customer_01795,PSU,Maharashtra
+1796,Customer_01796,IPP,Madhya Pradesh
+1797,Customer_01797,C&I,Andhra Pradesh
+1798,Customer_01798,PSU,Andhra Pradesh
+1799,Customer_01799,IPP,Telangana
+1800,Customer_01800,PSU,Maharashtra
+1801,Customer_01801,C&I,Rajasthan
+1802,Customer_01802,IPP,Odisha
+1803,Customer_01803,C&I,Kerala
+1804,Customer_01804,C&I,Odisha
+1805,Customer_01805,PSU,Tamil Nadu
+1806,Customer_01806,C&I,Maharashtra
+1807,Customer_01807,Retail,Andhra Pradesh
+1808,Customer_01808,C&I,Karnataka
+1809,Customer_01809,IPP,Andhra Pradesh
+1810,Customer_01810,PSU,Rajasthan
+1811,Customer_01811,IPP,Maharashtra
+1812,Customer_01812,C&I,Rajasthan
+1813,Customer_01813,PSU,Telangana
+1814,Customer_01814,C&I,Tamil Nadu
+1815,Customer_01815,PSU,Maharashtra
+1816,Customer_01816,C&I,Telangana
+1817,Customer_01817,IPP,Rajasthan
+1818,Customer_01818,C&I,Andhra Pradesh
+1819,Customer_01819,IPP,Rajasthan
+1820,Customer_01820,C&I,Gujarat
+1821,Customer_01821,PSU,Andhra Pradesh
+1822,Customer_01822,IPP,Kerala
+1823,Customer_01823,PSU,Gujarat
+1824,Customer_01824,C&I,Rajasthan
+1825,Customer_01825,C&I,Telangana
+1826,Customer_01826,PSU,Tamil Nadu
+1827,Customer_01827,C&I,Rajasthan
+1828,Customer_01828,IPP,Kerala
+1829,Customer_01829,C&I,Gujarat
+1830,Customer_01830,PSU,Andhra Pradesh
+1831,Customer_01831,C&I,Odisha
+1832,Customer_01832,PSU,Karnataka
+1833,Customer_01833,PSU,Telangana
+1834,Customer_01834,IPP,Andhra Pradesh
+1835,Customer_01835,IPP,Madhya Pradesh
+1836,Customer_01836,IPP,Telangana
+1837,Customer_01837,C&I,Kerala
+1838,Customer_01838,C&I,Gujarat
+1839,Customer_01839,Retail,Gujarat
+1840,Customer_01840,IPP,Gujarat
+1841,Customer_01841,PSU,Madhya Pradesh
+1842,Customer_01842,Retail,Rajasthan
+1843,Customer_01843,PSU,Tamil Nadu
+1844,Customer_01844,PSU,Tamil Nadu
+1845,Customer_01845,PSU,Gujarat
+1846,Customer_01846,C&I,Madhya Pradesh
+1847,Customer_01847,IPP,Madhya Pradesh
+1848,Customer_01848,C&I,Andhra Pradesh
+1849,Customer_01849,C&I,Tamil Nadu
+1850,Customer_01850,C&I,Gujarat
+1851,Customer_01851,C&I,Madhya Pradesh
+1852,Customer_01852,C&I,Telangana
+1853,Customer_01853,IPP,Madhya Pradesh
+1854,Customer_01854,IPP,Andhra Pradesh
+1855,Customer_01855,C&I,Kerala
+1856,Customer_01856,PSU,Telangana
+1857,Customer_01857,PSU,Gujarat
+1858,Customer_01858,Retail,Odisha
+1859,Customer_01859,IPP,Odisha
+1860,Customer_01860,IPP,Odisha
+1861,Customer_01861,IPP,Maharashtra
+1862,Customer_01862,PSU,Maharashtra
+1863,Customer_01863,IPP,Kerala
+1864,Customer_01864,C&I,Karnataka
+1865,Customer_01865,C&I,Andhra Pradesh
+1866,Customer_01866,C&I,Madhya Pradesh
+1867,Customer_01867,PSU,Maharashtra
+1868,Customer_01868,C&I,Kerala
+1869,Customer_01869,C&I,Tamil Nadu
+1870,Customer_01870,PSU,Rajasthan
+1871,Customer_01871,C&I,Madhya Pradesh
+1872,Customer_01872,C&I,Karnataka
+1873,Customer_01873,C&I,Andhra Pradesh
+1874,Customer_01874,IPP,Rajasthan
+1875,Customer_01875,Retail,Karnataka
+1876,Customer_01876,C&I,Madhya Pradesh
+1877,Customer_01877,C&I,Madhya Pradesh
+1878,Customer_01878,Retail,Kerala
+1879,Customer_01879,PSU,Kerala
+1880,Customer_01880,IPP,Rajasthan
+1881,Customer_01881,PSU,Rajasthan
+1882,Customer_01882,PSU,Tamil Nadu
+1883,Customer_01883,IPP,Rajasthan
+1884,Customer_01884,IPP,Rajasthan
+1885,Customer_01885,IPP,Odisha
+1886,Customer_01886,IPP,Kerala
+1887,Customer_01887,C&I,Madhya Pradesh
+1888,Customer_01888,C&I,Madhya Pradesh
+1889,Customer_01889,PSU,Gujarat
+1890,Customer_01890,IPP,Andhra Pradesh
+1891,Customer_01891,C&I,Karnataka
+1892,Customer_01892,C&I,Maharashtra
+1893,Customer_01893,C&I,Andhra Pradesh
+1894,Customer_01894,C&I,Gujarat
+1895,Customer_01895,C&I,Telangana
+1896,Customer_01896,C&I,Rajasthan
+1897,Customer_01897,PSU,Karnataka
+1898,Customer_01898,C&I,Andhra Pradesh
+1899,Customer_01899,Retail,Telangana
+1900,Customer_01900,IPP,Kerala
+1901,Customer_01901,PSU,Karnataka
+1902,Customer_01902,IPP,Kerala
+1903,Customer_01903,IPP,Karnataka
+1904,Customer_01904,C&I,Andhra Pradesh
+1905,Customer_01905,IPP,Tamil Nadu
+1906,Customer_01906,C&I,Odisha
+1907,Customer_01907,IPP,Karnataka
+1908,Customer_01908,Retail,Rajasthan
+1909,Customer_01909,IPP,Gujarat
+1910,Customer_01910,IPP,Gujarat
+1911,Customer_01911,C&I,Gujarat
+1912,Customer_01912,C&I,Odisha
+1913,Customer_01913,C&I,Rajasthan
+1914,Customer_01914,IPP,Maharashtra
+1915,Customer_01915,C&I,Andhra Pradesh
+1916,Customer_01916,C&I,Tamil Nadu
+1917,Customer_01917,IPP,Gujarat
+1918,Customer_01918,C&I,Karnataka
+1919,Customer_01919,C&I,Andhra Pradesh
+1920,Customer_01920,C&I,Karnataka
+1921,Customer_01921,C&I,Kerala
+1922,Customer_01922,C&I,Tamil Nadu
+1923,Customer_01923,Retail,Tamil Nadu
+1924,Customer_01924,IPP,Madhya Pradesh
+1925,Customer_01925,Retail,Madhya Pradesh
+1926,Customer_01926,C&I,Maharashtra
+1927,Customer_01927,C&I,Kerala
+1928,Customer_01928,IPP,Andhra Pradesh
+1929,Customer_01929,C&I,Karnataka
+1930,Customer_01930,Retail,Maharashtra
+1931,Customer_01931,Retail,Tamil Nadu
+1932,Customer_01932,C&I,Madhya Pradesh
+1933,Customer_01933,Retail,Madhya Pradesh
+1934,Customer_01934,C&I,Karnataka
+1935,Customer_01935,IPP,Kerala
+1936,Customer_01936,PSU,Odisha
+1937,Customer_01937,IPP,Tamil Nadu
+1938,Customer_01938,IPP,Tamil Nadu
+1939,Customer_01939,C&I,Karnataka
+1940,Customer_01940,C&I,Rajasthan
+1941,Customer_01941,C&I,Odisha
+1942,Customer_01942,PSU,Telangana
+1943,Customer_01943,C&I,Kerala
+1944,Customer_01944,C&I,Tamil Nadu
+1945,Customer_01945,C&I,Madhya Pradesh
+1946,Customer_01946,IPP,Rajasthan
+1947,Customer_01947,IPP,Madhya Pradesh
+1948,Customer_01948,C&I,Maharashtra
+1949,Customer_01949,IPP,Madhya Pradesh
+1950,Customer_01950,C&I,Kerala
+1951,Customer_01951,PSU,Andhra Pradesh
+1952,Customer_01952,IPP,Telangana
+1953,Customer_01953,C&I,Karnataka
+1954,Customer_01954,C&I,Kerala
+1955,Customer_01955,C&I,Rajasthan
+1956,Customer_01956,Retail,Odisha
+1957,Customer_01957,PSU,Rajasthan
+1958,Customer_01958,C&I,Madhya Pradesh
+1959,Customer_01959,IPP,Rajasthan
+1960,Customer_01960,C&I,Andhra Pradesh
+1961,Customer_01961,Retail,Telangana
+1962,Customer_01962,PSU,Kerala
+1963,Customer_01963,PSU,Tamil Nadu
+1964,Customer_01964,C&I,Karnataka
+1965,Customer_01965,IPP,Kerala
+1966,Customer_01966,C&I,Madhya Pradesh
+1967,Customer_01967,C&I,Tamil Nadu
+1968,Customer_01968,C&I,Madhya Pradesh
+1969,Customer_01969,PSU,Kerala
+1970,Customer_01970,Retail,Kerala
+1971,Customer_01971,IPP,Tamil Nadu
+1972,Customer_01972,C&I,Kerala
+1973,Customer_01973,C&I,Andhra Pradesh
+1974,Customer_01974,C&I,Tamil Nadu
+1975,Customer_01975,C&I,Andhra Pradesh
+1976,Customer_01976,IPP,Tamil Nadu
+1977,Customer_01977,C&I,Madhya Pradesh
+1978,Customer_01978,Retail,Kerala
+1979,Customer_01979,PSU,Andhra Pradesh
+1980,Customer_01980,IPP,Madhya Pradesh
+1981,Customer_01981,PSU,Telangana
+1982,Customer_01982,PSU,Tamil Nadu
+1983,Customer_01983,C&I,Madhya Pradesh
+1984,Customer_01984,C&I,Telangana
+1985,Customer_01985,C&I,Madhya Pradesh
+1986,Customer_01986,C&I,Karnataka
+1987,Customer_01987,IPP,Gujarat
+1988,Customer_01988,C&I,Rajasthan
+1989,Customer_01989,PSU,Madhya Pradesh
+1990,Customer_01990,PSU,Tamil Nadu
+1991,Customer_01991,IPP,Maharashtra
+1992,Customer_01992,IPP,Gujarat
+1993,Customer_01993,IPP,Karnataka
+1994,Customer_01994,C&I,Odisha
+1995,Customer_01995,C&I,Kerala
+1996,Customer_01996,PSU,Madhya Pradesh
+1997,Customer_01997,C&I,Andhra Pradesh
+1998,Customer_01998,PSU,Gujarat
+1999,Customer_01999,PSU,Gujarat
+2000,Customer_02000,IPP,Andhra Pradesh
+2001,Customer_02001,C&I,Tamil Nadu
+2002,Customer_02002,PSU,Rajasthan
+2003,Customer_02003,PSU,Rajasthan
+2004,Customer_02004,PSU,Karnataka
+2005,Customer_02005,C&I,Madhya Pradesh
+2006,Customer_02006,PSU,Telangana
+2007,Customer_02007,C&I,Kerala
+2008,Customer_02008,C&I,Karnataka
+2009,Customer_02009,C&I,Rajasthan
+2010,Customer_02010,PSU,Andhra Pradesh
+2011,Customer_02011,IPP,Karnataka
+2012,Customer_02012,C&I,Karnataka
+2013,Customer_02013,C&I,Tamil Nadu
+2014,Customer_02014,PSU,Gujarat
+2015,Customer_02015,C&I,Madhya Pradesh
+2016,Customer_02016,PSU,Maharashtra
+2017,Customer_02017,C&I,Gujarat
+2018,Customer_02018,C&I,Tamil Nadu
+2019,Customer_02019,PSU,Kerala
+2020,Customer_02020,IPP,Kerala
+2021,Customer_02021,C&I,Gujarat
+2022,Customer_02022,IPP,Odisha
+2023,Customer_02023,Retail,Maharashtra
+2024,Customer_02024,PSU,Karnataka
+2025,Customer_02025,PSU,Karnataka
+2026,Customer_02026,Retail,Tamil Nadu
+2027,Customer_02027,IPP,Karnataka
+2028,Customer_02028,Retail,Telangana
+2029,Customer_02029,PSU,Rajasthan
+2030,Customer_02030,C&I,Odisha
+2031,Customer_02031,PSU,Madhya Pradesh
+2032,Customer_02032,IPP,Odisha
+2033,Customer_02033,IPP,Karnataka
+2034,Customer_02034,C&I,Odisha
+2035,Customer_02035,C&I,Rajasthan
+2036,Customer_02036,IPP,Odisha
+2037,Customer_02037,C&I,Karnataka
+2038,Customer_02038,PSU,Maharashtra
+2039,Customer_02039,IPP,Maharashtra
+2040,Customer_02040,IPP,Madhya Pradesh
+2041,Customer_02041,PSU,Tamil Nadu
+2042,Customer_02042,IPP,Maharashtra
+2043,Customer_02043,Retail,Gujarat
+2044,Customer_02044,PSU,Andhra Pradesh
+2045,Customer_02045,PSU,Telangana
+2046,Customer_02046,Retail,Madhya Pradesh
+2047,Customer_02047,IPP,Maharashtra
+2048,Customer_02048,IPP,Telangana
+2049,Customer_02049,C&I,Rajasthan
+2050,Customer_02050,C&I,Rajasthan
+2051,Customer_02051,PSU,Madhya Pradesh
+2052,Customer_02052,PSU,Andhra Pradesh
+2053,Customer_02053,C&I,Maharashtra
+2054,Customer_02054,IPP,Telangana
+2055,Customer_02055,Retail,Andhra Pradesh
+2056,Customer_02056,PSU,Tamil Nadu
+2057,Customer_02057,PSU,Kerala
+2058,Customer_02058,Retail,Tamil Nadu
+2059,Customer_02059,C&I,Karnataka
+2060,Customer_02060,C&I,Maharashtra
+2061,Customer_02061,C&I,Maharashtra
+2062,Customer_02062,C&I,Kerala
+2063,Customer_02063,C&I,Kerala
+2064,Customer_02064,Retail,Telangana
+2065,Customer_02065,IPP,Telangana
+2066,Customer_02066,IPP,Andhra Pradesh
+2067,Customer_02067,IPP,Maharashtra
+2068,Customer_02068,C&I,Gujarat
+2069,Customer_02069,C&I,Kerala
+2070,Customer_02070,C&I,Maharashtra
+2071,Customer_02071,IPP,Telangana
+2072,Customer_02072,IPP,Karnataka
+2073,Customer_02073,C&I,Madhya Pradesh
+2074,Customer_02074,IPP,Odisha
+2075,Customer_02075,C&I,Rajasthan
+2076,Customer_02076,C&I,Kerala
+2077,Customer_02077,C&I,Maharashtra
+2078,Customer_02078,IPP,Gujarat
+2079,Customer_02079,C&I,Tamil Nadu
+2080,Customer_02080,IPP,Rajasthan
+2081,Customer_02081,IPP,Tamil Nadu
+2082,Customer_02082,Retail,Tamil Nadu
+2083,Customer_02083,Retail,Karnataka
+2084,Customer_02084,C&I,Madhya Pradesh
+2085,Customer_02085,PSU,Gujarat
+2086,Customer_02086,PSU,Andhra Pradesh
+2087,Customer_02087,C&I,Odisha
+2088,Customer_02088,PSU,Gujarat
+2089,Customer_02089,C&I,Maharashtra
+2090,Customer_02090,C&I,Karnataka
+2091,Customer_02091,C&I,Kerala
+2092,Customer_02092,PSU,Karnataka
+2093,Customer_02093,PSU,Madhya Pradesh
+2094,Customer_02094,PSU,Tamil Nadu
+2095,Customer_02095,C&I,Odisha
+2096,Customer_02096,C&I,Tamil Nadu
+2097,Customer_02097,C&I,Andhra Pradesh
+2098,Customer_02098,C&I,Maharashtra
+2099,Customer_02099,C&I,Tamil Nadu
+2100,Customer_02100,C&I,Odisha
+2101,Customer_02101,Retail,Gujarat
+2102,Customer_02102,C&I,Telangana
+2103,Customer_02103,Retail,Kerala
+2104,Customer_02104,C&I,Gujarat
+2105,Customer_02105,IPP,Telangana
+2106,Customer_02106,IPP,Rajasthan
+2107,Customer_02107,C&I,Gujarat
+2108,Customer_02108,C&I,Odisha
+2109,Customer_02109,Retail,Madhya Pradesh
+2110,Customer_02110,IPP,Tamil Nadu
+2111,Customer_02111,Retail,Telangana
+2112,Customer_02112,IPP,Maharashtra
+2113,Customer_02113,PSU,Gujarat
+2114,Customer_02114,C&I,Madhya Pradesh
+2115,Customer_02115,IPP,Gujarat
+2116,Customer_02116,Retail,Telangana
+2117,Customer_02117,IPP,Rajasthan
+2118,Customer_02118,C&I,Gujarat
+2119,Customer_02119,C&I,Gujarat
+2120,Customer_02120,PSU,Tamil Nadu
+2121,Customer_02121,C&I,Odisha
+2122,Customer_02122,C&I,Rajasthan
+2123,Customer_02123,C&I,Tamil Nadu
+2124,Customer_02124,IPP,Karnataka
+2125,Customer_02125,IPP,Madhya Pradesh
+2126,Customer_02126,C&I,Rajasthan
+2127,Customer_02127,C&I,Andhra Pradesh
+2128,Customer_02128,C&I,Andhra Pradesh
+2129,Customer_02129,PSU,Kerala
+2130,Customer_02130,Retail,Odisha
+2131,Customer_02131,IPP,Kerala
+2132,Customer_02132,Retail,Odisha
+2133,Customer_02133,C&I,Karnataka
+2134,Customer_02134,C&I,Rajasthan
+2135,Customer_02135,C&I,Tamil Nadu
+2136,Customer_02136,C&I,Tamil Nadu
+2137,Customer_02137,PSU,Telangana
+2138,Customer_02138,IPP,Madhya Pradesh
+2139,Customer_02139,PSU,Tamil Nadu
+2140,Customer_02140,C&I,Madhya Pradesh
+2141,Customer_02141,C&I,Gujarat
+2142,Customer_02142,C&I,Odisha
+2143,Customer_02143,PSU,Rajasthan
+2144,Customer_02144,PSU,Rajasthan
+2145,Customer_02145,C&I,Madhya Pradesh
+2146,Customer_02146,PSU,Kerala
+2147,Customer_02147,C&I,Madhya Pradesh
+2148,Customer_02148,IPP,Maharashtra
+2149,Customer_02149,IPP,Karnataka
+2150,Customer_02150,C&I,Tamil Nadu
+2151,Customer_02151,C&I,Andhra Pradesh
+2152,Customer_02152,C&I,Gujarat
+2153,Customer_02153,Retail,Tamil Nadu
+2154,Customer_02154,C&I,Rajasthan
+2155,Customer_02155,C&I,Maharashtra
+2156,Customer_02156,PSU,Kerala
+2157,Customer_02157,Retail,Andhra Pradesh
+2158,Customer_02158,C&I,Tamil Nadu
+2159,Customer_02159,IPP,Tamil Nadu
+2160,Customer_02160,C&I,Rajasthan
+2161,Customer_02161,PSU,Odisha
+2162,Customer_02162,IPP,Tamil Nadu
+2163,Customer_02163,IPP,Kerala
+2164,Customer_02164,C&I,Kerala
+2165,Customer_02165,C&I,Karnataka
+2166,Customer_02166,PSU,Gujarat
+2167,Customer_02167,C&I,Tamil Nadu
+2168,Customer_02168,IPP,Tamil Nadu
+2169,Customer_02169,C&I,Gujarat
+2170,Customer_02170,IPP,Rajasthan
+2171,Customer_02171,IPP,Gujarat
+2172,Customer_02172,C&I,Gujarat
+2173,Customer_02173,C&I,Rajasthan
+2174,Customer_02174,PSU,Maharashtra
+2175,Customer_02175,C&I,Kerala
+2176,Customer_02176,Retail,Maharashtra
+2177,Customer_02177,IPP,Andhra Pradesh
+2178,Customer_02178,PSU,Andhra Pradesh
+2179,Customer_02179,PSU,Telangana
+2180,Customer_02180,IPP,Karnataka
+2181,Customer_02181,C&I,Andhra Pradesh
+2182,Customer_02182,C&I,Madhya Pradesh
+2183,Customer_02183,C&I,Madhya Pradesh
+2184,Customer_02184,C&I,Tamil Nadu
+2185,Customer_02185,C&I,Gujarat
+2186,Customer_02186,IPP,Gujarat
+2187,Customer_02187,IPP,Madhya Pradesh
+2188,Customer_02188,C&I,Tamil Nadu
+2189,Customer_02189,C&I,Karnataka
+2190,Customer_02190,PSU,Telangana
+2191,Customer_02191,IPP,Andhra Pradesh
+2192,Customer_02192,IPP,Gujarat
+2193,Customer_02193,PSU,Kerala
+2194,Customer_02194,IPP,Odisha
+2195,Customer_02195,C&I,Karnataka
+2196,Customer_02196,Retail,Karnataka
+2197,Customer_02197,C&I,Maharashtra
+2198,Customer_02198,Retail,Gujarat
+2199,Customer_02199,C&I,Telangana
+2200,Customer_02200,C&I,Rajasthan
+2201,Customer_02201,IPP,Gujarat
+2202,Customer_02202,C&I,Tamil Nadu
+2203,Customer_02203,Retail,Kerala
+2204,Customer_02204,IPP,Telangana
+2205,Customer_02205,C&I,Madhya Pradesh
+2206,Customer_02206,C&I,Tamil Nadu
+2207,Customer_02207,C&I,Telangana
+2208,Customer_02208,C&I,Telangana
+2209,Customer_02209,C&I,Maharashtra
+2210,Customer_02210,IPP,Telangana
+2211,Customer_02211,PSU,Telangana
+2212,Customer_02212,IPP,Rajasthan
+2213,Customer_02213,IPP,Odisha
+2214,Customer_02214,PSU,Odisha
+2215,Customer_02215,C&I,Andhra Pradesh
+2216,Customer_02216,Retail,Karnataka
+2217,Customer_02217,C&I,Rajasthan
+2218,Customer_02218,C&I,Karnataka
+2219,Customer_02219,C&I,Maharashtra
+2220,Customer_02220,IPP,Andhra Pradesh
+2221,Customer_02221,C&I,Odisha
+2222,Customer_02222,IPP,Tamil Nadu
+2223,Customer_02223,PSU,Maharashtra
+2224,Customer_02224,C&I,Tamil Nadu
+2225,Customer_02225,IPP,Tamil Nadu
+2226,Customer_02226,IPP,Odisha
+2227,Customer_02227,IPP,Telangana
+2228,Customer_02228,PSU,Maharashtra
+2229,Customer_02229,C&I,Maharashtra
+2230,Customer_02230,C&I,Odisha
+2231,Customer_02231,C&I,Gujarat
+2232,Customer_02232,IPP,Rajasthan
+2233,Customer_02233,IPP,Maharashtra
+2234,Customer_02234,IPP,Andhra Pradesh
+2235,Customer_02235,IPP,Madhya Pradesh
+2236,Customer_02236,C&I,Tamil Nadu
+2237,Customer_02237,IPP,Maharashtra
+2238,Customer_02238,IPP,Tamil Nadu
+2239,Customer_02239,C&I,Maharashtra
+2240,Customer_02240,IPP,Maharashtra
+2241,Customer_02241,C&I,Madhya Pradesh
+2242,Customer_02242,IPP,Gujarat
+2243,Customer_02243,C&I,Odisha
+2244,Customer_02244,PSU,Gujarat
+2245,Customer_02245,IPP,Tamil Nadu
+2246,Customer_02246,IPP,Madhya Pradesh
+2247,Customer_02247,Retail,Gujarat
+2248,Customer_02248,IPP,Rajasthan
+2249,Customer_02249,C&I,Kerala
+2250,Customer_02250,PSU,Karnataka
+2251,Customer_02251,IPP,Kerala
+2252,Customer_02252,C&I,Andhra Pradesh
+2253,Customer_02253,IPP,Madhya Pradesh
+2254,Customer_02254,Retail,Andhra Pradesh
+2255,Customer_02255,C&I,Karnataka
+2256,Customer_02256,C&I,Maharashtra
+2257,Customer_02257,Retail,Madhya Pradesh
+2258,Customer_02258,C&I,Rajasthan
+2259,Customer_02259,Retail,Telangana
+2260,Customer_02260,C&I,Telangana
+2261,Customer_02261,IPP,Tamil Nadu
+2262,Customer_02262,IPP,Odisha
+2263,Customer_02263,PSU,Gujarat
+2264,Customer_02264,IPP,Karnataka
+2265,Customer_02265,PSU,Kerala
+2266,Customer_02266,PSU,Karnataka
+2267,Customer_02267,C&I,Andhra Pradesh
+2268,Customer_02268,IPP,Telangana
+2269,Customer_02269,IPP,Tamil Nadu
+2270,Customer_02270,C&I,Andhra Pradesh
+2271,Customer_02271,C&I,Andhra Pradesh
+2272,Customer_02272,C&I,Madhya Pradesh
+2273,Customer_02273,IPP,Rajasthan
+2274,Customer_02274,PSU,Telangana
+2275,Customer_02275,PSU,Gujarat
+2276,Customer_02276,PSU,Karnataka
+2277,Customer_02277,IPP,Maharashtra
+2278,Customer_02278,IPP,Maharashtra
+2279,Customer_02279,IPP,Tamil Nadu
+2280,Customer_02280,C&I,Odisha
+2281,Customer_02281,Retail,Odisha
+2282,Customer_02282,PSU,Telangana
+2283,Customer_02283,IPP,Andhra Pradesh
+2284,Customer_02284,Retail,Karnataka
+2285,Customer_02285,C&I,Rajasthan
+2286,Customer_02286,IPP,Kerala
+2287,Customer_02287,C&I,Maharashtra
+2288,Customer_02288,C&I,Andhra Pradesh
+2289,Customer_02289,C&I,Andhra Pradesh
+2290,Customer_02290,C&I,Gujarat
+2291,Customer_02291,C&I,Gujarat
+2292,Customer_02292,PSU,Tamil Nadu
+2293,Customer_02293,IPP,Maharashtra
+2294,Customer_02294,PSU,Rajasthan
+2295,Customer_02295,PSU,Maharashtra
+2296,Customer_02296,IPP,Odisha
+2297,Customer_02297,C&I,Andhra Pradesh
+2298,Customer_02298,C&I,Tamil Nadu
+2299,Customer_02299,PSU,Kerala
+2300,Customer_02300,Retail,Tamil Nadu
+2301,Customer_02301,C&I,Kerala
+2302,Customer_02302,PSU,Rajasthan
+2303,Customer_02303,PSU,Karnataka
+2304,Customer_02304,C&I,Maharashtra
+2305,Customer_02305,PSU,Rajasthan
+2306,Customer_02306,PSU,Gujarat
+2307,Customer_02307,C&I,Madhya Pradesh
+2308,Customer_02308,C&I,Telangana
+2309,Customer_02309,IPP,Kerala
+2310,Customer_02310,IPP,Telangana
+2311,Customer_02311,IPP,Andhra Pradesh
+2312,Customer_02312,IPP,Madhya Pradesh
+2313,Customer_02313,PSU,Karnataka
+2314,Customer_02314,Retail,Tamil Nadu
+2315,Customer_02315,IPP,Kerala
+2316,Customer_02316,IPP,Maharashtra
+2317,Customer_02317,PSU,Telangana
+2318,Customer_02318,IPP,Andhra Pradesh
+2319,Customer_02319,PSU,Madhya Pradesh
+2320,Customer_02320,IPP,Maharashtra
+2321,Customer_02321,C&I,Telangana
+2322,Customer_02322,IPP,Rajasthan
+2323,Customer_02323,C&I,Andhra Pradesh
+2324,Customer_02324,PSU,Andhra Pradesh
+2325,Customer_02325,C&I,Madhya Pradesh
+2326,Customer_02326,PSU,Rajasthan
+2327,Customer_02327,PSU,Telangana
+2328,Customer_02328,C&I,Karnataka
+2329,Customer_02329,IPP,Odisha
+2330,Customer_02330,IPP,Maharashtra
+2331,Customer_02331,IPP,Gujarat
+2332,Customer_02332,PSU,Gujarat
+2333,Customer_02333,IPP,Andhra Pradesh
+2334,Customer_02334,PSU,Madhya Pradesh
+2335,Customer_02335,C&I,Madhya Pradesh
+2336,Customer_02336,Retail,Madhya Pradesh
+2337,Customer_02337,Retail,Telangana
+2338,Customer_02338,Retail,Karnataka
+2339,Customer_02339,PSU,Kerala
+2340,Customer_02340,IPP,Odisha
+2341,Customer_02341,IPP,Tamil Nadu
+2342,Customer_02342,PSU,Andhra Pradesh
+2343,Customer_02343,PSU,Andhra Pradesh
+2344,Customer_02344,C&I,Andhra Pradesh
+2345,Customer_02345,IPP,Maharashtra
+2346,Customer_02346,IPP,Madhya Pradesh
+2347,Customer_02347,C&I,Tamil Nadu
+2348,Customer_02348,PSU,Kerala
+2349,Customer_02349,C&I,Karnataka
+2350,Customer_02350,C&I,Gujarat
+2351,Customer_02351,C&I,Karnataka
+2352,Customer_02352,PSU,Rajasthan
+2353,Customer_02353,C&I,Telangana
+2354,Customer_02354,IPP,Odisha
+2355,Customer_02355,C&I,Tamil Nadu
+2356,Customer_02356,PSU,Telangana
+2357,Customer_02357,PSU,Andhra Pradesh
+2358,Customer_02358,C&I,Tamil Nadu
+2359,Customer_02359,IPP,Maharashtra
+2360,Customer_02360,IPP,Kerala
+2361,Customer_02361,C&I,Kerala
+2362,Customer_02362,PSU,Karnataka
+2363,Customer_02363,IPP,Odisha
+2364,Customer_02364,C&I,Tamil Nadu
+2365,Customer_02365,C&I,Andhra Pradesh
+2366,Customer_02366,PSU,Kerala
+2367,Customer_02367,Retail,Karnataka
+2368,Customer_02368,IPP,Karnataka
+2369,Customer_02369,PSU,Andhra Pradesh
+2370,Customer_02370,IPP,Gujarat
+2371,Customer_02371,C&I,Kerala
+2372,Customer_02372,Retail,Maharashtra
+2373,Customer_02373,PSU,Odisha
+2374,Customer_02374,IPP,Andhra Pradesh
+2375,Customer_02375,C&I,Odisha
+2376,Customer_02376,PSU,Kerala
+2377,Customer_02377,C&I,Tamil Nadu
+2378,Customer_02378,IPP,Rajasthan
+2379,Customer_02379,C&I,Maharashtra
+2380,Customer_02380,PSU,Karnataka
+2381,Customer_02381,PSU,Rajasthan
+2382,Customer_02382,C&I,Gujarat
+2383,Customer_02383,PSU,Telangana
+2384,Customer_02384,IPP,Andhra Pradesh
+2385,Customer_02385,Retail,Telangana
+2386,Customer_02386,PSU,Kerala
+2387,Customer_02387,IPP,Maharashtra
+2388,Customer_02388,PSU,Maharashtra
+2389,Customer_02389,PSU,Rajasthan
+2390,Customer_02390,C&I,Rajasthan
+2391,Customer_02391,C&I,Odisha
+2392,Customer_02392,C&I,Karnataka
+2393,Customer_02393,PSU,Kerala
+2394,Customer_02394,PSU,Maharashtra
+2395,Customer_02395,IPP,Kerala
+2396,Customer_02396,C&I,Rajasthan
+2397,Customer_02397,IPP,Tamil Nadu
+2398,Customer_02398,C&I,Karnataka
+2399,Customer_02399,C&I,Kerala
+2400,Customer_02400,C&I,Rajasthan
+2401,Customer_02401,C&I,Rajasthan
+2402,Customer_02402,C&I,Maharashtra
+2403,Customer_02403,C&I,Madhya Pradesh
+2404,Customer_02404,IPP,Gujarat
+2405,Customer_02405,IPP,Odisha
+2406,Customer_02406,IPP,Karnataka
+2407,Customer_02407,C&I,Maharashtra
+2408,Customer_02408,C&I,Rajasthan
+2409,Customer_02409,IPP,Kerala
+2410,Customer_02410,C&I,Telangana
+2411,Customer_02411,PSU,Karnataka
+2412,Customer_02412,IPP,Maharashtra
+2413,Customer_02413,PSU,Andhra Pradesh
+2414,Customer_02414,IPP,Kerala
+2415,Customer_02415,C&I,Madhya Pradesh
+2416,Customer_02416,C&I,Telangana
+2417,Customer_02417,IPP,Kerala
+2418,Customer_02418,IPP,Karnataka
+2419,Customer_02419,C&I,Andhra Pradesh
+2420,Customer_02420,PSU,Gujarat
+2421,Customer_02421,PSU,Rajasthan
+2422,Customer_02422,IPP,Madhya Pradesh
+2423,Customer_02423,C&I,Rajasthan
+2424,Customer_02424,PSU,Madhya Pradesh
+2425,Customer_02425,C&I,Tamil Nadu
+2426,Customer_02426,PSU,Rajasthan
+2427,Customer_02427,C&I,Maharashtra
+2428,Customer_02428,C&I,Karnataka
+2429,Customer_02429,C&I,Odisha
+2430,Customer_02430,C&I,Kerala
+2431,Customer_02431,C&I,Maharashtra
+2432,Customer_02432,C&I,Odisha
+2433,Customer_02433,C&I,Gujarat
+2434,Customer_02434,IPP,Madhya Pradesh
+2435,Customer_02435,C&I,Odisha
+2436,Customer_02436,C&I,Kerala
+2437,Customer_02437,PSU,Kerala
+2438,Customer_02438,IPP,Maharashtra
+2439,Customer_02439,IPP,Rajasthan
+2440,Customer_02440,C&I,Maharashtra
+2441,Customer_02441,C&I,Tamil Nadu
+2442,Customer_02442,IPP,Odisha
+2443,Customer_02443,IPP,Maharashtra
+2444,Customer_02444,C&I,Gujarat
+2445,Customer_02445,PSU,Maharashtra
+2446,Customer_02446,PSU,Maharashtra
+2447,Customer_02447,IPP,Maharashtra
+2448,Customer_02448,C&I,Odisha
+2449,Customer_02449,PSU,Gujarat
+2450,Customer_02450,C&I,Kerala
+2451,Customer_02451,IPP,Karnataka
+2452,Customer_02452,C&I,Telangana
+2453,Customer_02453,C&I,Gujarat
+2454,Customer_02454,Retail,Madhya Pradesh
+2455,Customer_02455,C&I,Madhya Pradesh
+2456,Customer_02456,C&I,Rajasthan
+2457,Customer_02457,C&I,Madhya Pradesh
+2458,Customer_02458,IPP,Rajasthan
+2459,Customer_02459,IPP,Telangana
+2460,Customer_02460,C&I,Andhra Pradesh
+2461,Customer_02461,C&I,Gujarat
+2462,Customer_02462,IPP,Telangana
+2463,Customer_02463,C&I,Odisha
+2464,Customer_02464,IPP,Kerala
+2465,Customer_02465,C&I,Madhya Pradesh
+2466,Customer_02466,C&I,Madhya Pradesh
+2467,Customer_02467,IPP,Maharashtra
+2468,Customer_02468,IPP,Odisha
+2469,Customer_02469,PSU,Telangana
+2470,Customer_02470,PSU,Kerala
+2471,Customer_02471,PSU,Kerala
+2472,Customer_02472,PSU,Odisha
+2473,Customer_02473,PSU,Odisha
+2474,Customer_02474,PSU,Odisha
+2475,Customer_02475,IPP,Kerala
+2476,Customer_02476,IPP,Andhra Pradesh
+2477,Customer_02477,PSU,Andhra Pradesh
+2478,Customer_02478,IPP,Telangana
+2479,Customer_02479,PSU,Odisha
+2480,Customer_02480,Retail,Madhya Pradesh
+2481,Customer_02481,PSU,Rajasthan
+2482,Customer_02482,PSU,Andhra Pradesh
+2483,Customer_02483,Retail,Kerala
+2484,Customer_02484,IPP,Madhya Pradesh
+2485,Customer_02485,C&I,Andhra Pradesh
+2486,Customer_02486,Retail,Rajasthan
+2487,Customer_02487,PSU,Rajasthan
+2488,Customer_02488,PSU,Telangana
+2489,Customer_02489,C&I,Karnataka
+2490,Customer_02490,C&I,Gujarat
+2491,Customer_02491,IPP,Odisha
+2492,Customer_02492,C&I,Tamil Nadu
+2493,Customer_02493,C&I,Telangana
+2494,Customer_02494,PSU,Telangana
+2495,Customer_02495,C&I,Maharashtra
+2496,Customer_02496,C&I,Telangana
+2497,Customer_02497,IPP,Andhra Pradesh
+2498,Customer_02498,PSU,Madhya Pradesh
+2499,Customer_02499,C&I,Karnataka
+2500,Customer_02500,C&I,Rajasthan
+2501,Customer_02501,Retail,Rajasthan
+2502,Customer_02502,C&I,Tamil Nadu
+2503,Customer_02503,C&I,Kerala
+2504,Customer_02504,C&I,Maharashtra
+2505,Customer_02505,C&I,Rajasthan
+2506,Customer_02506,PSU,Odisha
+2507,Customer_02507,C&I,Andhra Pradesh
+2508,Customer_02508,IPP,Rajasthan
+2509,Customer_02509,Retail,Madhya Pradesh
+2510,Customer_02510,Retail,Karnataka
+2511,Customer_02511,PSU,Madhya Pradesh
+2512,Customer_02512,PSU,Maharashtra
+2513,Customer_02513,PSU,Karnataka
+2514,Customer_02514,C&I,Odisha
+2515,Customer_02515,Retail,Telangana
+2516,Customer_02516,C&I,Karnataka
+2517,Customer_02517,Retail,Odisha
+2518,Customer_02518,C&I,Maharashtra
+2519,Customer_02519,Retail,Andhra Pradesh
+2520,Customer_02520,Retail,Andhra Pradesh
+2521,Customer_02521,C&I,Tamil Nadu
+2522,Customer_02522,IPP,Gujarat
+2523,Customer_02523,C&I,Rajasthan
+2524,Customer_02524,C&I,Odisha
+2525,Customer_02525,IPP,Tamil Nadu
+2526,Customer_02526,IPP,Andhra Pradesh
+2527,Customer_02527,PSU,Madhya Pradesh
+2528,Customer_02528,IPP,Gujarat
+2529,Customer_02529,C&I,Rajasthan
+2530,Customer_02530,C&I,Gujarat
+2531,Customer_02531,C&I,Maharashtra
+2532,Customer_02532,C&I,Gujarat
+2533,Customer_02533,IPP,Tamil Nadu
+2534,Customer_02534,IPP,Madhya Pradesh
+2535,Customer_02535,PSU,Kerala
+2536,Customer_02536,IPP,Odisha
+2537,Customer_02537,IPP,Tamil Nadu
+2538,Customer_02538,C&I,Telangana
+2539,Customer_02539,C&I,Karnataka
+2540,Customer_02540,IPP,Gujarat
+2541,Customer_02541,IPP,Rajasthan
+2542,Customer_02542,PSU,Madhya Pradesh
+2543,Customer_02543,IPP,Telangana
+2544,Customer_02544,IPP,Andhra Pradesh
+2545,Customer_02545,PSU,Gujarat
+2546,Customer_02546,IPP,Rajasthan
+2547,Customer_02547,C&I,Rajasthan
+2548,Customer_02548,Retail,Madhya Pradesh
+2549,Customer_02549,IPP,Madhya Pradesh
+2550,Customer_02550,IPP,Telangana
+2551,Customer_02551,IPP,Karnataka
+2552,Customer_02552,C&I,Gujarat
+2553,Customer_02553,IPP,Karnataka
+2554,Customer_02554,C&I,Telangana
+2555,Customer_02555,C&I,Telangana
+2556,Customer_02556,IPP,Odisha
+2557,Customer_02557,IPP,Madhya Pradesh
+2558,Customer_02558,IPP,Gujarat
+2559,Customer_02559,IPP,Kerala
+2560,Customer_02560,PSU,Madhya Pradesh
+2561,Customer_02561,C&I,Telangana
+2562,Customer_02562,C&I,Andhra Pradesh
+2563,Customer_02563,C&I,Karnataka
+2564,Customer_02564,C&I,Odisha
+2565,Customer_02565,IPP,Maharashtra
+2566,Customer_02566,C&I,Maharashtra
+2567,Customer_02567,IPP,Odisha
+2568,Customer_02568,PSU,Karnataka
+2569,Customer_02569,IPP,Gujarat
+2570,Customer_02570,C&I,Odisha
+2571,Customer_02571,C&I,Madhya Pradesh
+2572,Customer_02572,Retail,Andhra Pradesh
+2573,Customer_02573,IPP,Maharashtra
+2574,Customer_02574,C&I,Tamil Nadu
+2575,Customer_02575,IPP,Madhya Pradesh
+2576,Customer_02576,C&I,Odisha
+2577,Customer_02577,C&I,Rajasthan
+2578,Customer_02578,C&I,Andhra Pradesh
+2579,Customer_02579,IPP,Kerala
+2580,Customer_02580,C&I,Tamil Nadu
+2581,Customer_02581,C&I,Kerala
+2582,Customer_02582,IPP,Maharashtra
+2583,Customer_02583,Retail,Telangana
+2584,Customer_02584,PSU,Odisha
+2585,Customer_02585,Retail,Karnataka
+2586,Customer_02586,C&I,Andhra Pradesh
+2587,Customer_02587,PSU,Kerala
+2588,Customer_02588,Retail,Karnataka
+2589,Customer_02589,C&I,Rajasthan
+2590,Customer_02590,IPP,Karnataka
+2591,Customer_02591,IPP,Andhra Pradesh
+2592,Customer_02592,Retail,Kerala
+2593,Customer_02593,C&I,Madhya Pradesh
+2594,Customer_02594,IPP,Odisha
+2595,Customer_02595,C&I,Tamil Nadu
+2596,Customer_02596,C&I,Telangana
+2597,Customer_02597,PSU,Odisha
+2598,Customer_02598,IPP,Tamil Nadu
+2599,Customer_02599,IPP,Maharashtra
+2600,Customer_02600,PSU,Karnataka
+2601,Customer_02601,IPP,Odisha
+2602,Customer_02602,PSU,Tamil Nadu
+2603,Customer_02603,IPP,Andhra Pradesh
+2604,Customer_02604,PSU,Rajasthan
+2605,Customer_02605,C&I,Maharashtra
+2606,Customer_02606,C&I,Karnataka
+2607,Customer_02607,IPP,Andhra Pradesh
+2608,Customer_02608,IPP,Telangana
+2609,Customer_02609,C&I,Karnataka
+2610,Customer_02610,PSU,Tamil Nadu
+2611,Customer_02611,Retail,Maharashtra
+2612,Customer_02612,C&I,Maharashtra
+2613,Customer_02613,IPP,Andhra Pradesh
+2614,Customer_02614,PSU,Gujarat
+2615,Customer_02615,Retail,Tamil Nadu
+2616,Customer_02616,IPP,Telangana
+2617,Customer_02617,IPP,Andhra Pradesh
+2618,Customer_02618,C&I,Madhya Pradesh
+2619,Customer_02619,C&I,Karnataka
+2620,Customer_02620,C&I,Rajasthan
+2621,Customer_02621,IPP,Madhya Pradesh
+2622,Customer_02622,C&I,Maharashtra
+2623,Customer_02623,C&I,Gujarat
+2624,Customer_02624,C&I,Maharashtra
+2625,Customer_02625,C&I,Madhya Pradesh
+2626,Customer_02626,PSU,Maharashtra
+2627,Customer_02627,C&I,Rajasthan
+2628,Customer_02628,PSU,Odisha
+2629,Customer_02629,IPP,Rajasthan
+2630,Customer_02630,Retail,Madhya Pradesh
+2631,Customer_02631,PSU,Kerala
+2632,Customer_02632,C&I,Gujarat
+2633,Customer_02633,Retail,Andhra Pradesh
+2634,Customer_02634,Retail,Madhya Pradesh
+2635,Customer_02635,C&I,Tamil Nadu
+2636,Customer_02636,C&I,Andhra Pradesh
+2637,Customer_02637,IPP,Tamil Nadu
+2638,Customer_02638,C&I,Kerala
+2639,Customer_02639,C&I,Maharashtra
+2640,Customer_02640,IPP,Madhya Pradesh
+2641,Customer_02641,IPP,Tamil Nadu
+2642,Customer_02642,C&I,Madhya Pradesh
+2643,Customer_02643,C&I,Kerala
+2644,Customer_02644,IPP,Telangana
+2645,Customer_02645,C&I,Tamil Nadu
+2646,Customer_02646,C&I,Kerala
+2647,Customer_02647,C&I,Gujarat
+2648,Customer_02648,IPP,Kerala
+2649,Customer_02649,C&I,Madhya Pradesh
+2650,Customer_02650,IPP,Gujarat
+2651,Customer_02651,C&I,Andhra Pradesh
+2652,Customer_02652,C&I,Rajasthan
+2653,Customer_02653,C&I,Gujarat
+2654,Customer_02654,IPP,Gujarat
+2655,Customer_02655,Retail,Kerala
+2656,Customer_02656,Retail,Andhra Pradesh
+2657,Customer_02657,C&I,Karnataka
+2658,Customer_02658,C&I,Gujarat
+2659,Customer_02659,C&I,Rajasthan
+2660,Customer_02660,C&I,Odisha
+2661,Customer_02661,C&I,Karnataka
+2662,Customer_02662,C&I,Madhya Pradesh
+2663,Customer_02663,C&I,Telangana
+2664,Customer_02664,PSU,Karnataka
+2665,Customer_02665,IPP,Rajasthan
+2666,Customer_02666,C&I,Gujarat
+2667,Customer_02667,C&I,Karnataka
+2668,Customer_02668,C&I,Rajasthan
+2669,Customer_02669,C&I,Madhya Pradesh
+2670,Customer_02670,C&I,Tamil Nadu
+2671,Customer_02671,C&I,Kerala
+2672,Customer_02672,IPP,Rajasthan
+2673,Customer_02673,C&I,Andhra Pradesh
+2674,Customer_02674,IPP,Kerala
+2675,Customer_02675,PSU,Gujarat
+2676,Customer_02676,C&I,Kerala
+2677,Customer_02677,C&I,Tamil Nadu
+2678,Customer_02678,Retail,Telangana
+2679,Customer_02679,Retail,Telangana
+2680,Customer_02680,IPP,Madhya Pradesh
+2681,Customer_02681,IPP,Madhya Pradesh
+2682,Customer_02682,Retail,Maharashtra
+2683,Customer_02683,C&I,Andhra Pradesh
+2684,Customer_02684,IPP,Rajasthan
+2685,Customer_02685,C&I,Andhra Pradesh
+2686,Customer_02686,C&I,Madhya Pradesh
+2687,Customer_02687,PSU,Maharashtra
+2688,Customer_02688,C&I,Gujarat
+2689,Customer_02689,IPP,Odisha
+2690,Customer_02690,PSU,Madhya Pradesh
+2691,Customer_02691,Retail,Tamil Nadu
+2692,Customer_02692,IPP,Andhra Pradesh
+2693,Customer_02693,C&I,Rajasthan
+2694,Customer_02694,C&I,Maharashtra
+2695,Customer_02695,PSU,Maharashtra
+2696,Customer_02696,Retail,Tamil Nadu
+2697,Customer_02697,IPP,Madhya Pradesh
+2698,Customer_02698,IPP,Madhya Pradesh
+2699,Customer_02699,PSU,Odisha
+2700,Customer_02700,C&I,Maharashtra
+2701,Customer_02701,C&I,Kerala
+2702,Customer_02702,PSU,Karnataka
+2703,Customer_02703,PSU,Kerala
+2704,Customer_02704,C&I,Karnataka
+2705,Customer_02705,C&I,Andhra Pradesh
+2706,Customer_02706,PSU,Madhya Pradesh
+2707,Customer_02707,IPP,Rajasthan
+2708,Customer_02708,Retail,Odisha
+2709,Customer_02709,C&I,Tamil Nadu
+2710,Customer_02710,IPP,Madhya Pradesh
+2711,Customer_02711,C&I,Karnataka
+2712,Customer_02712,C&I,Odisha
+2713,Customer_02713,IPP,Karnataka
+2714,Customer_02714,IPP,Gujarat
+2715,Customer_02715,IPP,Tamil Nadu
+2716,Customer_02716,C&I,Maharashtra
+2717,Customer_02717,PSU,Rajasthan
+2718,Customer_02718,C&I,Karnataka
+2719,Customer_02719,Retail,Andhra Pradesh
+2720,Customer_02720,IPP,Gujarat
+2721,Customer_02721,C&I,Madhya Pradesh
+2722,Customer_02722,C&I,Karnataka
+2723,Customer_02723,PSU,Tamil Nadu
+2724,Customer_02724,PSU,Karnataka
+2725,Customer_02725,C&I,Tamil Nadu
+2726,Customer_02726,C&I,Rajasthan
+2727,Customer_02727,IPP,Andhra Pradesh
+2728,Customer_02728,IPP,Andhra Pradesh
+2729,Customer_02729,C&I,Kerala
+2730,Customer_02730,IPP,Karnataka
+2731,Customer_02731,C&I,Andhra Pradesh
+2732,Customer_02732,Retail,Madhya Pradesh
+2733,Customer_02733,PSU,Gujarat
+2734,Customer_02734,PSU,Andhra Pradesh
+2735,Customer_02735,IPP,Kerala
+2736,Customer_02736,C&I,Madhya Pradesh
+2737,Customer_02737,PSU,Odisha
+2738,Customer_02738,IPP,Maharashtra
+2739,Customer_02739,C&I,Telangana
+2740,Customer_02740,IPP,Maharashtra
+2741,Customer_02741,C&I,Odisha
+2742,Customer_02742,IPP,Telangana
+2743,Customer_02743,PSU,Kerala
+2744,Customer_02744,PSU,Karnataka
+2745,Customer_02745,Retail,Maharashtra
+2746,Customer_02746,C&I,Gujarat
+2747,Customer_02747,IPP,Andhra Pradesh
+2748,Customer_02748,PSU,Andhra Pradesh
+2749,Customer_02749,PSU,Kerala
+2750,Customer_02750,IPP,Gujarat
+2751,Customer_02751,IPP,Karnataka
+2752,Customer_02752,IPP,Maharashtra
+2753,Customer_02753,IPP,Gujarat
+2754,Customer_02754,PSU,Telangana
+2755,Customer_02755,PSU,Telangana
+2756,Customer_02756,C&I,Gujarat
+2757,Customer_02757,C&I,Andhra Pradesh
+2758,Customer_02758,C&I,Andhra Pradesh
+2759,Customer_02759,C&I,Karnataka
+2760,Customer_02760,C&I,Gujarat
+2761,Customer_02761,IPP,Madhya Pradesh
+2762,Customer_02762,IPP,Kerala
+2763,Customer_02763,IPP,Rajasthan
+2764,Customer_02764,IPP,Karnataka
+2765,Customer_02765,IPP,Karnataka
+2766,Customer_02766,C&I,Karnataka
+2767,Customer_02767,C&I,Kerala
+2768,Customer_02768,IPP,Rajasthan
+2769,Customer_02769,IPP,Rajasthan
+2770,Customer_02770,C&I,Andhra Pradesh
+2771,Customer_02771,C&I,Odisha
+2772,Customer_02772,IPP,Gujarat
+2773,Customer_02773,C&I,Rajasthan
+2774,Customer_02774,IPP,Maharashtra
+2775,Customer_02775,IPP,Andhra Pradesh
+2776,Customer_02776,Retail,Rajasthan
+2777,Customer_02777,Retail,Telangana
+2778,Customer_02778,C&I,Telangana
+2779,Customer_02779,IPP,Telangana
+2780,Customer_02780,IPP,Andhra Pradesh
+2781,Customer_02781,IPP,Kerala
+2782,Customer_02782,PSU,Tamil Nadu
+2783,Customer_02783,C&I,Telangana
+2784,Customer_02784,IPP,Maharashtra
+2785,Customer_02785,Retail,Karnataka
+2786,Customer_02786,PSU,Madhya Pradesh
+2787,Customer_02787,C&I,Tamil Nadu
+2788,Customer_02788,C&I,Kerala
+2789,Customer_02789,C&I,Karnataka
+2790,Customer_02790,PSU,Kerala
+2791,Customer_02791,PSU,Andhra Pradesh
+2792,Customer_02792,C&I,Kerala
+2793,Customer_02793,C&I,Andhra Pradesh
+2794,Customer_02794,PSU,Madhya Pradesh
+2795,Customer_02795,C&I,Tamil Nadu
+2796,Customer_02796,C&I,Gujarat
+2797,Customer_02797,C&I,Odisha
+2798,Customer_02798,IPP,Gujarat
+2799,Customer_02799,PSU,Telangana
+2800,Customer_02800,C&I,Madhya Pradesh
+2801,Customer_02801,IPP,Gujarat
+2802,Customer_02802,C&I,Telangana
+2803,Customer_02803,C&I,Madhya Pradesh
+2804,Customer_02804,IPP,Rajasthan
+2805,Customer_02805,IPP,Tamil Nadu
+2806,Customer_02806,C&I,Gujarat
+2807,Customer_02807,C&I,Madhya Pradesh
+2808,Customer_02808,Retail,Rajasthan
+2809,Customer_02809,C&I,Madhya Pradesh
+2810,Customer_02810,C&I,Telangana
+2811,Customer_02811,C&I,Maharashtra
+2812,Customer_02812,C&I,Andhra Pradesh
+2813,Customer_02813,IPP,Odisha
+2814,Customer_02814,C&I,Kerala
+2815,Customer_02815,C&I,Andhra Pradesh
+2816,Customer_02816,Retail,Madhya Pradesh
+2817,Customer_02817,PSU,Gujarat
+2818,Customer_02818,PSU,Telangana
+2819,Customer_02819,C&I,Gujarat
+2820,Customer_02820,C&I,Odisha
+2821,Customer_02821,IPP,Odisha
+2822,Customer_02822,IPP,Madhya Pradesh
+2823,Customer_02823,PSU,Telangana
+2824,Customer_02824,IPP,Karnataka
+2825,Customer_02825,PSU,Andhra Pradesh
+2826,Customer_02826,C&I,Karnataka
+2827,Customer_02827,C&I,Odisha
+2828,Customer_02828,C&I,Madhya Pradesh
+2829,Customer_02829,C&I,Odisha
+2830,Customer_02830,C&I,Tamil Nadu
+2831,Customer_02831,IPP,Tamil Nadu
+2832,Customer_02832,PSU,Madhya Pradesh
+2833,Customer_02833,C&I,Gujarat
+2834,Customer_02834,IPP,Andhra Pradesh
+2835,Customer_02835,C&I,Kerala
+2836,Customer_02836,Retail,Telangana
+2837,Customer_02837,C&I,Odisha
+2838,Customer_02838,PSU,Kerala
+2839,Customer_02839,IPP,Madhya Pradesh
+2840,Customer_02840,IPP,Karnataka
+2841,Customer_02841,PSU,Odisha
+2842,Customer_02842,PSU,Andhra Pradesh
+2843,Customer_02843,IPP,Kerala
+2844,Customer_02844,PSU,Telangana
+2845,Customer_02845,C&I,Odisha
+2846,Customer_02846,C&I,Andhra Pradesh
+2847,Customer_02847,PSU,Karnataka
+2848,Customer_02848,C&I,Andhra Pradesh
+2849,Customer_02849,C&I,Telangana
+2850,Customer_02850,C&I,Tamil Nadu
+2851,Customer_02851,C&I,Madhya Pradesh
+2852,Customer_02852,PSU,Kerala
+2853,Customer_02853,Retail,Tamil Nadu
+2854,Customer_02854,C&I,Andhra Pradesh
+2855,Customer_02855,IPP,Kerala
+2856,Customer_02856,C&I,Rajasthan
+2857,Customer_02857,C&I,Gujarat
+2858,Customer_02858,IPP,Andhra Pradesh
+2859,Customer_02859,IPP,Odisha
+2860,Customer_02860,IPP,Tamil Nadu
+2861,Customer_02861,IPP,Andhra Pradesh
+2862,Customer_02862,IPP,Odisha
+2863,Customer_02863,PSU,Karnataka
+2864,Customer_02864,Retail,Maharashtra
+2865,Customer_02865,C&I,Maharashtra
+2866,Customer_02866,C&I,Maharashtra
+2867,Customer_02867,C&I,Andhra Pradesh
+2868,Customer_02868,Retail,Gujarat
+2869,Customer_02869,IPP,Madhya Pradesh
+2870,Customer_02870,PSU,Rajasthan
+2871,Customer_02871,PSU,Rajasthan
+2872,Customer_02872,C&I,Karnataka
+2873,Customer_02873,Retail,Madhya Pradesh
+2874,Customer_02874,PSU,Gujarat
+2875,Customer_02875,C&I,Odisha
+2876,Customer_02876,PSU,Kerala
+2877,Customer_02877,IPP,Andhra Pradesh
+2878,Customer_02878,C&I,Odisha
+2879,Customer_02879,IPP,Rajasthan
+2880,Customer_02880,C&I,Gujarat
+2881,Customer_02881,PSU,Telangana
+2882,Customer_02882,Retail,Kerala
+2883,Customer_02883,Retail,Tamil Nadu
+2884,Customer_02884,C&I,Odisha
+2885,Customer_02885,PSU,Karnataka
+2886,Customer_02886,C&I,Rajasthan
+2887,Customer_02887,C&I,Gujarat
+2888,Customer_02888,IPP,Andhra Pradesh
+2889,Customer_02889,C&I,Odisha
+2890,Customer_02890,C&I,Madhya Pradesh
+2891,Customer_02891,C&I,Andhra Pradesh
+2892,Customer_02892,PSU,Maharashtra
+2893,Customer_02893,PSU,Kerala
+2894,Customer_02894,PSU,Telangana
+2895,Customer_02895,PSU,Andhra Pradesh
+2896,Customer_02896,C&I,Kerala
+2897,Customer_02897,IPP,Gujarat
+2898,Customer_02898,C&I,Karnataka
+2899,Customer_02899,IPP,Odisha
+2900,Customer_02900,Retail,Andhra Pradesh
+2901,Customer_02901,IPP,Maharashtra
+2902,Customer_02902,PSU,Telangana
+2903,Customer_02903,IPP,Rajasthan
+2904,Customer_02904,IPP,Odisha
+2905,Customer_02905,PSU,Kerala
+2906,Customer_02906,C&I,Maharashtra
+2907,Customer_02907,IPP,Karnataka
+2908,Customer_02908,C&I,Telangana
+2909,Customer_02909,C&I,Karnataka
+2910,Customer_02910,C&I,Karnataka
+2911,Customer_02911,C&I,Andhra Pradesh
+2912,Customer_02912,IPP,Rajasthan
+2913,Customer_02913,PSU,Tamil Nadu
+2914,Customer_02914,C&I,Telangana
+2915,Customer_02915,C&I,Odisha
+2916,Customer_02916,IPP,Telangana
+2917,Customer_02917,C&I,Maharashtra
+2918,Customer_02918,IPP,Tamil Nadu
+2919,Customer_02919,Retail,Odisha
+2920,Customer_02920,C&I,Andhra Pradesh
+2921,Customer_02921,PSU,Tamil Nadu
+2922,Customer_02922,IPP,Andhra Pradesh
+2923,Customer_02923,PSU,Rajasthan
+2924,Customer_02924,IPP,Rajasthan
+2925,Customer_02925,C&I,Madhya Pradesh
+2926,Customer_02926,IPP,Madhya Pradesh
+2927,Customer_02927,PSU,Tamil Nadu
+2928,Customer_02928,C&I,Odisha
+2929,Customer_02929,PSU,Telangana
+2930,Customer_02930,PSU,Andhra Pradesh
+2931,Customer_02931,C&I,Gujarat
+2932,Customer_02932,IPP,Kerala
+2933,Customer_02933,Retail,Andhra Pradesh
+2934,Customer_02934,C&I,Maharashtra
+2935,Customer_02935,C&I,Odisha
+2936,Customer_02936,C&I,Madhya Pradesh
+2937,Customer_02937,PSU,Gujarat
+2938,Customer_02938,C&I,Madhya Pradesh
+2939,Customer_02939,PSU,Rajasthan
+2940,Customer_02940,IPP,Kerala
+2941,Customer_02941,C&I,Gujarat
+2942,Customer_02942,IPP,Rajasthan
+2943,Customer_02943,C&I,Maharashtra
+2944,Customer_02944,IPP,Rajasthan
+2945,Customer_02945,IPP,Rajasthan
+2946,Customer_02946,C&I,Andhra Pradesh
+2947,Customer_02947,C&I,Tamil Nadu
+2948,Customer_02948,C&I,Rajasthan
+2949,Customer_02949,C&I,Gujarat
+2950,Customer_02950,Retail,Odisha
+2951,Customer_02951,C&I,Odisha
+2952,Customer_02952,IPP,Gujarat
+2953,Customer_02953,PSU,Andhra Pradesh
+2954,Customer_02954,C&I,Maharashtra
+2955,Customer_02955,C&I,Rajasthan
+2956,Customer_02956,C&I,Rajasthan
+2957,Customer_02957,PSU,Maharashtra
+2958,Customer_02958,Retail,Andhra Pradesh
+2959,Customer_02959,IPP,Tamil Nadu
+2960,Customer_02960,C&I,Karnataka
+2961,Customer_02961,IPP,Karnataka
+2962,Customer_02962,C&I,Tamil Nadu
+2963,Customer_02963,Retail,Odisha
+2964,Customer_02964,IPP,Odisha
+2965,Customer_02965,IPP,Madhya Pradesh
+2966,Customer_02966,C&I,Madhya Pradesh
+2967,Customer_02967,IPP,Tamil Nadu
+2968,Customer_02968,C&I,Telangana
+2969,Customer_02969,IPP,Odisha
+2970,Customer_02970,IPP,Maharashtra
+2971,Customer_02971,Retail,Maharashtra
+2972,Customer_02972,C&I,Odisha
+2973,Customer_02973,C&I,Tamil Nadu
+2974,Customer_02974,IPP,Kerala
+2975,Customer_02975,C&I,Kerala
+2976,Customer_02976,Retail,Kerala
+2977,Customer_02977,IPP,Rajasthan
+2978,Customer_02978,C&I,Kerala
+2979,Customer_02979,IPP,Karnataka
+2980,Customer_02980,IPP,Odisha
+2981,Customer_02981,PSU,Rajasthan
+2982,Customer_02982,Retail,Karnataka
+2983,Customer_02983,IPP,Karnataka
+2984,Customer_02984,PSU,Telangana
+2985,Customer_02985,PSU,Rajasthan
+2986,Customer_02986,C&I,Maharashtra
+2987,Customer_02987,C&I,Telangana
+2988,Customer_02988,C&I,Telangana
+2989,Customer_02989,IPP,Andhra Pradesh
+2990,Customer_02990,PSU,Rajasthan
+2991,Customer_02991,C&I,Kerala
+2992,Customer_02992,C&I,Gujarat
+2993,Customer_02993,IPP,Maharashtra
+2994,Customer_02994,IPP,Rajasthan
+2995,Customer_02995,PSU,Odisha
+2996,Customer_02996,C&I,Madhya Pradesh
+2997,Customer_02997,IPP,Karnataka
+2998,Customer_02998,IPP,Gujarat
+2999,Customer_02999,C&I,Tamil Nadu
+3000,Customer_03000,IPP,Odisha
+3001,Customer_03001,PSU,Tamil Nadu
+3002,Customer_03002,C&I,Telangana
+3003,Customer_03003,IPP,Andhra Pradesh
+3004,Customer_03004,PSU,Kerala
+3005,Customer_03005,C&I,Tamil Nadu
+3006,Customer_03006,C&I,Madhya Pradesh
+3007,Customer_03007,C&I,Karnataka
+3008,Customer_03008,PSU,Kerala
+3009,Customer_03009,C&I,Rajasthan
+3010,Customer_03010,IPP,Kerala
+3011,Customer_03011,PSU,Telangana
+3012,Customer_03012,PSU,Gujarat
+3013,Customer_03013,PSU,Andhra Pradesh
+3014,Customer_03014,IPP,Odisha
+3015,Customer_03015,IPP,Rajasthan
+3016,Customer_03016,PSU,Madhya Pradesh
+3017,Customer_03017,IPP,Maharashtra
+3018,Customer_03018,IPP,Andhra Pradesh
+3019,Customer_03019,C&I,Andhra Pradesh
+3020,Customer_03020,IPP,Karnataka
+3021,Customer_03021,C&I,Odisha
+3022,Customer_03022,C&I,Kerala
+3023,Customer_03023,C&I,Gujarat
+3024,Customer_03024,Retail,Madhya Pradesh
+3025,Customer_03025,C&I,Karnataka
+3026,Customer_03026,C&I,Telangana
+3027,Customer_03027,C&I,Kerala
+3028,Customer_03028,PSU,Karnataka
+3029,Customer_03029,C&I,Rajasthan
+3030,Customer_03030,IPP,Rajasthan
+3031,Customer_03031,IPP,Gujarat
+3032,Customer_03032,C&I,Tamil Nadu
+3033,Customer_03033,PSU,Telangana
+3034,Customer_03034,PSU,Maharashtra
+3035,Customer_03035,PSU,Gujarat
+3036,Customer_03036,Retail,Kerala
+3037,Customer_03037,C&I,Rajasthan
+3038,Customer_03038,PSU,Gujarat
+3039,Customer_03039,IPP,Tamil Nadu
+3040,Customer_03040,PSU,Rajasthan
+3041,Customer_03041,IPP,Gujarat
+3042,Customer_03042,IPP,Andhra Pradesh
+3043,Customer_03043,PSU,Maharashtra
+3044,Customer_03044,C&I,Telangana
+3045,Customer_03045,PSU,Maharashtra
+3046,Customer_03046,C&I,Maharashtra
+3047,Customer_03047,C&I,Odisha
+3048,Customer_03048,IPP,Andhra Pradesh
+3049,Customer_03049,IPP,Gujarat
+3050,Customer_03050,PSU,Kerala
+3051,Customer_03051,Retail,Odisha
+3052,Customer_03052,IPP,Andhra Pradesh
+3053,Customer_03053,IPP,Telangana
+3054,Customer_03054,Retail,Gujarat
+3055,Customer_03055,PSU,Madhya Pradesh
+3056,Customer_03056,C&I,Odisha
+3057,Customer_03057,PSU,Karnataka
+3058,Customer_03058,C&I,Karnataka
+3059,Customer_03059,Retail,Rajasthan
+3060,Customer_03060,IPP,Rajasthan
+3061,Customer_03061,C&I,Tamil Nadu
+3062,Customer_03062,C&I,Karnataka
+3063,Customer_03063,Retail,Madhya Pradesh
+3064,Customer_03064,Retail,Maharashtra
+3065,Customer_03065,IPP,Madhya Pradesh
+3066,Customer_03066,C&I,Kerala
+3067,Customer_03067,C&I,Odisha
+3068,Customer_03068,C&I,Tamil Nadu
+3069,Customer_03069,PSU,Kerala
+3070,Customer_03070,C&I,Gujarat
+3071,Customer_03071,IPP,Madhya Pradesh
+3072,Customer_03072,C&I,Andhra Pradesh
+3073,Customer_03073,C&I,Rajasthan
+3074,Customer_03074,IPP,Andhra Pradesh
+3075,Customer_03075,IPP,Karnataka
+3076,Customer_03076,C&I,Madhya Pradesh
+3077,Customer_03077,IPP,Kerala
+3078,Customer_03078,PSU,Andhra Pradesh
+3079,Customer_03079,IPP,Tamil Nadu
+3080,Customer_03080,PSU,Odisha
+3081,Customer_03081,C&I,Maharashtra
+3082,Customer_03082,C&I,Maharashtra
+3083,Customer_03083,IPP,Rajasthan
+3084,Customer_03084,C&I,Andhra Pradesh
+3085,Customer_03085,IPP,Rajasthan
+3086,Customer_03086,C&I,Odisha
+3087,Customer_03087,IPP,Maharashtra
+3088,Customer_03088,C&I,Kerala
+3089,Customer_03089,C&I,Rajasthan
+3090,Customer_03090,C&I,Gujarat
+3091,Customer_03091,C&I,Karnataka
+3092,Customer_03092,C&I,Andhra Pradesh
+3093,Customer_03093,Retail,Kerala
+3094,Customer_03094,C&I,Telangana
+3095,Customer_03095,IPP,Maharashtra
+3096,Customer_03096,PSU,Andhra Pradesh
+3097,Customer_03097,C&I,Odisha
+3098,Customer_03098,C&I,Madhya Pradesh
+3099,Customer_03099,PSU,Karnataka
+3100,Customer_03100,PSU,Tamil Nadu
+3101,Customer_03101,IPP,Tamil Nadu
+3102,Customer_03102,C&I,Rajasthan
+3103,Customer_03103,Retail,Madhya Pradesh
+3104,Customer_03104,IPP,Tamil Nadu
+3105,Customer_03105,IPP,Gujarat
+3106,Customer_03106,IPP,Madhya Pradesh
+3107,Customer_03107,C&I,Odisha
+3108,Customer_03108,PSU,Madhya Pradesh
+3109,Customer_03109,C&I,Rajasthan
+3110,Customer_03110,C&I,Kerala
+3111,Customer_03111,C&I,Gujarat
+3112,Customer_03112,IPP,Madhya Pradesh
+3113,Customer_03113,C&I,Tamil Nadu
+3114,Customer_03114,C&I,Telangana
+3115,Customer_03115,PSU,Gujarat
+3116,Customer_03116,Retail,Kerala
+3117,Customer_03117,PSU,Gujarat
+3118,Customer_03118,PSU,Telangana
+3119,Customer_03119,C&I,Kerala
+3120,Customer_03120,C&I,Rajasthan
+3121,Customer_03121,PSU,Karnataka
+3122,Customer_03122,PSU,Gujarat
+3123,Customer_03123,C&I,Karnataka
+3124,Customer_03124,PSU,Telangana
+3125,Customer_03125,C&I,Odisha
+3126,Customer_03126,IPP,Karnataka
+3127,Customer_03127,IPP,Karnataka
+3128,Customer_03128,IPP,Odisha
+3129,Customer_03129,Retail,Telangana
+3130,Customer_03130,IPP,Telangana
+3131,Customer_03131,C&I,Maharashtra
+3132,Customer_03132,C&I,Odisha
+3133,Customer_03133,C&I,Rajasthan
+3134,Customer_03134,IPP,Karnataka
+3135,Customer_03135,C&I,Tamil Nadu
+3136,Customer_03136,PSU,Karnataka
+3137,Customer_03137,IPP,Rajasthan
+3138,Customer_03138,Retail,Karnataka
+3139,Customer_03139,C&I,Andhra Pradesh
+3140,Customer_03140,C&I,Karnataka
+3141,Customer_03141,IPP,Andhra Pradesh
+3142,Customer_03142,C&I,Karnataka
+3143,Customer_03143,IPP,Karnataka
+3144,Customer_03144,C&I,Kerala
+3145,Customer_03145,C&I,Madhya Pradesh
+3146,Customer_03146,C&I,Telangana
+3147,Customer_03147,C&I,Odisha
+3148,Customer_03148,IPP,Telangana
+3149,Customer_03149,C&I,Karnataka
+3150,Customer_03150,Retail,Tamil Nadu
+3151,Customer_03151,C&I,Maharashtra
+3152,Customer_03152,Retail,Maharashtra
+3153,Customer_03153,IPP,Telangana
+3154,Customer_03154,C&I,Maharashtra
+3155,Customer_03155,IPP,Tamil Nadu
+3156,Customer_03156,C&I,Gujarat
+3157,Customer_03157,PSU,Rajasthan
+3158,Customer_03158,C&I,Andhra Pradesh
+3159,Customer_03159,C&I,Gujarat
+3160,Customer_03160,IPP,Andhra Pradesh
+3161,Customer_03161,PSU,Madhya Pradesh
+3162,Customer_03162,C&I,Kerala
+3163,Customer_03163,IPP,Tamil Nadu
+3164,Customer_03164,C&I,Tamil Nadu
+3165,Customer_03165,Retail,Karnataka
+3166,Customer_03166,IPP,Karnataka
+3167,Customer_03167,Retail,Karnataka
+3168,Customer_03168,C&I,Kerala
+3169,Customer_03169,IPP,Kerala
+3170,Customer_03170,IPP,Karnataka
+3171,Customer_03171,IPP,Kerala
+3172,Customer_03172,IPP,Madhya Pradesh
+3173,Customer_03173,IPP,Rajasthan
+3174,Customer_03174,IPP,Telangana
+3175,Customer_03175,PSU,Rajasthan
+3176,Customer_03176,IPP,Rajasthan
+3177,Customer_03177,C&I,Maharashtra
+3178,Customer_03178,IPP,Kerala
+3179,Customer_03179,C&I,Gujarat
+3180,Customer_03180,IPP,Karnataka
+3181,Customer_03181,C&I,Gujarat
+3182,Customer_03182,IPP,Andhra Pradesh
+3183,Customer_03183,Retail,Maharashtra
+3184,Customer_03184,Retail,Rajasthan
+3185,Customer_03185,Retail,Andhra Pradesh
+3186,Customer_03186,PSU,Tamil Nadu
+3187,Customer_03187,PSU,Maharashtra
+3188,Customer_03188,C&I,Tamil Nadu
+3189,Customer_03189,IPP,Madhya Pradesh
+3190,Customer_03190,C&I,Telangana
+3191,Customer_03191,Retail,Rajasthan
+3192,Customer_03192,C&I,Rajasthan
+3193,Customer_03193,C&I,Tamil Nadu
+3194,Customer_03194,IPP,Madhya Pradesh
+3195,Customer_03195,PSU,Odisha
+3196,Customer_03196,IPP,Tamil Nadu
+3197,Customer_03197,C&I,Rajasthan
+3198,Customer_03198,IPP,Karnataka
+3199,Customer_03199,PSU,Odisha
+3200,Customer_03200,IPP,Telangana
+3201,Customer_03201,IPP,Andhra Pradesh
+3202,Customer_03202,IPP,Tamil Nadu
+3203,Customer_03203,IPP,Andhra Pradesh
+3204,Customer_03204,IPP,Maharashtra
+3205,Customer_03205,IPP,Kerala
+3206,Customer_03206,C&I,Rajasthan
+3207,Customer_03207,IPP,Rajasthan
+3208,Customer_03208,IPP,Kerala
+3209,Customer_03209,PSU,Andhra Pradesh
+3210,Customer_03210,C&I,Karnataka
+3211,Customer_03211,PSU,Madhya Pradesh
+3212,Customer_03212,IPP,Rajasthan
+3213,Customer_03213,C&I,Karnataka
+3214,Customer_03214,IPP,Odisha
+3215,Customer_03215,Retail,Telangana
+3216,Customer_03216,IPP,Gujarat
+3217,Customer_03217,IPP,Rajasthan
+3218,Customer_03218,PSU,Tamil Nadu
+3219,Customer_03219,PSU,Maharashtra
+3220,Customer_03220,C&I,Karnataka
+3221,Customer_03221,C&I,Gujarat
+3222,Customer_03222,C&I,Gujarat
+3223,Customer_03223,IPP,Odisha
+3224,Customer_03224,C&I,Madhya Pradesh
+3225,Customer_03225,C&I,Karnataka
+3226,Customer_03226,C&I,Andhra Pradesh
+3227,Customer_03227,IPP,Tamil Nadu
+3228,Customer_03228,C&I,Telangana
+3229,Customer_03229,C&I,Telangana
+3230,Customer_03230,PSU,Gujarat
+3231,Customer_03231,C&I,Odisha
+3232,Customer_03232,C&I,Tamil Nadu
+3233,Customer_03233,IPP,Kerala
+3234,Customer_03234,IPP,Madhya Pradesh
+3235,Customer_03235,C&I,Gujarat
+3236,Customer_03236,IPP,Tamil Nadu
+3237,Customer_03237,C&I,Odisha
+3238,Customer_03238,PSU,Odisha
+3239,Customer_03239,C&I,Madhya Pradesh
+3240,Customer_03240,C&I,Maharashtra
+3241,Customer_03241,IPP,Rajasthan
+3242,Customer_03242,IPP,Maharashtra
+3243,Customer_03243,C&I,Karnataka
+3244,Customer_03244,IPP,Rajasthan
+3245,Customer_03245,IPP,Andhra Pradesh
+3246,Customer_03246,IPP,Telangana
+3247,Customer_03247,IPP,Rajasthan
+3248,Customer_03248,C&I,Odisha
+3249,Customer_03249,C&I,Maharashtra
+3250,Customer_03250,IPP,Telangana
+3251,Customer_03251,C&I,Madhya Pradesh
+3252,Customer_03252,PSU,Tamil Nadu
+3253,Customer_03253,C&I,Odisha
+3254,Customer_03254,IPP,Odisha
+3255,Customer_03255,Retail,Maharashtra
+3256,Customer_03256,C&I,Kerala
+3257,Customer_03257,IPP,Rajasthan
+3258,Customer_03258,C&I,Madhya Pradesh
+3259,Customer_03259,IPP,Madhya Pradesh
+3260,Customer_03260,C&I,Kerala
+3261,Customer_03261,PSU,Andhra Pradesh
+3262,Customer_03262,PSU,Telangana
+3263,Customer_03263,C&I,Karnataka
+3264,Customer_03264,C&I,Odisha
+3265,Customer_03265,PSU,Odisha
+3266,Customer_03266,IPP,Maharashtra
+3267,Customer_03267,C&I,Odisha
+3268,Customer_03268,IPP,Karnataka
+3269,Customer_03269,C&I,Rajasthan
+3270,Customer_03270,IPP,Gujarat
+3271,Customer_03271,Retail,Maharashtra
+3272,Customer_03272,C&I,Gujarat
+3273,Customer_03273,PSU,Odisha
+3274,Customer_03274,IPP,Andhra Pradesh
+3275,Customer_03275,IPP,Kerala
+3276,Customer_03276,C&I,Madhya Pradesh
+3277,Customer_03277,C&I,Tamil Nadu
+3278,Customer_03278,PSU,Madhya Pradesh
+3279,Customer_03279,C&I,Karnataka
+3280,Customer_03280,C&I,Madhya Pradesh
+3281,Customer_03281,PSU,Karnataka
+3282,Customer_03282,C&I,Andhra Pradesh
+3283,Customer_03283,IPP,Telangana
+3284,Customer_03284,PSU,Rajasthan
+3285,Customer_03285,IPP,Rajasthan
+3286,Customer_03286,C&I,Telangana
+3287,Customer_03287,PSU,Maharashtra
+3288,Customer_03288,IPP,Andhra Pradesh
+3289,Customer_03289,PSU,Tamil Nadu
+3290,Customer_03290,C&I,Rajasthan
+3291,Customer_03291,Retail,Andhra Pradesh
+3292,Customer_03292,IPP,Andhra Pradesh
+3293,Customer_03293,IPP,Odisha
+3294,Customer_03294,PSU,Odisha
+3295,Customer_03295,IPP,Madhya Pradesh
+3296,Customer_03296,C&I,Rajasthan
+3297,Customer_03297,C&I,Telangana
+3298,Customer_03298,Retail,Madhya Pradesh
+3299,Customer_03299,C&I,Rajasthan
+3300,Customer_03300,PSU,Andhra Pradesh
+3301,Customer_03301,C&I,Rajasthan
+3302,Customer_03302,PSU,Rajasthan
+3303,Customer_03303,C&I,Tamil Nadu
+3304,Customer_03304,IPP,Andhra Pradesh
+3305,Customer_03305,C&I,Rajasthan
+3306,Customer_03306,C&I,Gujarat
+3307,Customer_03307,C&I,Maharashtra
+3308,Customer_03308,C&I,Madhya Pradesh
+3309,Customer_03309,IPP,Madhya Pradesh
+3310,Customer_03310,C&I,Tamil Nadu
+3311,Customer_03311,PSU,Maharashtra
+3312,Customer_03312,IPP,Karnataka
+3313,Customer_03313,IPP,Karnataka
+3314,Customer_03314,C&I,Telangana
+3315,Customer_03315,Retail,Odisha
+3316,Customer_03316,Retail,Telangana
+3317,Customer_03317,C&I,Rajasthan
+3318,Customer_03318,C&I,Rajasthan
+3319,Customer_03319,C&I,Maharashtra
+3320,Customer_03320,IPP,Andhra Pradesh
+3321,Customer_03321,Retail,Tamil Nadu
+3322,Customer_03322,C&I,Karnataka
+3323,Customer_03323,PSU,Gujarat
+3324,Customer_03324,PSU,Karnataka
+3325,Customer_03325,IPP,Maharashtra
+3326,Customer_03326,C&I,Kerala
+3327,Customer_03327,IPP,Tamil Nadu
+3328,Customer_03328,C&I,Andhra Pradesh
+3329,Customer_03329,C&I,Madhya Pradesh
+3330,Customer_03330,IPP,Rajasthan
+3331,Customer_03331,C&I,Telangana
+3332,Customer_03332,C&I,Madhya Pradesh
+3333,Customer_03333,PSU,Karnataka
+3334,Customer_03334,IPP,Odisha
+3335,Customer_03335,IPP,Telangana
+3336,Customer_03336,C&I,Madhya Pradesh
+3337,Customer_03337,C&I,Andhra Pradesh
+3338,Customer_03338,PSU,Telangana
+3339,Customer_03339,C&I,Tamil Nadu
+3340,Customer_03340,IPP,Telangana
+3341,Customer_03341,IPP,Karnataka
+3342,Customer_03342,IPP,Andhra Pradesh
+3343,Customer_03343,PSU,Kerala
+3344,Customer_03344,PSU,Karnataka
+3345,Customer_03345,IPP,Madhya Pradesh
+3346,Customer_03346,IPP,Telangana
+3347,Customer_03347,C&I,Karnataka
+3348,Customer_03348,IPP,Andhra Pradesh
+3349,Customer_03349,C&I,Gujarat
+3350,Customer_03350,PSU,Gujarat
+3351,Customer_03351,IPP,Gujarat
+3352,Customer_03352,IPP,Rajasthan
+3353,Customer_03353,PSU,Tamil Nadu
+3354,Customer_03354,C&I,Andhra Pradesh
+3355,Customer_03355,PSU,Odisha
+3356,Customer_03356,C&I,Rajasthan
+3357,Customer_03357,C&I,Tamil Nadu
+3358,Customer_03358,C&I,Karnataka
+3359,Customer_03359,Retail,Rajasthan
+3360,Customer_03360,C&I,Odisha
+3361,Customer_03361,C&I,Odisha
+3362,Customer_03362,Retail,Odisha
+3363,Customer_03363,IPP,Rajasthan
+3364,Customer_03364,IPP,Telangana
+3365,Customer_03365,PSU,Tamil Nadu
+3366,Customer_03366,C&I,Gujarat
+3367,Customer_03367,IPP,Andhra Pradesh
+3368,Customer_03368,IPP,Andhra Pradesh
+3369,Customer_03369,C&I,Gujarat
+3370,Customer_03370,C&I,Kerala
+3371,Customer_03371,C&I,Maharashtra
+3372,Customer_03372,Retail,Rajasthan
+3373,Customer_03373,IPP,Andhra Pradesh
+3374,Customer_03374,C&I,Maharashtra
+3375,Customer_03375,IPP,Rajasthan
+3376,Customer_03376,C&I,Karnataka
+3377,Customer_03377,IPP,Maharashtra
+3378,Customer_03378,IPP,Andhra Pradesh
+3379,Customer_03379,C&I,Kerala
+3380,Customer_03380,IPP,Karnataka
+3381,Customer_03381,C&I,Tamil Nadu
+3382,Customer_03382,PSU,Odisha
+3383,Customer_03383,IPP,Tamil Nadu
+3384,Customer_03384,IPP,Maharashtra
+3385,Customer_03385,Retail,Gujarat
+3386,Customer_03386,IPP,Andhra Pradesh
+3387,Customer_03387,IPP,Telangana
+3388,Customer_03388,Retail,Odisha
+3389,Customer_03389,IPP,Rajasthan
+3390,Customer_03390,PSU,Odisha
+3391,Customer_03391,C&I,Maharashtra
+3392,Customer_03392,Retail,Gujarat
+3393,Customer_03393,IPP,Andhra Pradesh
+3394,Customer_03394,IPP,Madhya Pradesh
+3395,Customer_03395,PSU,Odisha
+3396,Customer_03396,IPP,Odisha
+3397,Customer_03397,C&I,Rajasthan
+3398,Customer_03398,IPP,Telangana
+3399,Customer_03399,IPP,Odisha
+3400,Customer_03400,C&I,Odisha
+3401,Customer_03401,IPP,Rajasthan
+3402,Customer_03402,PSU,Maharashtra
+3403,Customer_03403,IPP,Tamil Nadu
+3404,Customer_03404,PSU,Maharashtra
+3405,Customer_03405,C&I,Kerala
+3406,Customer_03406,Retail,Tamil Nadu
+3407,Customer_03407,PSU,Madhya Pradesh
+3408,Customer_03408,C&I,Karnataka
+3409,Customer_03409,IPP,Andhra Pradesh
+3410,Customer_03410,C&I,Tamil Nadu
+3411,Customer_03411,IPP,Karnataka
+3412,Customer_03412,IPP,Andhra Pradesh
+3413,Customer_03413,IPP,Gujarat
+3414,Customer_03414,C&I,Telangana
+3415,Customer_03415,Retail,Kerala
+3416,Customer_03416,C&I,Kerala
+3417,Customer_03417,C&I,Tamil Nadu
+3418,Customer_03418,IPP,Maharashtra
+3419,Customer_03419,IPP,Odisha
+3420,Customer_03420,C&I,Rajasthan
+3421,Customer_03421,C&I,Gujarat
+3422,Customer_03422,PSU,Telangana
+3423,Customer_03423,IPP,Madhya Pradesh
+3424,Customer_03424,C&I,Telangana
+3425,Customer_03425,C&I,Kerala
+3426,Customer_03426,PSU,Gujarat
+3427,Customer_03427,IPP,Odisha
+3428,Customer_03428,PSU,Telangana
+3429,Customer_03429,IPP,Rajasthan
+3430,Customer_03430,C&I,Kerala
+3431,Customer_03431,C&I,Karnataka
+3432,Customer_03432,C&I,Maharashtra
+3433,Customer_03433,C&I,Gujarat
+3434,Customer_03434,IPP,Maharashtra
+3435,Customer_03435,C&I,Karnataka
+3436,Customer_03436,Retail,Karnataka
+3437,Customer_03437,C&I,Kerala
+3438,Customer_03438,IPP,Madhya Pradesh
+3439,Customer_03439,PSU,Madhya Pradesh
+3440,Customer_03440,C&I,Rajasthan
+3441,Customer_03441,C&I,Telangana
+3442,Customer_03442,C&I,Madhya Pradesh
+3443,Customer_03443,IPP,Telangana
+3444,Customer_03444,PSU,Kerala
+3445,Customer_03445,C&I,Gujarat
+3446,Customer_03446,C&I,Rajasthan
+3447,Customer_03447,C&I,Tamil Nadu
+3448,Customer_03448,IPP,Kerala
+3449,Customer_03449,IPP,Andhra Pradesh
+3450,Customer_03450,C&I,Andhra Pradesh
+3451,Customer_03451,IPP,Gujarat
+3452,Customer_03452,C&I,Tamil Nadu
+3453,Customer_03453,C&I,Odisha
+3454,Customer_03454,IPP,Karnataka
+3455,Customer_03455,IPP,Odisha
+3456,Customer_03456,IPP,Rajasthan
+3457,Customer_03457,C&I,Madhya Pradesh
+3458,Customer_03458,IPP,Tamil Nadu
+3459,Customer_03459,Retail,Odisha
+3460,Customer_03460,IPP,Rajasthan
+3461,Customer_03461,PSU,Maharashtra
+3462,Customer_03462,IPP,Kerala
+3463,Customer_03463,C&I,Rajasthan
+3464,Customer_03464,C&I,Rajasthan
+3465,Customer_03465,C&I,Karnataka
+3466,Customer_03466,C&I,Kerala
+3467,Customer_03467,Retail,Gujarat
+3468,Customer_03468,C&I,Telangana
+3469,Customer_03469,IPP,Gujarat
+3470,Customer_03470,C&I,Tamil Nadu
+3471,Customer_03471,Retail,Kerala
+3472,Customer_03472,IPP,Andhra Pradesh
+3473,Customer_03473,C&I,Karnataka
+3474,Customer_03474,C&I,Maharashtra
+3475,Customer_03475,C&I,Rajasthan
+3476,Customer_03476,C&I,Maharashtra
+3477,Customer_03477,C&I,Andhra Pradesh
+3478,Customer_03478,C&I,Karnataka
+3479,Customer_03479,IPP,Karnataka
+3480,Customer_03480,C&I,Gujarat
+3481,Customer_03481,C&I,Gujarat
+3482,Customer_03482,C&I,Kerala
+3483,Customer_03483,Retail,Odisha
+3484,Customer_03484,IPP,Maharashtra
+3485,Customer_03485,PSU,Karnataka
+3486,Customer_03486,IPP,Telangana
+3487,Customer_03487,C&I,Tamil Nadu
+3488,Customer_03488,IPP,Madhya Pradesh
+3489,Customer_03489,C&I,Andhra Pradesh
+3490,Customer_03490,C&I,Tamil Nadu
+3491,Customer_03491,C&I,Maharashtra
+3492,Customer_03492,IPP,Odisha
+3493,Customer_03493,IPP,Madhya Pradesh
+3494,Customer_03494,C&I,Andhra Pradesh
+3495,Customer_03495,PSU,Tamil Nadu
+3496,Customer_03496,IPP,Madhya Pradesh
+3497,Customer_03497,C&I,Gujarat
+3498,Customer_03498,PSU,Karnataka
+3499,Customer_03499,PSU,Telangana
+3500,Customer_03500,IPP,Maharashtra
+3501,Customer_03501,IPP,Karnataka
+3502,Customer_03502,C&I,Kerala
+3503,Customer_03503,IPP,Madhya Pradesh
+3504,Customer_03504,C&I,Odisha
+3505,Customer_03505,C&I,Odisha
+3506,Customer_03506,C&I,Telangana
+3507,Customer_03507,PSU,Maharashtra
+3508,Customer_03508,Retail,Tamil Nadu
+3509,Customer_03509,Retail,Karnataka
+3510,Customer_03510,PSU,Andhra Pradesh
+3511,Customer_03511,PSU,Odisha
+3512,Customer_03512,C&I,Kerala
+3513,Customer_03513,IPP,Telangana
+3514,Customer_03514,PSU,Telangana
+3515,Customer_03515,PSU,Tamil Nadu
+3516,Customer_03516,Retail,Maharashtra
+3517,Customer_03517,Retail,Maharashtra
+3518,Customer_03518,C&I,Kerala
+3519,Customer_03519,C&I,Tamil Nadu
+3520,Customer_03520,PSU,Madhya Pradesh
+3521,Customer_03521,C&I,Andhra Pradesh
+3522,Customer_03522,IPP,Telangana
+3523,Customer_03523,IPP,Maharashtra
+3524,Customer_03524,PSU,Maharashtra
+3525,Customer_03525,PSU,Madhya Pradesh
+3526,Customer_03526,IPP,Rajasthan
+3527,Customer_03527,C&I,Kerala
+3528,Customer_03528,C&I,Odisha
+3529,Customer_03529,IPP,Gujarat
+3530,Customer_03530,IPP,Telangana
+3531,Customer_03531,C&I,Telangana
+3532,Customer_03532,C&I,Maharashtra
+3533,Customer_03533,Retail,Madhya Pradesh
+3534,Customer_03534,C&I,Kerala
+3535,Customer_03535,C&I,Tamil Nadu
+3536,Customer_03536,IPP,Kerala
+3537,Customer_03537,C&I,Rajasthan
+3538,Customer_03538,IPP,Madhya Pradesh
+3539,Customer_03539,C&I,Maharashtra
+3540,Customer_03540,C&I,Gujarat
+3541,Customer_03541,IPP,Kerala
+3542,Customer_03542,C&I,Karnataka
+3543,Customer_03543,IPP,Gujarat
+3544,Customer_03544,PSU,Maharashtra
+3545,Customer_03545,C&I,Gujarat
+3546,Customer_03546,C&I,Kerala
+3547,Customer_03547,Retail,Madhya Pradesh
+3548,Customer_03548,IPP,Tamil Nadu
+3549,Customer_03549,PSU,Maharashtra
+3550,Customer_03550,PSU,Rajasthan
+3551,Customer_03551,C&I,Rajasthan
+3552,Customer_03552,C&I,Rajasthan
+3553,Customer_03553,IPP,Telangana
+3554,Customer_03554,IPP,Rajasthan
+3555,Customer_03555,C&I,Odisha
+3556,Customer_03556,C&I,Madhya Pradesh
+3557,Customer_03557,PSU,Gujarat
+3558,Customer_03558,IPP,Odisha
+3559,Customer_03559,C&I,Rajasthan
+3560,Customer_03560,PSU,Telangana
+3561,Customer_03561,IPP,Telangana
+3562,Customer_03562,C&I,Karnataka
+3563,Customer_03563,PSU,Kerala
+3564,Customer_03564,IPP,Madhya Pradesh
+3565,Customer_03565,Retail,Madhya Pradesh
+3566,Customer_03566,Retail,Madhya Pradesh
+3567,Customer_03567,IPP,Andhra Pradesh
+3568,Customer_03568,C&I,Rajasthan
+3569,Customer_03569,IPP,Odisha
+3570,Customer_03570,C&I,Odisha
+3571,Customer_03571,Retail,Tamil Nadu
+3572,Customer_03572,PSU,Karnataka
+3573,Customer_03573,IPP,Kerala
+3574,Customer_03574,PSU,Gujarat
+3575,Customer_03575,C&I,Odisha
+3576,Customer_03576,C&I,Karnataka
+3577,Customer_03577,C&I,Kerala
+3578,Customer_03578,IPP,Gujarat
+3579,Customer_03579,IPP,Madhya Pradesh
+3580,Customer_03580,C&I,Telangana
+3581,Customer_03581,C&I,Telangana
+3582,Customer_03582,PSU,Rajasthan
+3583,Customer_03583,IPP,Rajasthan
+3584,Customer_03584,PSU,Kerala
+3585,Customer_03585,C&I,Tamil Nadu
+3586,Customer_03586,PSU,Madhya Pradesh
+3587,Customer_03587,C&I,Gujarat
+3588,Customer_03588,IPP,Rajasthan
+3589,Customer_03589,IPP,Kerala
+3590,Customer_03590,C&I,Odisha
+3591,Customer_03591,IPP,Kerala
+3592,Customer_03592,IPP,Madhya Pradesh
+3593,Customer_03593,C&I,Karnataka
+3594,Customer_03594,C&I,Maharashtra
+3595,Customer_03595,C&I,Madhya Pradesh
+3596,Customer_03596,IPP,Rajasthan
+3597,Customer_03597,C&I,Rajasthan
+3598,Customer_03598,C&I,Tamil Nadu
+3599,Customer_03599,PSU,Andhra Pradesh
+3600,Customer_03600,C&I,Tamil Nadu
+3601,Customer_03601,C&I,Tamil Nadu
+3602,Customer_03602,PSU,Odisha
+3603,Customer_03603,PSU,Rajasthan
+3604,Customer_03604,C&I,Andhra Pradesh
+3605,Customer_03605,PSU,Tamil Nadu
+3606,Customer_03606,IPP,Maharashtra
+3607,Customer_03607,Retail,Gujarat
+3608,Customer_03608,C&I,Gujarat
+3609,Customer_03609,C&I,Maharashtra
+3610,Customer_03610,IPP,Telangana
+3611,Customer_03611,C&I,Telangana
+3612,Customer_03612,Retail,Tamil Nadu
+3613,Customer_03613,Retail,Madhya Pradesh
+3614,Customer_03614,PSU,Madhya Pradesh
+3615,Customer_03615,IPP,Kerala
+3616,Customer_03616,C&I,Gujarat
+3617,Customer_03617,IPP,Karnataka
+3618,Customer_03618,IPP,Maharashtra
+3619,Customer_03619,C&I,Telangana
+3620,Customer_03620,PSU,Karnataka
+3621,Customer_03621,Retail,Rajasthan
+3622,Customer_03622,C&I,Gujarat
+3623,Customer_03623,PSU,Tamil Nadu
+3624,Customer_03624,PSU,Gujarat
+3625,Customer_03625,Retail,Telangana
+3626,Customer_03626,C&I,Rajasthan
+3627,Customer_03627,C&I,Odisha
+3628,Customer_03628,IPP,Madhya Pradesh
+3629,Customer_03629,C&I,Karnataka
+3630,Customer_03630,IPP,Andhra Pradesh
+3631,Customer_03631,C&I,Telangana
+3632,Customer_03632,Retail,Madhya Pradesh
+3633,Customer_03633,C&I,Andhra Pradesh
+3634,Customer_03634,IPP,Karnataka
+3635,Customer_03635,C&I,Tamil Nadu
+3636,Customer_03636,IPP,Madhya Pradesh
+3637,Customer_03637,C&I,Tamil Nadu
+3638,Customer_03638,PSU,Rajasthan
+3639,Customer_03639,PSU,Gujarat
+3640,Customer_03640,PSU,Karnataka
+3641,Customer_03641,IPP,Tamil Nadu
+3642,Customer_03642,C&I,Maharashtra
+3643,Customer_03643,C&I,Madhya Pradesh
+3644,Customer_03644,Retail,Telangana
+3645,Customer_03645,IPP,Rajasthan
+3646,Customer_03646,C&I,Kerala
+3647,Customer_03647,IPP,Rajasthan
+3648,Customer_03648,IPP,Madhya Pradesh
+3649,Customer_03649,C&I,Kerala
+3650,Customer_03650,C&I,Maharashtra
+3651,Customer_03651,C&I,Maharashtra
+3652,Customer_03652,PSU,Rajasthan
+3653,Customer_03653,PSU,Kerala
+3654,Customer_03654,C&I,Madhya Pradesh
+3655,Customer_03655,PSU,Karnataka
+3656,Customer_03656,C&I,Kerala
+3657,Customer_03657,C&I,Madhya Pradesh
+3658,Customer_03658,C&I,Karnataka
+3659,Customer_03659,C&I,Odisha
+3660,Customer_03660,Retail,Maharashtra
+3661,Customer_03661,C&I,Maharashtra
+3662,Customer_03662,C&I,Odisha
+3663,Customer_03663,IPP,Tamil Nadu
+3664,Customer_03664,C&I,Karnataka
+3665,Customer_03665,PSU,Madhya Pradesh
+3666,Customer_03666,C&I,Gujarat
+3667,Customer_03667,IPP,Tamil Nadu
+3668,Customer_03668,PSU,Tamil Nadu
+3669,Customer_03669,C&I,Andhra Pradesh
+3670,Customer_03670,IPP,Gujarat
+3671,Customer_03671,C&I,Karnataka
+3672,Customer_03672,C&I,Rajasthan
+3673,Customer_03673,C&I,Kerala
+3674,Customer_03674,C&I,Karnataka
+3675,Customer_03675,IPP,Tamil Nadu
+3676,Customer_03676,IPP,Rajasthan
+3677,Customer_03677,IPP,Rajasthan
+3678,Customer_03678,IPP,Gujarat
+3679,Customer_03679,Retail,Rajasthan
+3680,Customer_03680,C&I,Tamil Nadu
+3681,Customer_03681,Retail,Tamil Nadu
+3682,Customer_03682,PSU,Telangana
+3683,Customer_03683,PSU,Maharashtra
+3684,Customer_03684,IPP,Odisha
+3685,Customer_03685,PSU,Maharashtra
+3686,Customer_03686,PSU,Karnataka
+3687,Customer_03687,IPP,Rajasthan
+3688,Customer_03688,C&I,Telangana
+3689,Customer_03689,Retail,Gujarat
+3690,Customer_03690,IPP,Gujarat
+3691,Customer_03691,IPP,Andhra Pradesh
+3692,Customer_03692,IPP,Andhra Pradesh
+3693,Customer_03693,Retail,Rajasthan
+3694,Customer_03694,IPP,Telangana
+3695,Customer_03695,IPP,Madhya Pradesh
+3696,Customer_03696,C&I,Kerala
+3697,Customer_03697,C&I,Gujarat
+3698,Customer_03698,C&I,Rajasthan
+3699,Customer_03699,PSU,Madhya Pradesh
+3700,Customer_03700,C&I,Andhra Pradesh
+3701,Customer_03701,IPP,Maharashtra
+3702,Customer_03702,C&I,Rajasthan
+3703,Customer_03703,C&I,Kerala
+3704,Customer_03704,C&I,Rajasthan
+3705,Customer_03705,Retail,Tamil Nadu
+3706,Customer_03706,C&I,Madhya Pradesh
+3707,Customer_03707,C&I,Madhya Pradesh
+3708,Customer_03708,C&I,Andhra Pradesh
+3709,Customer_03709,C&I,Odisha
+3710,Customer_03710,C&I,Madhya Pradesh
+3711,Customer_03711,PSU,Andhra Pradesh
+3712,Customer_03712,C&I,Gujarat
+3713,Customer_03713,Retail,Tamil Nadu
+3714,Customer_03714,IPP,Rajasthan
+3715,Customer_03715,PSU,Odisha
+3716,Customer_03716,IPP,Andhra Pradesh
+3717,Customer_03717,C&I,Maharashtra
+3718,Customer_03718,PSU,Telangana
+3719,Customer_03719,Retail,Telangana
+3720,Customer_03720,IPP,Gujarat
+3721,Customer_03721,IPP,Rajasthan
+3722,Customer_03722,IPP,Karnataka
+3723,Customer_03723,PSU,Karnataka
+3724,Customer_03724,IPP,Andhra Pradesh
+3725,Customer_03725,IPP,Gujarat
+3726,Customer_03726,IPP,Madhya Pradesh
+3727,Customer_03727,IPP,Kerala
+3728,Customer_03728,IPP,Andhra Pradesh
+3729,Customer_03729,IPP,Karnataka
+3730,Customer_03730,C&I,Rajasthan
+3731,Customer_03731,Retail,Odisha
+3732,Customer_03732,IPP,Karnataka
+3733,Customer_03733,C&I,Andhra Pradesh
+3734,Customer_03734,IPP,Andhra Pradesh
+3735,Customer_03735,PSU,Karnataka
+3736,Customer_03736,C&I,Karnataka
+3737,Customer_03737,C&I,Telangana
+3738,Customer_03738,IPP,Karnataka
+3739,Customer_03739,C&I,Madhya Pradesh
+3740,Customer_03740,IPP,Gujarat
+3741,Customer_03741,IPP,Odisha
+3742,Customer_03742,C&I,Madhya Pradesh
+3743,Customer_03743,C&I,Karnataka
+3744,Customer_03744,IPP,Tamil Nadu
+3745,Customer_03745,C&I,Madhya Pradesh
+3746,Customer_03746,IPP,Maharashtra
+3747,Customer_03747,PSU,Telangana
+3748,Customer_03748,C&I,Madhya Pradesh
+3749,Customer_03749,IPP,Maharashtra
+3750,Customer_03750,C&I,Kerala
+3751,Customer_03751,C&I,Karnataka
+3752,Customer_03752,C&I,Karnataka
+3753,Customer_03753,C&I,Madhya Pradesh
+3754,Customer_03754,PSU,Karnataka
+3755,Customer_03755,IPP,Gujarat
+3756,Customer_03756,C&I,Tamil Nadu
+3757,Customer_03757,PSU,Telangana
+3758,Customer_03758,C&I,Rajasthan
+3759,Customer_03759,C&I,Madhya Pradesh
+3760,Customer_03760,IPP,Odisha
+3761,Customer_03761,IPP,Gujarat
+3762,Customer_03762,C&I,Kerala
+3763,Customer_03763,IPP,Odisha
+3764,Customer_03764,IPP,Tamil Nadu
+3765,Customer_03765,C&I,Maharashtra
+3766,Customer_03766,C&I,Telangana
+3767,Customer_03767,PSU,Kerala
+3768,Customer_03768,C&I,Telangana
+3769,Customer_03769,IPP,Telangana
+3770,Customer_03770,C&I,Rajasthan
+3771,Customer_03771,C&I,Andhra Pradesh
+3772,Customer_03772,C&I,Kerala
+3773,Customer_03773,C&I,Madhya Pradesh
+3774,Customer_03774,PSU,Maharashtra
+3775,Customer_03775,PSU,Madhya Pradesh
+3776,Customer_03776,IPP,Andhra Pradesh
+3777,Customer_03777,C&I,Odisha
+3778,Customer_03778,IPP,Rajasthan
+3779,Customer_03779,Retail,Andhra Pradesh
+3780,Customer_03780,C&I,Kerala
+3781,Customer_03781,PSU,Andhra Pradesh
+3782,Customer_03782,C&I,Odisha
+3783,Customer_03783,C&I,Odisha
+3784,Customer_03784,C&I,Telangana
+3785,Customer_03785,IPP,Andhra Pradesh
+3786,Customer_03786,C&I,Telangana
+3787,Customer_03787,C&I,Gujarat
+3788,Customer_03788,PSU,Tamil Nadu
+3789,Customer_03789,IPP,Odisha
+3790,Customer_03790,C&I,Rajasthan
+3791,Customer_03791,PSU,Andhra Pradesh
+3792,Customer_03792,PSU,Gujarat
+3793,Customer_03793,C&I,Rajasthan
+3794,Customer_03794,Retail,Madhya Pradesh
+3795,Customer_03795,C&I,Odisha
+3796,Customer_03796,PSU,Gujarat
+3797,Customer_03797,C&I,Gujarat
+3798,Customer_03798,PSU,Madhya Pradesh
+3799,Customer_03799,IPP,Andhra Pradesh
+3800,Customer_03800,Retail,Karnataka
+3801,Customer_03801,C&I,Odisha
+3802,Customer_03802,IPP,Andhra Pradesh
+3803,Customer_03803,IPP,Telangana
+3804,Customer_03804,Retail,Kerala
+3805,Customer_03805,C&I,Madhya Pradesh
+3806,Customer_03806,C&I,Andhra Pradesh
+3807,Customer_03807,Retail,Odisha
+3808,Customer_03808,C&I,Kerala
+3809,Customer_03809,PSU,Tamil Nadu
+3810,Customer_03810,C&I,Maharashtra
+3811,Customer_03811,PSU,Gujarat
+3812,Customer_03812,PSU,Telangana
+3813,Customer_03813,IPP,Odisha
+3814,Customer_03814,C&I,Karnataka
+3815,Customer_03815,C&I,Kerala
+3816,Customer_03816,C&I,Andhra Pradesh
+3817,Customer_03817,IPP,Odisha
+3818,Customer_03818,PSU,Telangana
+3819,Customer_03819,Retail,Tamil Nadu
+3820,Customer_03820,IPP,Kerala
+3821,Customer_03821,Retail,Madhya Pradesh
+3822,Customer_03822,C&I,Rajasthan
+3823,Customer_03823,IPP,Telangana
+3824,Customer_03824,PSU,Maharashtra
+3825,Customer_03825,IPP,Odisha
+3826,Customer_03826,C&I,Gujarat
+3827,Customer_03827,Retail,Tamil Nadu
+3828,Customer_03828,Retail,Gujarat
+3829,Customer_03829,C&I,Kerala
+3830,Customer_03830,C&I,Rajasthan
+3831,Customer_03831,PSU,Telangana
+3832,Customer_03832,C&I,Maharashtra
+3833,Customer_03833,C&I,Madhya Pradesh
+3834,Customer_03834,IPP,Karnataka
+3835,Customer_03835,C&I,Rajasthan
+3836,Customer_03836,C&I,Rajasthan
+3837,Customer_03837,PSU,Kerala
+3838,Customer_03838,Retail,Odisha
+3839,Customer_03839,IPP,Karnataka
+3840,Customer_03840,C&I,Odisha
+3841,Customer_03841,C&I,Madhya Pradesh
+3842,Customer_03842,PSU,Odisha
+3843,Customer_03843,PSU,Odisha
+3844,Customer_03844,C&I,Kerala
+3845,Customer_03845,C&I,Andhra Pradesh
+3846,Customer_03846,C&I,Madhya Pradesh
+3847,Customer_03847,IPP,Telangana
+3848,Customer_03848,PSU,Odisha
+3849,Customer_03849,Retail,Gujarat
+3850,Customer_03850,Retail,Tamil Nadu
+3851,Customer_03851,PSU,Karnataka
+3852,Customer_03852,C&I,Gujarat
+3853,Customer_03853,PSU,Telangana
+3854,Customer_03854,PSU,Telangana
+3855,Customer_03855,IPP,Odisha
+3856,Customer_03856,PSU,Tamil Nadu
+3857,Customer_03857,C&I,Madhya Pradesh
+3858,Customer_03858,C&I,Odisha
+3859,Customer_03859,IPP,Telangana
+3860,Customer_03860,IPP,Madhya Pradesh
+3861,Customer_03861,IPP,Kerala
+3862,Customer_03862,C&I,Odisha
+3863,Customer_03863,IPP,Karnataka
+3864,Customer_03864,PSU,Telangana
+3865,Customer_03865,IPP,Andhra Pradesh
+3866,Customer_03866,PSU,Odisha
+3867,Customer_03867,PSU,Telangana
+3868,Customer_03868,C&I,Maharashtra
+3869,Customer_03869,IPP,Telangana
+3870,Customer_03870,C&I,Madhya Pradesh
+3871,Customer_03871,PSU,Madhya Pradesh
+3872,Customer_03872,IPP,Madhya Pradesh
+3873,Customer_03873,C&I,Telangana
+3874,Customer_03874,C&I,Maharashtra
+3875,Customer_03875,IPP,Maharashtra
+3876,Customer_03876,IPP,Maharashtra
+3877,Customer_03877,PSU,Odisha
+3878,Customer_03878,C&I,Karnataka
+3879,Customer_03879,C&I,Maharashtra
+3880,Customer_03880,IPP,Telangana
+3881,Customer_03881,IPP,Rajasthan
+3882,Customer_03882,PSU,Maharashtra
+3883,Customer_03883,C&I,Madhya Pradesh
+3884,Customer_03884,C&I,Maharashtra
+3885,Customer_03885,IPP,Madhya Pradesh
+3886,Customer_03886,C&I,Kerala
+3887,Customer_03887,IPP,Odisha
+3888,Customer_03888,IPP,Gujarat
+3889,Customer_03889,C&I,Tamil Nadu
+3890,Customer_03890,C&I,Madhya Pradesh
+3891,Customer_03891,IPP,Rajasthan
+3892,Customer_03892,IPP,Tamil Nadu
+3893,Customer_03893,Retail,Odisha
+3894,Customer_03894,C&I,Telangana
+3895,Customer_03895,PSU,Tamil Nadu
+3896,Customer_03896,Retail,Odisha
+3897,Customer_03897,C&I,Odisha
+3898,Customer_03898,C&I,Karnataka
+3899,Customer_03899,PSU,Gujarat
+3900,Customer_03900,IPP,Madhya Pradesh
+3901,Customer_03901,IPP,Andhra Pradesh
+3902,Customer_03902,C&I,Karnataka
+3903,Customer_03903,C&I,Madhya Pradesh
+3904,Customer_03904,IPP,Madhya Pradesh
+3905,Customer_03905,IPP,Telangana
+3906,Customer_03906,C&I,Maharashtra
+3907,Customer_03907,PSU,Odisha
+3908,Customer_03908,C&I,Rajasthan
+3909,Customer_03909,IPP,Tamil Nadu
+3910,Customer_03910,C&I,Andhra Pradesh
+3911,Customer_03911,C&I,Tamil Nadu
+3912,Customer_03912,C&I,Tamil Nadu
+3913,Customer_03913,IPP,Karnataka
+3914,Customer_03914,C&I,Gujarat
+3915,Customer_03915,C&I,Telangana
+3916,Customer_03916,C&I,Rajasthan
+3917,Customer_03917,PSU,Rajasthan
+3918,Customer_03918,Retail,Maharashtra
+3919,Customer_03919,C&I,Karnataka
+3920,Customer_03920,C&I,Karnataka
+3921,Customer_03921,PSU,Tamil Nadu
+3922,Customer_03922,C&I,Tamil Nadu
+3923,Customer_03923,IPP,Kerala
+3924,Customer_03924,IPP,Andhra Pradesh
+3925,Customer_03925,C&I,Odisha
+3926,Customer_03926,PSU,Rajasthan
+3927,Customer_03927,PSU,Tamil Nadu
+3928,Customer_03928,IPP,Kerala
+3929,Customer_03929,PSU,Gujarat
+3930,Customer_03930,C&I,Telangana
+3931,Customer_03931,PSU,Tamil Nadu
+3932,Customer_03932,IPP,Rajasthan
+3933,Customer_03933,IPP,Odisha
+3934,Customer_03934,IPP,Andhra Pradesh
+3935,Customer_03935,C&I,Rajasthan
+3936,Customer_03936,Retail,Andhra Pradesh
+3937,Customer_03937,IPP,Tamil Nadu
+3938,Customer_03938,C&I,Madhya Pradesh
+3939,Customer_03939,IPP,Rajasthan
+3940,Customer_03940,PSU,Odisha
+3941,Customer_03941,PSU,Telangana
+3942,Customer_03942,C&I,Andhra Pradesh
+3943,Customer_03943,C&I,Karnataka
+3944,Customer_03944,PSU,Odisha
+3945,Customer_03945,IPP,Maharashtra
+3946,Customer_03946,C&I,Andhra Pradesh
+3947,Customer_03947,PSU,Odisha
+3948,Customer_03948,PSU,Rajasthan
+3949,Customer_03949,Retail,Gujarat
+3950,Customer_03950,C&I,Odisha
+3951,Customer_03951,C&I,Maharashtra
+3952,Customer_03952,C&I,Rajasthan
+3953,Customer_03953,C&I,Andhra Pradesh
+3954,Customer_03954,C&I,Madhya Pradesh
+3955,Customer_03955,PSU,Madhya Pradesh
+3956,Customer_03956,IPP,Madhya Pradesh
+3957,Customer_03957,C&I,Andhra Pradesh
+3958,Customer_03958,PSU,Odisha
+3959,Customer_03959,C&I,Gujarat
+3960,Customer_03960,C&I,Andhra Pradesh
+3961,Customer_03961,C&I,Madhya Pradesh
+3962,Customer_03962,IPP,Kerala
+3963,Customer_03963,IPP,Maharashtra
+3964,Customer_03964,IPP,Odisha
+3965,Customer_03965,IPP,Gujarat
+3966,Customer_03966,IPP,Odisha
+3967,Customer_03967,C&I,Andhra Pradesh
+3968,Customer_03968,IPP,Maharashtra
+3969,Customer_03969,C&I,Maharashtra
+3970,Customer_03970,C&I,Kerala
+3971,Customer_03971,C&I,Karnataka
+3972,Customer_03972,IPP,Rajasthan
+3973,Customer_03973,PSU,Rajasthan
+3974,Customer_03974,C&I,Maharashtra
+3975,Customer_03975,PSU,Madhya Pradesh
+3976,Customer_03976,C&I,Maharashtra
+3977,Customer_03977,IPP,Gujarat
+3978,Customer_03978,Retail,Tamil Nadu
+3979,Customer_03979,C&I,Kerala
+3980,Customer_03980,PSU,Maharashtra
+3981,Customer_03981,C&I,Maharashtra
+3982,Customer_03982,IPP,Kerala
+3983,Customer_03983,IPP,Andhra Pradesh
+3984,Customer_03984,PSU,Madhya Pradesh
+3985,Customer_03985,IPP,Maharashtra
+3986,Customer_03986,C&I,Andhra Pradesh
+3987,Customer_03987,C&I,Gujarat
+3988,Customer_03988,Retail,Kerala
+3989,Customer_03989,C&I,Karnataka
+3990,Customer_03990,IPP,Madhya Pradesh
+3991,Customer_03991,Retail,Kerala
+3992,Customer_03992,IPP,Gujarat
+3993,Customer_03993,IPP,Maharashtra
+3994,Customer_03994,PSU,Gujarat
+3995,Customer_03995,PSU,Odisha
+3996,Customer_03996,IPP,Gujarat
+3997,Customer_03997,IPP,Tamil Nadu
+3998,Customer_03998,C&I,Andhra Pradesh
+3999,Customer_03999,IPP,Gujarat
+4000,Customer_04000,IPP,Kerala
+4001,Customer_04001,PSU,Odisha
+4002,Customer_04002,PSU,Maharashtra
+4003,Customer_04003,PSU,Telangana
+4004,Customer_04004,C&I,Tamil Nadu
+4005,Customer_04005,C&I,Madhya Pradesh
+4006,Customer_04006,C&I,Kerala
+4007,Customer_04007,PSU,Tamil Nadu
+4008,Customer_04008,PSU,Telangana
+4009,Customer_04009,Retail,Kerala
+4010,Customer_04010,PSU,Telangana
+4011,Customer_04011,PSU,Tamil Nadu
+4012,Customer_04012,PSU,Tamil Nadu
+4013,Customer_04013,C&I,Odisha
+4014,Customer_04014,C&I,Andhra Pradesh
+4015,Customer_04015,C&I,Kerala
+4016,Customer_04016,C&I,Gujarat
+4017,Customer_04017,C&I,Karnataka
+4018,Customer_04018,C&I,Kerala
+4019,Customer_04019,PSU,Kerala
+4020,Customer_04020,Retail,Tamil Nadu
+4021,Customer_04021,C&I,Rajasthan
+4022,Customer_04022,IPP,Karnataka
+4023,Customer_04023,C&I,Karnataka
+4024,Customer_04024,PSU,Odisha
+4025,Customer_04025,IPP,Kerala
+4026,Customer_04026,C&I,Odisha
+4027,Customer_04027,C&I,Maharashtra
+4028,Customer_04028,C&I,Karnataka
+4029,Customer_04029,IPP,Andhra Pradesh
+4030,Customer_04030,IPP,Gujarat
+4031,Customer_04031,C&I,Odisha
+4032,Customer_04032,C&I,Maharashtra
+4033,Customer_04033,C&I,Gujarat
+4034,Customer_04034,IPP,Rajasthan
+4035,Customer_04035,PSU,Odisha
+4036,Customer_04036,IPP,Odisha
+4037,Customer_04037,C&I,Karnataka
+4038,Customer_04038,IPP,Odisha
+4039,Customer_04039,PSU,Maharashtra
+4040,Customer_04040,IPP,Telangana
+4041,Customer_04041,C&I,Rajasthan
+4042,Customer_04042,C&I,Maharashtra
+4043,Customer_04043,C&I,Kerala
+4044,Customer_04044,C&I,Gujarat
+4045,Customer_04045,PSU,Tamil Nadu
+4046,Customer_04046,IPP,Telangana
+4047,Customer_04047,C&I,Madhya Pradesh
+4048,Customer_04048,C&I,Tamil Nadu
+4049,Customer_04049,C&I,Odisha
+4050,Customer_04050,C&I,Tamil Nadu
+4051,Customer_04051,C&I,Andhra Pradesh
+4052,Customer_04052,C&I,Madhya Pradesh
+4053,Customer_04053,IPP,Odisha
+4054,Customer_04054,C&I,Odisha
+4055,Customer_04055,PSU,Maharashtra
+4056,Customer_04056,C&I,Gujarat
+4057,Customer_04057,IPP,Tamil Nadu
+4058,Customer_04058,IPP,Tamil Nadu
+4059,Customer_04059,C&I,Kerala
+4060,Customer_04060,C&I,Gujarat
+4061,Customer_04061,IPP,Andhra Pradesh
+4062,Customer_04062,C&I,Andhra Pradesh
+4063,Customer_04063,C&I,Andhra Pradesh
+4064,Customer_04064,PSU,Rajasthan
+4065,Customer_04065,IPP,Odisha
+4066,Customer_04066,Retail,Rajasthan
+4067,Customer_04067,C&I,Kerala
+4068,Customer_04068,C&I,Kerala
+4069,Customer_04069,C&I,Madhya Pradesh
+4070,Customer_04070,C&I,Karnataka
+4071,Customer_04071,Retail,Rajasthan
+4072,Customer_04072,IPP,Gujarat
+4073,Customer_04073,C&I,Telangana
+4074,Customer_04074,C&I,Andhra Pradesh
+4075,Customer_04075,C&I,Odisha
+4076,Customer_04076,C&I,Andhra Pradesh
+4077,Customer_04077,IPP,Maharashtra
+4078,Customer_04078,C&I,Kerala
+4079,Customer_04079,C&I,Gujarat
+4080,Customer_04080,C&I,Kerala
+4081,Customer_04081,IPP,Gujarat
+4082,Customer_04082,C&I,Tamil Nadu
+4083,Customer_04083,IPP,Rajasthan
+4084,Customer_04084,PSU,Rajasthan
+4085,Customer_04085,C&I,Rajasthan
+4086,Customer_04086,C&I,Rajasthan
+4087,Customer_04087,C&I,Kerala
+4088,Customer_04088,C&I,Tamil Nadu
+4089,Customer_04089,C&I,Karnataka
+4090,Customer_04090,C&I,Telangana
+4091,Customer_04091,IPP,Gujarat
+4092,Customer_04092,IPP,Madhya Pradesh
+4093,Customer_04093,PSU,Madhya Pradesh
+4094,Customer_04094,C&I,Telangana
+4095,Customer_04095,PSU,Kerala
+4096,Customer_04096,PSU,Rajasthan
+4097,Customer_04097,C&I,Telangana
+4098,Customer_04098,C&I,Odisha
+4099,Customer_04099,C&I,Karnataka
+4100,Customer_04100,IPP,Andhra Pradesh
+4101,Customer_04101,C&I,Gujarat
+4102,Customer_04102,Retail,Tamil Nadu
+4103,Customer_04103,IPP,Madhya Pradesh
+4104,Customer_04104,C&I,Tamil Nadu
+4105,Customer_04105,PSU,Andhra Pradesh
+4106,Customer_04106,IPP,Madhya Pradesh
+4107,Customer_04107,IPP,Madhya Pradesh
+4108,Customer_04108,C&I,Gujarat
+4109,Customer_04109,Retail,Madhya Pradesh
+4110,Customer_04110,IPP,Andhra Pradesh
+4111,Customer_04111,IPP,Maharashtra
+4112,Customer_04112,IPP,Rajasthan
+4113,Customer_04113,PSU,Kerala
+4114,Customer_04114,C&I,Kerala
+4115,Customer_04115,IPP,Maharashtra
+4116,Customer_04116,C&I,Kerala
+4117,Customer_04117,PSU,Andhra Pradesh
+4118,Customer_04118,IPP,Madhya Pradesh
+4119,Customer_04119,PSU,Tamil Nadu
+4120,Customer_04120,PSU,Tamil Nadu
+4121,Customer_04121,IPP,Rajasthan
+4122,Customer_04122,IPP,Gujarat
+4123,Customer_04123,C&I,Odisha
+4124,Customer_04124,C&I,Andhra Pradesh
+4125,Customer_04125,C&I,Karnataka
+4126,Customer_04126,IPP,Karnataka
+4127,Customer_04127,C&I,Telangana
+4128,Customer_04128,IPP,Kerala
+4129,Customer_04129,IPP,Kerala
+4130,Customer_04130,IPP,Maharashtra
+4131,Customer_04131,C&I,Andhra Pradesh
+4132,Customer_04132,C&I,Odisha
+4133,Customer_04133,C&I,Madhya Pradesh
+4134,Customer_04134,C&I,Kerala
+4135,Customer_04135,PSU,Gujarat
+4136,Customer_04136,C&I,Karnataka
+4137,Customer_04137,C&I,Telangana
+4138,Customer_04138,IPP,Kerala
+4139,Customer_04139,C&I,Rajasthan
+4140,Customer_04140,IPP,Maharashtra
+4141,Customer_04141,C&I,Madhya Pradesh
+4142,Customer_04142,IPP,Karnataka
+4143,Customer_04143,C&I,Karnataka
+4144,Customer_04144,IPP,Gujarat
+4145,Customer_04145,IPP,Tamil Nadu
+4146,Customer_04146,C&I,Odisha
+4147,Customer_04147,C&I,Karnataka
+4148,Customer_04148,IPP,Karnataka
+4149,Customer_04149,Retail,Karnataka
+4150,Customer_04150,IPP,Kerala
+4151,Customer_04151,C&I,Odisha
+4152,Customer_04152,C&I,Gujarat
+4153,Customer_04153,IPP,Gujarat
+4154,Customer_04154,IPP,Gujarat
+4155,Customer_04155,IPP,Odisha
+4156,Customer_04156,IPP,Gujarat
+4157,Customer_04157,C&I,Tamil Nadu
+4158,Customer_04158,PSU,Tamil Nadu
+4159,Customer_04159,C&I,Tamil Nadu
+4160,Customer_04160,Retail,Madhya Pradesh
+4161,Customer_04161,IPP,Kerala
+4162,Customer_04162,C&I,Tamil Nadu
+4163,Customer_04163,C&I,Odisha
+4164,Customer_04164,IPP,Maharashtra
+4165,Customer_04165,Retail,Maharashtra
+4166,Customer_04166,Retail,Kerala
+4167,Customer_04167,C&I,Madhya Pradesh
+4168,Customer_04168,IPP,Telangana
+4169,Customer_04169,PSU,Rajasthan
+4170,Customer_04170,C&I,Madhya Pradesh
+4171,Customer_04171,PSU,Gujarat
+4172,Customer_04172,IPP,Maharashtra
+4173,Customer_04173,C&I,Odisha
+4174,Customer_04174,PSU,Karnataka
+4175,Customer_04175,C&I,Gujarat
+4176,Customer_04176,IPP,Gujarat
+4177,Customer_04177,IPP,Rajasthan
+4178,Customer_04178,C&I,Gujarat
+4179,Customer_04179,PSU,Gujarat
+4180,Customer_04180,C&I,Madhya Pradesh
+4181,Customer_04181,PSU,Madhya Pradesh
+4182,Customer_04182,C&I,Maharashtra
+4183,Customer_04183,C&I,Telangana
+4184,Customer_04184,C&I,Karnataka
+4185,Customer_04185,PSU,Gujarat
+4186,Customer_04186,IPP,Telangana
+4187,Customer_04187,Retail,Andhra Pradesh
+4188,Customer_04188,C&I,Maharashtra
+4189,Customer_04189,PSU,Odisha
+4190,Customer_04190,Retail,Odisha
+4191,Customer_04191,Retail,Kerala
+4192,Customer_04192,C&I,Tamil Nadu
+4193,Customer_04193,PSU,Telangana
+4194,Customer_04194,IPP,Telangana
+4195,Customer_04195,Retail,Rajasthan
+4196,Customer_04196,C&I,Kerala
+4197,Customer_04197,IPP,Karnataka
+4198,Customer_04198,C&I,Maharashtra
+4199,Customer_04199,C&I,Telangana
+4200,Customer_04200,IPP,Karnataka
+4201,Customer_04201,C&I,Odisha
+4202,Customer_04202,PSU,Odisha
+4203,Customer_04203,PSU,Tamil Nadu
+4204,Customer_04204,Retail,Odisha
+4205,Customer_04205,IPP,Tamil Nadu
+4206,Customer_04206,IPP,Gujarat
+4207,Customer_04207,PSU,Andhra Pradesh
+4208,Customer_04208,IPP,Madhya Pradesh
+4209,Customer_04209,C&I,Madhya Pradesh
+4210,Customer_04210,C&I,Telangana
+4211,Customer_04211,C&I,Odisha
+4212,Customer_04212,IPP,Maharashtra
+4213,Customer_04213,PSU,Tamil Nadu
+4214,Customer_04214,IPP,Rajasthan
+4215,Customer_04215,C&I,Karnataka
+4216,Customer_04216,IPP,Gujarat
+4217,Customer_04217,IPP,Kerala
+4218,Customer_04218,IPP,Odisha
+4219,Customer_04219,C&I,Telangana
+4220,Customer_04220,IPP,Andhra Pradesh
+4221,Customer_04221,C&I,Maharashtra
+4222,Customer_04222,PSU,Andhra Pradesh
+4223,Customer_04223,Retail,Odisha
+4224,Customer_04224,PSU,Maharashtra
+4225,Customer_04225,C&I,Karnataka
+4226,Customer_04226,IPP,Kerala
+4227,Customer_04227,PSU,Kerala
+4228,Customer_04228,IPP,Telangana
+4229,Customer_04229,PSU,Madhya Pradesh
+4230,Customer_04230,Retail,Tamil Nadu
+4231,Customer_04231,IPP,Telangana
+4232,Customer_04232,C&I,Odisha
+4233,Customer_04233,C&I,Karnataka
+4234,Customer_04234,Retail,Tamil Nadu
+4235,Customer_04235,IPP,Andhra Pradesh
+4236,Customer_04236,C&I,Tamil Nadu
+4237,Customer_04237,IPP,Madhya Pradesh
+4238,Customer_04238,C&I,Kerala
+4239,Customer_04239,C&I,Odisha
+4240,Customer_04240,IPP,Rajasthan
+4241,Customer_04241,IPP,Rajasthan
+4242,Customer_04242,PSU,Karnataka
+4243,Customer_04243,C&I,Odisha
+4244,Customer_04244,Retail,Maharashtra
+4245,Customer_04245,C&I,Telangana
+4246,Customer_04246,C&I,Maharashtra
+4247,Customer_04247,PSU,Rajasthan
+4248,Customer_04248,C&I,Odisha
+4249,Customer_04249,PSU,Karnataka
+4250,Customer_04250,PSU,Maharashtra
+4251,Customer_04251,PSU,Madhya Pradesh
+4252,Customer_04252,C&I,Tamil Nadu
+4253,Customer_04253,C&I,Odisha
+4254,Customer_04254,C&I,Kerala
+4255,Customer_04255,C&I,Kerala
+4256,Customer_04256,C&I,Andhra Pradesh
+4257,Customer_04257,C&I,Madhya Pradesh
+4258,Customer_04258,C&I,Maharashtra
+4259,Customer_04259,PSU,Madhya Pradesh
+4260,Customer_04260,PSU,Karnataka
+4261,Customer_04261,IPP,Tamil Nadu
+4262,Customer_04262,PSU,Odisha
+4263,Customer_04263,C&I,Tamil Nadu
+4264,Customer_04264,C&I,Gujarat
+4265,Customer_04265,C&I,Andhra Pradesh
+4266,Customer_04266,PSU,Madhya Pradesh
+4267,Customer_04267,C&I,Kerala
+4268,Customer_04268,IPP,Tamil Nadu
+4269,Customer_04269,C&I,Rajasthan
+4270,Customer_04270,PSU,Andhra Pradesh
+4271,Customer_04271,Retail,Karnataka
+4272,Customer_04272,IPP,Kerala
+4273,Customer_04273,IPP,Tamil Nadu
+4274,Customer_04274,C&I,Tamil Nadu
+4275,Customer_04275,IPP,Odisha
+4276,Customer_04276,C&I,Madhya Pradesh
+4277,Customer_04277,IPP,Andhra Pradesh
+4278,Customer_04278,PSU,Rajasthan
+4279,Customer_04279,C&I,Gujarat
+4280,Customer_04280,C&I,Rajasthan
+4281,Customer_04281,IPP,Maharashtra
+4282,Customer_04282,C&I,Kerala
+4283,Customer_04283,IPP,Karnataka
+4284,Customer_04284,C&I,Andhra Pradesh
+4285,Customer_04285,IPP,Kerala
+4286,Customer_04286,C&I,Tamil Nadu
+4287,Customer_04287,C&I,Andhra Pradesh
+4288,Customer_04288,PSU,Rajasthan
+4289,Customer_04289,IPP,Andhra Pradesh
+4290,Customer_04290,Retail,Madhya Pradesh
+4291,Customer_04291,PSU,Odisha
+4292,Customer_04292,C&I,Gujarat
+4293,Customer_04293,IPP,Tamil Nadu
+4294,Customer_04294,IPP,Gujarat
+4295,Customer_04295,PSU,Madhya Pradesh
+4296,Customer_04296,C&I,Gujarat
+4297,Customer_04297,IPP,Rajasthan
+4298,Customer_04298,C&I,Rajasthan
+4299,Customer_04299,PSU,Madhya Pradesh
+4300,Customer_04300,IPP,Gujarat
+4301,Customer_04301,IPP,Telangana
+4302,Customer_04302,PSU,Kerala
+4303,Customer_04303,PSU,Rajasthan
+4304,Customer_04304,PSU,Telangana
+4305,Customer_04305,IPP,Rajasthan
+4306,Customer_04306,PSU,Maharashtra
+4307,Customer_04307,PSU,Rajasthan
+4308,Customer_04308,Retail,Telangana
+4309,Customer_04309,IPP,Odisha
+4310,Customer_04310,IPP,Telangana
+4311,Customer_04311,IPP,Kerala
+4312,Customer_04312,C&I,Gujarat
+4313,Customer_04313,PSU,Gujarat
+4314,Customer_04314,IPP,Karnataka
+4315,Customer_04315,C&I,Rajasthan
+4316,Customer_04316,PSU,Gujarat
+4317,Customer_04317,PSU,Karnataka
+4318,Customer_04318,PSU,Gujarat
+4319,Customer_04319,PSU,Kerala
+4320,Customer_04320,C&I,Gujarat
+4321,Customer_04321,C&I,Madhya Pradesh
+4322,Customer_04322,Retail,Maharashtra
+4323,Customer_04323,IPP,Rajasthan
+4324,Customer_04324,PSU,Andhra Pradesh
+4325,Customer_04325,PSU,Tamil Nadu
+4326,Customer_04326,C&I,Madhya Pradesh
+4327,Customer_04327,IPP,Karnataka
+4328,Customer_04328,C&I,Rajasthan
+4329,Customer_04329,Retail,Andhra Pradesh
+4330,Customer_04330,C&I,Rajasthan
+4331,Customer_04331,PSU,Andhra Pradesh
+4332,Customer_04332,PSU,Tamil Nadu
+4333,Customer_04333,Retail,Gujarat
+4334,Customer_04334,C&I,Madhya Pradesh
+4335,Customer_04335,IPP,Andhra Pradesh
+4336,Customer_04336,PSU,Gujarat
+4337,Customer_04337,C&I,Tamil Nadu
+4338,Customer_04338,PSU,Rajasthan
+4339,Customer_04339,IPP,Tamil Nadu
+4340,Customer_04340,PSU,Kerala
+4341,Customer_04341,C&I,Madhya Pradesh
+4342,Customer_04342,C&I,Gujarat
+4343,Customer_04343,IPP,Kerala
+4344,Customer_04344,C&I,Kerala
+4345,Customer_04345,C&I,Rajasthan
+4346,Customer_04346,Retail,Tamil Nadu
+4347,Customer_04347,C&I,Maharashtra
+4348,Customer_04348,IPP,Rajasthan
+4349,Customer_04349,C&I,Gujarat
+4350,Customer_04350,Retail,Maharashtra
+4351,Customer_04351,C&I,Telangana
+4352,Customer_04352,IPP,Andhra Pradesh
+4353,Customer_04353,C&I,Tamil Nadu
+4354,Customer_04354,IPP,Gujarat
+4355,Customer_04355,PSU,Andhra Pradesh
+4356,Customer_04356,PSU,Tamil Nadu
+4357,Customer_04357,Retail,Rajasthan
+4358,Customer_04358,IPP,Madhya Pradesh
+4359,Customer_04359,PSU,Rajasthan
+4360,Customer_04360,C&I,Gujarat
+4361,Customer_04361,PSU,Andhra Pradesh
+4362,Customer_04362,C&I,Rajasthan
+4363,Customer_04363,C&I,Odisha
+4364,Customer_04364,PSU,Kerala
+4365,Customer_04365,C&I,Gujarat
+4366,Customer_04366,C&I,Karnataka
+4367,Customer_04367,C&I,Odisha
+4368,Customer_04368,PSU,Madhya Pradesh
+4369,Customer_04369,IPP,Rajasthan
+4370,Customer_04370,C&I,Tamil Nadu
+4371,Customer_04371,Retail,Tamil Nadu
+4372,Customer_04372,IPP,Kerala
+4373,Customer_04373,IPP,Madhya Pradesh
+4374,Customer_04374,IPP,Madhya Pradesh
+4375,Customer_04375,PSU,Madhya Pradesh
+4376,Customer_04376,IPP,Gujarat
+4377,Customer_04377,IPP,Andhra Pradesh
+4378,Customer_04378,IPP,Maharashtra
+4379,Customer_04379,IPP,Karnataka
+4380,Customer_04380,IPP,Kerala
+4381,Customer_04381,Retail,Telangana
+4382,Customer_04382,Retail,Maharashtra
+4383,Customer_04383,IPP,Odisha
+4384,Customer_04384,PSU,Rajasthan
+4385,Customer_04385,IPP,Tamil Nadu
+4386,Customer_04386,C&I,Andhra Pradesh
+4387,Customer_04387,Retail,Gujarat
+4388,Customer_04388,PSU,Maharashtra
+4389,Customer_04389,C&I,Andhra Pradesh
+4390,Customer_04390,IPP,Karnataka
+4391,Customer_04391,PSU,Karnataka
+4392,Customer_04392,Retail,Telangana
+4393,Customer_04393,C&I,Maharashtra
+4394,Customer_04394,C&I,Karnataka
+4395,Customer_04395,C&I,Gujarat
+4396,Customer_04396,C&I,Odisha
+4397,Customer_04397,C&I,Tamil Nadu
+4398,Customer_04398,C&I,Odisha
+4399,Customer_04399,C&I,Telangana
+4400,Customer_04400,PSU,Tamil Nadu
+4401,Customer_04401,C&I,Rajasthan
+4402,Customer_04402,C&I,Karnataka
+4403,Customer_04403,C&I,Telangana
+4404,Customer_04404,IPP,Tamil Nadu
+4405,Customer_04405,Retail,Tamil Nadu
+4406,Customer_04406,C&I,Maharashtra
+4407,Customer_04407,PSU,Karnataka
+4408,Customer_04408,C&I,Gujarat
+4409,Customer_04409,PSU,Rajasthan
+4410,Customer_04410,C&I,Rajasthan
+4411,Customer_04411,IPP,Gujarat
+4412,Customer_04412,C&I,Rajasthan
+4413,Customer_04413,IPP,Kerala
+4414,Customer_04414,IPP,Maharashtra
+4415,Customer_04415,IPP,Rajasthan
+4416,Customer_04416,IPP,Madhya Pradesh
+4417,Customer_04417,PSU,Gujarat
+4418,Customer_04418,IPP,Rajasthan
+4419,Customer_04419,C&I,Telangana
+4420,Customer_04420,C&I,Kerala
+4421,Customer_04421,PSU,Telangana
+4422,Customer_04422,C&I,Madhya Pradesh
+4423,Customer_04423,PSU,Gujarat
+4424,Customer_04424,C&I,Telangana
+4425,Customer_04425,IPP,Maharashtra
+4426,Customer_04426,C&I,Gujarat
+4427,Customer_04427,C&I,Gujarat
+4428,Customer_04428,Retail,Tamil Nadu
+4429,Customer_04429,IPP,Maharashtra
+4430,Customer_04430,Retail,Madhya Pradesh
+4431,Customer_04431,IPP,Madhya Pradesh
+4432,Customer_04432,IPP,Kerala
+4433,Customer_04433,IPP,Maharashtra
+4434,Customer_04434,Retail,Andhra Pradesh
+4435,Customer_04435,IPP,Telangana
+4436,Customer_04436,C&I,Telangana
+4437,Customer_04437,C&I,Odisha
+4438,Customer_04438,PSU,Kerala
+4439,Customer_04439,PSU,Rajasthan
+4440,Customer_04440,PSU,Kerala
+4441,Customer_04441,C&I,Karnataka
+4442,Customer_04442,PSU,Gujarat
+4443,Customer_04443,C&I,Maharashtra
+4444,Customer_04444,IPP,Karnataka
+4445,Customer_04445,IPP,Karnataka
+4446,Customer_04446,C&I,Maharashtra
+4447,Customer_04447,PSU,Karnataka
+4448,Customer_04448,C&I,Tamil Nadu
+4449,Customer_04449,IPP,Karnataka
+4450,Customer_04450,PSU,Karnataka
+4451,Customer_04451,PSU,Andhra Pradesh
+4452,Customer_04452,C&I,Maharashtra
+4453,Customer_04453,Retail,Maharashtra
+4454,Customer_04454,PSU,Maharashtra
+4455,Customer_04455,IPP,Andhra Pradesh
+4456,Customer_04456,IPP,Telangana
+4457,Customer_04457,PSU,Gujarat
+4458,Customer_04458,PSU,Maharashtra
+4459,Customer_04459,C&I,Karnataka
+4460,Customer_04460,C&I,Karnataka
+4461,Customer_04461,PSU,Tamil Nadu
+4462,Customer_04462,IPP,Kerala
+4463,Customer_04463,IPP,Rajasthan
+4464,Customer_04464,Retail,Gujarat
+4465,Customer_04465,IPP,Tamil Nadu
+4466,Customer_04466,IPP,Karnataka
+4467,Customer_04467,IPP,Tamil Nadu
+4468,Customer_04468,IPP,Karnataka
+4469,Customer_04469,C&I,Tamil Nadu
+4470,Customer_04470,PSU,Odisha
+4471,Customer_04471,IPP,Maharashtra
+4472,Customer_04472,IPP,Maharashtra
+4473,Customer_04473,PSU,Odisha
+4474,Customer_04474,PSU,Andhra Pradesh
+4475,Customer_04475,IPP,Madhya Pradesh
+4476,Customer_04476,C&I,Gujarat
+4477,Customer_04477,IPP,Maharashtra
+4478,Customer_04478,C&I,Maharashtra
+4479,Customer_04479,C&I,Karnataka
+4480,Customer_04480,C&I,Rajasthan
+4481,Customer_04481,PSU,Rajasthan
+4482,Customer_04482,IPP,Madhya Pradesh
+4483,Customer_04483,IPP,Odisha
+4484,Customer_04484,PSU,Rajasthan
+4485,Customer_04485,C&I,Telangana
+4486,Customer_04486,Retail,Tamil Nadu
+4487,Customer_04487,IPP,Gujarat
+4488,Customer_04488,PSU,Maharashtra
+4489,Customer_04489,IPP,Maharashtra
+4490,Customer_04490,C&I,Maharashtra
+4491,Customer_04491,C&I,Gujarat
+4492,Customer_04492,C&I,Maharashtra
+4493,Customer_04493,IPP,Gujarat
+4494,Customer_04494,IPP,Telangana
+4495,Customer_04495,IPP,Karnataka
+4496,Customer_04496,C&I,Karnataka
+4497,Customer_04497,PSU,Rajasthan
+4498,Customer_04498,Retail,Karnataka
+4499,Customer_04499,C&I,Karnataka
+4500,Customer_04500,PSU,Rajasthan
+4501,Customer_04501,IPP,Odisha
+4502,Customer_04502,C&I,Kerala
+4503,Customer_04503,IPP,Gujarat
+4504,Customer_04504,Retail,Kerala
+4505,Customer_04505,C&I,Madhya Pradesh
+4506,Customer_04506,IPP,Gujarat
+4507,Customer_04507,IPP,Odisha
+4508,Customer_04508,PSU,Rajasthan
+4509,Customer_04509,C&I,Maharashtra
+4510,Customer_04510,IPP,Odisha
+4511,Customer_04511,Retail,Karnataka
+4512,Customer_04512,IPP,Andhra Pradesh
+4513,Customer_04513,C&I,Maharashtra
+4514,Customer_04514,IPP,Rajasthan
+4515,Customer_04515,PSU,Maharashtra
+4516,Customer_04516,C&I,Gujarat
+4517,Customer_04517,IPP,Maharashtra
+4518,Customer_04518,C&I,Andhra Pradesh
+4519,Customer_04519,IPP,Madhya Pradesh
+4520,Customer_04520,IPP,Madhya Pradesh
+4521,Customer_04521,PSU,Telangana
+4522,Customer_04522,PSU,Maharashtra
+4523,Customer_04523,C&I,Maharashtra
+4524,Customer_04524,PSU,Madhya Pradesh
+4525,Customer_04525,IPP,Andhra Pradesh
+4526,Customer_04526,IPP,Andhra Pradesh
+4527,Customer_04527,C&I,Telangana
+4528,Customer_04528,IPP,Kerala
+4529,Customer_04529,IPP,Tamil Nadu
+4530,Customer_04530,IPP,Rajasthan
+4531,Customer_04531,C&I,Karnataka
+4532,Customer_04532,PSU,Rajasthan
+4533,Customer_04533,IPP,Telangana
+4534,Customer_04534,Retail,Madhya Pradesh
+4535,Customer_04535,PSU,Karnataka
+4536,Customer_04536,C&I,Madhya Pradesh
+4537,Customer_04537,C&I,Rajasthan
+4538,Customer_04538,C&I,Telangana
+4539,Customer_04539,C&I,Andhra Pradesh
+4540,Customer_04540,IPP,Andhra Pradesh
+4541,Customer_04541,C&I,Tamil Nadu
+4542,Customer_04542,Retail,Maharashtra
+4543,Customer_04543,Retail,Madhya Pradesh
+4544,Customer_04544,IPP,Karnataka
+4545,Customer_04545,IPP,Gujarat
+4546,Customer_04546,IPP,Telangana
+4547,Customer_04547,PSU,Gujarat
+4548,Customer_04548,IPP,Gujarat
+4549,Customer_04549,IPP,Telangana
+4550,Customer_04550,IPP,Tamil Nadu
+4551,Customer_04551,Retail,Rajasthan
+4552,Customer_04552,IPP,Kerala
+4553,Customer_04553,C&I,Tamil Nadu
+4554,Customer_04554,IPP,Maharashtra
+4555,Customer_04555,PSU,Kerala
+4556,Customer_04556,PSU,Andhra Pradesh
+4557,Customer_04557,PSU,Kerala
+4558,Customer_04558,C&I,Rajasthan
+4559,Customer_04559,C&I,Madhya Pradesh
+4560,Customer_04560,C&I,Gujarat
+4561,Customer_04561,C&I,Karnataka
+4562,Customer_04562,Retail,Maharashtra
+4563,Customer_04563,C&I,Kerala
+4564,Customer_04564,PSU,Karnataka
+4565,Customer_04565,C&I,Karnataka
+4566,Customer_04566,C&I,Telangana
+4567,Customer_04567,C&I,Rajasthan
+4568,Customer_04568,C&I,Rajasthan
+4569,Customer_04569,C&I,Tamil Nadu
+4570,Customer_04570,Retail,Maharashtra
+4571,Customer_04571,C&I,Gujarat
+4572,Customer_04572,IPP,Maharashtra
+4573,Customer_04573,IPP,Maharashtra
+4574,Customer_04574,C&I,Karnataka
+4575,Customer_04575,IPP,Madhya Pradesh
+4576,Customer_04576,IPP,Maharashtra
+4577,Customer_04577,IPP,Andhra Pradesh
+4578,Customer_04578,C&I,Tamil Nadu
+4579,Customer_04579,IPP,Rajasthan
+4580,Customer_04580,C&I,Odisha
+4581,Customer_04581,IPP,Maharashtra
+4582,Customer_04582,C&I,Kerala
+4583,Customer_04583,IPP,Gujarat
+4584,Customer_04584,C&I,Gujarat
+4585,Customer_04585,Retail,Odisha
+4586,Customer_04586,Retail,Odisha
+4587,Customer_04587,C&I,Karnataka
+4588,Customer_04588,IPP,Karnataka
+4589,Customer_04589,IPP,Madhya Pradesh
+4590,Customer_04590,C&I,Kerala
+4591,Customer_04591,C&I,Gujarat
+4592,Customer_04592,C&I,Tamil Nadu
+4593,Customer_04593,Retail,Tamil Nadu
+4594,Customer_04594,C&I,Odisha
+4595,Customer_04595,Retail,Madhya Pradesh
+4596,Customer_04596,C&I,Telangana
+4597,Customer_04597,IPP,Andhra Pradesh
+4598,Customer_04598,C&I,Gujarat
+4599,Customer_04599,PSU,Karnataka
+4600,Customer_04600,PSU,Odisha
+4601,Customer_04601,Retail,Odisha
+4602,Customer_04602,C&I,Karnataka
+4603,Customer_04603,IPP,Telangana
+4604,Customer_04604,IPP,Karnataka
+4605,Customer_04605,PSU,Telangana
+4606,Customer_04606,PSU,Kerala
+4607,Customer_04607,IPP,Maharashtra
+4608,Customer_04608,C&I,Telangana
+4609,Customer_04609,PSU,Andhra Pradesh
+4610,Customer_04610,PSU,Andhra Pradesh
+4611,Customer_04611,IPP,Karnataka
+4612,Customer_04612,C&I,Rajasthan
+4613,Customer_04613,C&I,Tamil Nadu
+4614,Customer_04614,Retail,Tamil Nadu
+4615,Customer_04615,Retail,Maharashtra
+4616,Customer_04616,C&I,Karnataka
+4617,Customer_04617,IPP,Telangana
+4618,Customer_04618,IPP,Madhya Pradesh
+4619,Customer_04619,PSU,Madhya Pradesh
+4620,Customer_04620,Retail,Odisha
+4621,Customer_04621,C&I,Andhra Pradesh
+4622,Customer_04622,C&I,Rajasthan
+4623,Customer_04623,IPP,Telangana
+4624,Customer_04624,IPP,Rajasthan
+4625,Customer_04625,C&I,Andhra Pradesh
+4626,Customer_04626,PSU,Odisha
+4627,Customer_04627,PSU,Telangana
+4628,Customer_04628,PSU,Odisha
+4629,Customer_04629,IPP,Odisha
+4630,Customer_04630,Retail,Maharashtra
+4631,Customer_04631,IPP,Tamil Nadu
+4632,Customer_04632,PSU,Gujarat
+4633,Customer_04633,C&I,Karnataka
+4634,Customer_04634,IPP,Tamil Nadu
+4635,Customer_04635,Retail,Maharashtra
+4636,Customer_04636,C&I,Maharashtra
+4637,Customer_04637,IPP,Tamil Nadu
+4638,Customer_04638,C&I,Madhya Pradesh
+4639,Customer_04639,IPP,Gujarat
+4640,Customer_04640,IPP,Odisha
+4641,Customer_04641,IPP,Tamil Nadu
+4642,Customer_04642,IPP,Telangana
+4643,Customer_04643,C&I,Telangana
+4644,Customer_04644,C&I,Odisha
+4645,Customer_04645,IPP,Kerala
+4646,Customer_04646,C&I,Telangana
+4647,Customer_04647,C&I,Odisha
+4648,Customer_04648,PSU,Gujarat
+4649,Customer_04649,Retail,Telangana
+4650,Customer_04650,Retail,Andhra Pradesh
+4651,Customer_04651,PSU,Rajasthan
+4652,Customer_04652,C&I,Kerala
+4653,Customer_04653,IPP,Madhya Pradesh
+4654,Customer_04654,C&I,Gujarat
+4655,Customer_04655,C&I,Gujarat
+4656,Customer_04656,C&I,Gujarat
+4657,Customer_04657,Retail,Rajasthan
+4658,Customer_04658,IPP,Telangana
+4659,Customer_04659,PSU,Telangana
+4660,Customer_04660,PSU,Andhra Pradesh
+4661,Customer_04661,PSU,Maharashtra
+4662,Customer_04662,PSU,Maharashtra
+4663,Customer_04663,Retail,Telangana
+4664,Customer_04664,IPP,Tamil Nadu
+4665,Customer_04665,PSU,Andhra Pradesh
+4666,Customer_04666,IPP,Odisha
+4667,Customer_04667,C&I,Odisha
+4668,Customer_04668,C&I,Andhra Pradesh
+4669,Customer_04669,C&I,Andhra Pradesh
+4670,Customer_04670,Retail,Andhra Pradesh
+4671,Customer_04671,PSU,Gujarat
+4672,Customer_04672,C&I,Odisha
+4673,Customer_04673,C&I,Kerala
+4674,Customer_04674,C&I,Andhra Pradesh
+4675,Customer_04675,IPP,Gujarat
+4676,Customer_04676,Retail,Andhra Pradesh
+4677,Customer_04677,C&I,Kerala
+4678,Customer_04678,IPP,Andhra Pradesh
+4679,Customer_04679,IPP,Tamil Nadu
+4680,Customer_04680,IPP,Gujarat
+4681,Customer_04681,IPP,Rajasthan
+4682,Customer_04682,PSU,Odisha
+4683,Customer_04683,C&I,Gujarat
+4684,Customer_04684,C&I,Karnataka
+4685,Customer_04685,C&I,Tamil Nadu
+4686,Customer_04686,IPP,Tamil Nadu
+4687,Customer_04687,PSU,Tamil Nadu
+4688,Customer_04688,PSU,Rajasthan
+4689,Customer_04689,IPP,Kerala
+4690,Customer_04690,C&I,Karnataka
+4691,Customer_04691,C&I,Gujarat
+4692,Customer_04692,Retail,Kerala
+4693,Customer_04693,C&I,Kerala
+4694,Customer_04694,C&I,Karnataka
+4695,Customer_04695,C&I,Andhra Pradesh
+4696,Customer_04696,Retail,Maharashtra
+4697,Customer_04697,C&I,Rajasthan
+4698,Customer_04698,IPP,Gujarat
+4699,Customer_04699,C&I,Tamil Nadu
+4700,Customer_04700,PSU,Odisha
+4701,Customer_04701,IPP,Tamil Nadu
+4702,Customer_04702,IPP,Karnataka
+4703,Customer_04703,C&I,Tamil Nadu
+4704,Customer_04704,C&I,Tamil Nadu
+4705,Customer_04705,C&I,Gujarat
+4706,Customer_04706,PSU,Odisha
+4707,Customer_04707,Retail,Telangana
+4708,Customer_04708,IPP,Gujarat
+4709,Customer_04709,IPP,Telangana
+4710,Customer_04710,C&I,Madhya Pradesh
+4711,Customer_04711,IPP,Maharashtra
+4712,Customer_04712,PSU,Maharashtra
+4713,Customer_04713,C&I,Karnataka
+4714,Customer_04714,Retail,Maharashtra
+4715,Customer_04715,Retail,Tamil Nadu
+4716,Customer_04716,PSU,Rajasthan
+4717,Customer_04717,PSU,Odisha
+4718,Customer_04718,C&I,Kerala
+4719,Customer_04719,PSU,Madhya Pradesh
+4720,Customer_04720,PSU,Rajasthan
+4721,Customer_04721,C&I,Rajasthan
+4722,Customer_04722,C&I,Maharashtra
+4723,Customer_04723,IPP,Karnataka
+4724,Customer_04724,PSU,Karnataka
+4725,Customer_04725,IPP,Telangana
+4726,Customer_04726,C&I,Madhya Pradesh
+4727,Customer_04727,C&I,Karnataka
+4728,Customer_04728,C&I,Telangana
+4729,Customer_04729,C&I,Gujarat
+4730,Customer_04730,C&I,Odisha
+4731,Customer_04731,C&I,Andhra Pradesh
+4732,Customer_04732,C&I,Maharashtra
+4733,Customer_04733,IPP,Gujarat
+4734,Customer_04734,IPP,Tamil Nadu
+4735,Customer_04735,C&I,Maharashtra
+4736,Customer_04736,Retail,Andhra Pradesh
+4737,Customer_04737,IPP,Andhra Pradesh
+4738,Customer_04738,IPP,Telangana
+4739,Customer_04739,PSU,Odisha
+4740,Customer_04740,C&I,Karnataka
+4741,Customer_04741,C&I,Madhya Pradesh
+4742,Customer_04742,IPP,Telangana
+4743,Customer_04743,C&I,Maharashtra
+4744,Customer_04744,Retail,Andhra Pradesh
+4745,Customer_04745,C&I,Odisha
+4746,Customer_04746,Retail,Odisha
+4747,Customer_04747,IPP,Maharashtra
+4748,Customer_04748,PSU,Karnataka
+4749,Customer_04749,IPP,Maharashtra
+4750,Customer_04750,IPP,Kerala
+4751,Customer_04751,IPP,Tamil Nadu
+4752,Customer_04752,C&I,Karnataka
+4753,Customer_04753,C&I,Madhya Pradesh
+4754,Customer_04754,C&I,Rajasthan
+4755,Customer_04755,C&I,Telangana
+4756,Customer_04756,IPP,Maharashtra
+4757,Customer_04757,PSU,Telangana
+4758,Customer_04758,C&I,Telangana
+4759,Customer_04759,PSU,Odisha
+4760,Customer_04760,C&I,Maharashtra
+4761,Customer_04761,PSU,Telangana
+4762,Customer_04762,IPP,Rajasthan
+4763,Customer_04763,PSU,Andhra Pradesh
+4764,Customer_04764,Retail,Odisha
+4765,Customer_04765,PSU,Andhra Pradesh
+4766,Customer_04766,PSU,Maharashtra
+4767,Customer_04767,Retail,Odisha
+4768,Customer_04768,C&I,Tamil Nadu
+4769,Customer_04769,IPP,Tamil Nadu
+4770,Customer_04770,IPP,Tamil Nadu
+4771,Customer_04771,PSU,Andhra Pradesh
+4772,Customer_04772,Retail,Gujarat
+4773,Customer_04773,PSU,Karnataka
+4774,Customer_04774,C&I,Karnataka
+4775,Customer_04775,C&I,Andhra Pradesh
+4776,Customer_04776,IPP,Rajasthan
+4777,Customer_04777,PSU,Andhra Pradesh
+4778,Customer_04778,IPP,Odisha
+4779,Customer_04779,C&I,Maharashtra
+4780,Customer_04780,C&I,Odisha
+4781,Customer_04781,Retail,Kerala
+4782,Customer_04782,C&I,Karnataka
+4783,Customer_04783,IPP,Rajasthan
+4784,Customer_04784,IPP,Maharashtra
+4785,Customer_04785,C&I,Maharashtra
+4786,Customer_04786,IPP,Kerala
+4787,Customer_04787,C&I,Rajasthan
+4788,Customer_04788,C&I,Andhra Pradesh
+4789,Customer_04789,IPP,Madhya Pradesh
+4790,Customer_04790,C&I,Madhya Pradesh
+4791,Customer_04791,IPP,Andhra Pradesh
+4792,Customer_04792,PSU,Maharashtra
+4793,Customer_04793,C&I,Kerala
+4794,Customer_04794,PSU,Rajasthan
+4795,Customer_04795,IPP,Telangana
+4796,Customer_04796,C&I,Maharashtra
+4797,Customer_04797,C&I,Maharashtra
+4798,Customer_04798,Retail,Odisha
+4799,Customer_04799,IPP,Madhya Pradesh
+4800,Customer_04800,IPP,Gujarat
+4801,Customer_04801,C&I,Gujarat
+4802,Customer_04802,IPP,Andhra Pradesh
+4803,Customer_04803,PSU,Andhra Pradesh
+4804,Customer_04804,IPP,Kerala
+4805,Customer_04805,PSU,Madhya Pradesh
+4806,Customer_04806,C&I,Kerala
+4807,Customer_04807,PSU,Madhya Pradesh
+4808,Customer_04808,C&I,Tamil Nadu
+4809,Customer_04809,C&I,Tamil Nadu
+4810,Customer_04810,C&I,Tamil Nadu
+4811,Customer_04811,C&I,Andhra Pradesh
+4812,Customer_04812,IPP,Telangana
+4813,Customer_04813,C&I,Tamil Nadu
+4814,Customer_04814,C&I,Odisha
+4815,Customer_04815,Retail,Tamil Nadu
+4816,Customer_04816,C&I,Gujarat
+4817,Customer_04817,C&I,Rajasthan
+4818,Customer_04818,C&I,Telangana
+4819,Customer_04819,PSU,Madhya Pradesh
+4820,Customer_04820,C&I,Andhra Pradesh
+4821,Customer_04821,IPP,Madhya Pradesh
+4822,Customer_04822,PSU,Kerala
+4823,Customer_04823,C&I,Andhra Pradesh
+4824,Customer_04824,PSU,Madhya Pradesh
+4825,Customer_04825,IPP,Odisha
+4826,Customer_04826,Retail,Tamil Nadu
+4827,Customer_04827,C&I,Odisha
+4828,Customer_04828,PSU,Kerala
+4829,Customer_04829,IPP,Madhya Pradesh
+4830,Customer_04830,IPP,Rajasthan
+4831,Customer_04831,IPP,Odisha
+4832,Customer_04832,IPP,Madhya Pradesh
+4833,Customer_04833,IPP,Gujarat
+4834,Customer_04834,Retail,Odisha
+4835,Customer_04835,C&I,Telangana
+4836,Customer_04836,PSU,Karnataka
+4837,Customer_04837,IPP,Odisha
+4838,Customer_04838,C&I,Telangana
+4839,Customer_04839,C&I,Andhra Pradesh
+4840,Customer_04840,C&I,Maharashtra
+4841,Customer_04841,Retail,Madhya Pradesh
+4842,Customer_04842,C&I,Rajasthan
+4843,Customer_04843,Retail,Odisha
+4844,Customer_04844,C&I,Odisha
+4845,Customer_04845,PSU,Rajasthan
+4846,Customer_04846,PSU,Gujarat
+4847,Customer_04847,IPP,Maharashtra
+4848,Customer_04848,IPP,Karnataka
+4849,Customer_04849,PSU,Telangana
+4850,Customer_04850,C&I,Telangana
+4851,Customer_04851,C&I,Tamil Nadu
+4852,Customer_04852,Retail,Tamil Nadu
+4853,Customer_04853,PSU,Kerala
+4854,Customer_04854,C&I,Maharashtra
+4855,Customer_04855,C&I,Andhra Pradesh
+4856,Customer_04856,C&I,Rajasthan
+4857,Customer_04857,PSU,Rajasthan
+4858,Customer_04858,C&I,Andhra Pradesh
+4859,Customer_04859,Retail,Madhya Pradesh
+4860,Customer_04860,IPP,Gujarat
+4861,Customer_04861,Retail,Gujarat
+4862,Customer_04862,IPP,Rajasthan
+4863,Customer_04863,IPP,Karnataka
+4864,Customer_04864,PSU,Kerala
+4865,Customer_04865,IPP,Karnataka
+4866,Customer_04866,IPP,Gujarat
+4867,Customer_04867,PSU,Gujarat
+4868,Customer_04868,C&I,Tamil Nadu
+4869,Customer_04869,C&I,Maharashtra
+4870,Customer_04870,C&I,Tamil Nadu
+4871,Customer_04871,IPP,Karnataka
+4872,Customer_04872,C&I,Andhra Pradesh
+4873,Customer_04873,PSU,Tamil Nadu
+4874,Customer_04874,Retail,Gujarat
+4875,Customer_04875,C&I,Karnataka
+4876,Customer_04876,C&I,Telangana
+4877,Customer_04877,C&I,Gujarat
+4878,Customer_04878,Retail,Odisha
+4879,Customer_04879,C&I,Telangana
+4880,Customer_04880,Retail,Maharashtra
+4881,Customer_04881,C&I,Karnataka
+4882,Customer_04882,IPP,Andhra Pradesh
+4883,Customer_04883,PSU,Rajasthan
+4884,Customer_04884,C&I,Rajasthan
+4885,Customer_04885,C&I,Madhya Pradesh
+4886,Customer_04886,Retail,Tamil Nadu
+4887,Customer_04887,IPP,Madhya Pradesh
+4888,Customer_04888,C&I,Madhya Pradesh
+4889,Customer_04889,IPP,Kerala
+4890,Customer_04890,C&I,Madhya Pradesh
+4891,Customer_04891,C&I,Odisha
+4892,Customer_04892,C&I,Telangana
+4893,Customer_04893,C&I,Andhra Pradesh
+4894,Customer_04894,IPP,Andhra Pradesh
+4895,Customer_04895,C&I,Rajasthan
+4896,Customer_04896,C&I,Madhya Pradesh
+4897,Customer_04897,Retail,Tamil Nadu
+4898,Customer_04898,IPP,Tamil Nadu
+4899,Customer_04899,C&I,Karnataka
+4900,Customer_04900,PSU,Rajasthan
+4901,Customer_04901,C&I,Tamil Nadu
+4902,Customer_04902,IPP,Andhra Pradesh
+4903,Customer_04903,PSU,Karnataka
+4904,Customer_04904,PSU,Maharashtra
+4905,Customer_04905,C&I,Odisha
+4906,Customer_04906,C&I,Kerala
+4907,Customer_04907,PSU,Tamil Nadu
+4908,Customer_04908,Retail,Kerala
+4909,Customer_04909,C&I,Kerala
+4910,Customer_04910,PSU,Odisha
+4911,Customer_04911,PSU,Andhra Pradesh
+4912,Customer_04912,IPP,Madhya Pradesh
+4913,Customer_04913,C&I,Tamil Nadu
+4914,Customer_04914,Retail,Karnataka
+4915,Customer_04915,C&I,Karnataka
+4916,Customer_04916,C&I,Madhya Pradesh
+4917,Customer_04917,Retail,Maharashtra
+4918,Customer_04918,C&I,Andhra Pradesh
+4919,Customer_04919,PSU,Tamil Nadu
+4920,Customer_04920,IPP,Telangana
+4921,Customer_04921,C&I,Tamil Nadu
+4922,Customer_04922,C&I,Kerala
+4923,Customer_04923,C&I,Rajasthan
+4924,Customer_04924,C&I,Rajasthan
+4925,Customer_04925,PSU,Telangana
+4926,Customer_04926,PSU,Karnataka
+4927,Customer_04927,C&I,Maharashtra
+4928,Customer_04928,Retail,Tamil Nadu
+4929,Customer_04929,IPP,Telangana
+4930,Customer_04930,C&I,Tamil Nadu
+4931,Customer_04931,IPP,Maharashtra
+4932,Customer_04932,IPP,Odisha
+4933,Customer_04933,Retail,Gujarat
+4934,Customer_04934,IPP,Kerala
+4935,Customer_04935,C&I,Andhra Pradesh
+4936,Customer_04936,PSU,Rajasthan
+4937,Customer_04937,C&I,Telangana
+4938,Customer_04938,IPP,Madhya Pradesh
+4939,Customer_04939,PSU,Madhya Pradesh
+4940,Customer_04940,C&I,Tamil Nadu
+4941,Customer_04941,IPP,Odisha
+4942,Customer_04942,C&I,Tamil Nadu
+4943,Customer_04943,C&I,Tamil Nadu
+4944,Customer_04944,C&I,Madhya Pradesh
+4945,Customer_04945,PSU,Karnataka
+4946,Customer_04946,C&I,Madhya Pradesh
+4947,Customer_04947,C&I,Kerala
+4948,Customer_04948,IPP,Kerala
+4949,Customer_04949,PSU,Kerala
+4950,Customer_04950,IPP,Telangana
+4951,Customer_04951,C&I,Telangana
+4952,Customer_04952,C&I,Karnataka
+4953,Customer_04953,C&I,Karnataka
+4954,Customer_04954,C&I,Gujarat
+4955,Customer_04955,Retail,Rajasthan
+4956,Customer_04956,PSU,Telangana
+4957,Customer_04957,PSU,Odisha
+4958,Customer_04958,C&I,Telangana
+4959,Customer_04959,IPP,Gujarat
+4960,Customer_04960,IPP,Maharashtra
+4961,Customer_04961,IPP,Maharashtra
+4962,Customer_04962,IPP,Andhra Pradesh
+4963,Customer_04963,C&I,Rajasthan
+4964,Customer_04964,IPP,Tamil Nadu
+4965,Customer_04965,Retail,Madhya Pradesh
+4966,Customer_04966,IPP,Andhra Pradesh
+4967,Customer_04967,PSU,Telangana
+4968,Customer_04968,C&I,Maharashtra
+4969,Customer_04969,IPP,Madhya Pradesh
+4970,Customer_04970,IPP,Telangana
+4971,Customer_04971,Retail,Gujarat
+4972,Customer_04972,Retail,Maharashtra
+4973,Customer_04973,C&I,Gujarat
+4974,Customer_04974,C&I,Kerala
+4975,Customer_04975,IPP,Telangana
+4976,Customer_04976,C&I,Kerala
+4977,Customer_04977,C&I,Odisha
+4978,Customer_04978,IPP,Maharashtra
+4979,Customer_04979,IPP,Maharashtra
+4980,Customer_04980,IPP,Karnataka
+4981,Customer_04981,IPP,Rajasthan
+4982,Customer_04982,Retail,Andhra Pradesh
+4983,Customer_04983,Retail,Andhra Pradesh
+4984,Customer_04984,IPP,Tamil Nadu
+4985,Customer_04985,C&I,Telangana
+4986,Customer_04986,PSU,Maharashtra
+4987,Customer_04987,C&I,Rajasthan
+4988,Customer_04988,C&I,Tamil Nadu
+4989,Customer_04989,Retail,Gujarat
+4990,Customer_04990,Retail,Rajasthan
+4991,Customer_04991,C&I,Telangana
+4992,Customer_04992,PSU,Madhya Pradesh
+4993,Customer_04993,C&I,Telangana
+4994,Customer_04994,IPP,Andhra Pradesh
+4995,Customer_04995,C&I,Madhya Pradesh
+4996,Customer_04996,IPP,Andhra Pradesh
+4997,Customer_04997,C&I,Telangana
+4998,Customer_04998,IPP,Kerala
+4999,Customer_04999,PSU,Andhra Pradesh
+5000,Customer_05000,Retail,Madhya Pradesh
